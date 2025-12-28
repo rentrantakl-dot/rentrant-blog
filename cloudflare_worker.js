@@ -25,23 +25,28 @@ export default {
             // Construct the new URL
             const targetUrl = `https://${ORIGIN_HOST}${newPath}${url.search}`;
 
-            // console.log(`Proxying ${url.pathname} to ${targetUrl}`);
-
             // Create a modified request
             const modifiedRequest = new Request(targetUrl, {
                 method: request.method,
                 headers: request.headers,
                 body: request.body,
-                redirect: 'follow'
+                redirect: 'manual' // Let the worker handle redirects if needed
             });
 
-            // Set the proper Host header for GitHub Pages
+            // KEY FIX: GitHub Pages requires the Host header to match the custom domain or github.io domain
             modifiedRequest.headers.set('Host', ORIGIN_HOST);
+
+            // Remove headers that might confuse the origin
+            modifiedRequest.headers.delete('Referer');
 
             try {
                 const response = await fetch(modifiedRequest);
 
-                // If GitHub returns a 404, we might want to serve a custom 404 or just forward it
+                // Check for 404 from GitHub
+                if (response.status === 404) {
+                    return new Response('Blog post not found on GitHub origin.', { status: 404 });
+                }
+
                 return response;
             } catch (e) {
                 return new Response('Error fetching from blog origin: ' + e.message, { status: 500 });
