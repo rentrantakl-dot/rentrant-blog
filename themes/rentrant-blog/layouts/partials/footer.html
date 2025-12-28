@@ -1,0 +1,29 @@
+<footer class="footer">
+    <div class="container">
+        <div class="footer-content">
+            {{/* Brand column */}}
+            <div>
+                <div class="footer-brand">{{ .Site.Title }}</div>
+                <p class="footer-tagline">{{ .Site.Params.tagline | default "The truth about that flat you're eyeing."
+                    }}</p>
+            </div>
+
+            {{/* Footer navigation */}}
+            {{ if .Site.Menus.footer }}
+            <nav>
+                <ul class="footer-nav">
+                    {{ range .Site.Menus.footer }}
+                    <li>
+                        <a href="{{ .URL }}" class="footer-link">{{ .Name }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </nav>
+            {{ end }}
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} {{ .Site.Title }}. Made with 💙 in Aotearoa.</p>
+        </div>
+    </div>
+</footer>

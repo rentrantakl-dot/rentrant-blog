@@ -1,0 +1,25 @@
+{{/* Post metadata: author, date, reading time */}}
+<div class="post-meta">
+    {{/* Date */}}
+    {{ with .Date }}
+    <time datetime="{{ .Format " 2006-01-02" }}">
+        {{ .Format "2 January 2006" }}
+    </time>
+    {{ end }}
+
+    {{/* Divider */}}
+    {{ if and .Date .ReadingTime }}
+    <span class="post-meta-divider"></span>
+    {{ end }}
+
+    {{/* Reading time */}}
+    {{ with .ReadingTime }}
+    <span class="reading-time">{{ . }} min read</span>
+    {{ end }}
+
+    {{/* Author (if set) */}}
+    {{ with .Params.author }}
+    <span class="post-meta-divider"></span>
+    <span>by {{ . }}</span>
+    {{ end }}
+</div>

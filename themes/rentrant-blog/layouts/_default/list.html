@@ -1,0 +1,80 @@
+{{ define "main" }}
+<div class="container">
+    {{/* Page header */}}
+    <div class="page-header">
+        <h1 class="page-title text-gradient">{{ .Title }}</h1>
+        {{ if .Description }}
+        <p class="page-description">{{ .Description }}</p>
+        {{ else if eq .Title "Posts" }}
+        <p class="page-description">All the good stuff. Tips, updates, and insights for Kiwi renters.</p>
+        {{ end }}
+    </div>
+
+    {{/* Posts grid */}}
+    {{ $pages := .Pages }}
+    {{ if .IsHome }}
+    {{ $pages = where .Site.RegularPages "Type" "posts" }}
+    {{ end }}
+
+    {{ if $pages }}
+    <div class="post-grid">
+        {{ range $pages }}
+        <article class="post-card">
+            <div class="post-card-gradient"></div>
+            <div class="post-card-body">
+                <h2 class="post-card-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h2>
+                <p class="post-card-excerpt">
+                    {{ .Summary | plainify | truncate 150 }}
+                </p>
+
+                {{/* Tags */}}
+                {{ with .Params.tags }}
+                <div class="tags mb-4">
+                    {{ range . }}
+                    <a href='{{ "tags/" | relURL }}{{ . | urlize }}/' class="tag">{{ . }}</a>
+                    {{ end }}
+                </div>
+                {{ end }}
+
+                <div class="post-card-meta">
+                    <time datetime="{{ .Date.Format " 2006-01-02" }}">
+                        {{ .Date.Format "2 Jan 2006" }}
+                    </time>
+                    <span>·</span>
+                    <span>{{ .ReadingTime }} min read</span>
+                </div>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+    {{ else }}
+    {{/* Empty state */}}
+    <div class="text-center" style="padding: 4rem 0;">
+        <div class="card" style="max-width: 32rem; margin: 0 auto;">
+            <div class="card-header-gradient"></div>
+            <div class="card-body">
+                <h2>Nothing here yet</h2>
+                <p class="text-muted">We're still working on this. Check back soon, mate.</p>
+                <a href="{{ .Site.BaseURL }}" class="btn btn-primary mt-4">Head back home</a>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+
+    {{/* Pagination */}}
+    {{ if .Paginator }}
+    {{ if gt .Paginator.TotalPages 1 }}
+    <nav class="text-center mt-8" aria-label="Pagination">
+        {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="btn btn-secondary">← Newer posts</a>
+        {{ end }}
+        {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="btn btn-secondary">Older posts →</a>
+        {{ end }}
+    </nav>
+    {{ end }}
+    {{ end }}
+</div>
+{{ end }}

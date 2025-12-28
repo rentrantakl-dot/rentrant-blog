@@ -1,0 +1,879 @@
+# RentRant Design System & Style Guide
+# Comprehensive design tokens, components, voice, and implementation patterns
+# Generated from codebase analysis: 2025-12-28
+
+style_guide:
+  metadata:
+    project_name: "RentRant"
+    version: "1.0"
+    last_updated: "2025-12-28"
+    description: "Privacy-first rental insights platform for New Zealand renters"
+    tagline: "The truth about that flat you're eyeing."
+    target_region: "Auckland, NZ (Beta)"
+
+  brand_identity:
+    persona:
+      description: |
+        RentRant is a trustworthy mate who helps you avoid rental disasters. 
+        It's the honest friend who tells you the shower pressure sucks before you sign.
+        Approachable, no-nonsense, and unmistakably Kiwi.
+      personality_traits:
+        - Honest and direct (no corporate fluff)
+        - Self-deprecating and humble
+        - Helpful without being preachy
+        - Privacy-conscious and trustworthy
+        - Locally-rooted (NZ identity)
+        - Slightly cheeky but never mean
+      values:
+        - Privacy first - individual data is always protected
+        - Structured data over free text (no moderation burden, no defamation risk)
+        - Transparency and honest insights
+        - Mobile-first, fast experience
+        - Community-driven but quality-controlled
+      target_audience: "Renters in New Zealand looking for honest rental property insights before signing leases"
+
+    voice:
+      characteristics:
+        - Conversational but not unprofessional
+        - Uses Kiwi/NZ slang naturally
+        - Direct and action-oriented
+        - Self-aware (acknowledges it's a work in progress)
+        - Warm without being saccharine
+      tone_spectrum:
+        formal_to_casual: "casual-professional"
+        serious_to_playful: "playful with substance"
+        respectful_to_irreverent: "irreverent but kind"
+        matter_of_fact_to_enthusiastic: "enthusiastic but grounded"
+      dos:
+        - Use NZ slang naturally ("sweet as", "yeah nah", "mate", "reckon", "nosey")
+        - Be direct about what something does
+        - Keep sentences short and punchy
+        - Use humor to soften errors and friction
+        - Acknowledge the user's pain points (bad rentals, surprise mould, dodgy landlords)
+        - Make CTAs feel like friendly suggestions
+      donts:
+        - Sound corporate or formal
+        - Use jargon or buzzwords
+        - Be condescending or preachy
+        - Overpromise or exaggerate
+        - Use humor that punches down
+        - Sound American (avoid American slang/spelling)
+
+    writing_style:
+      sentence_structure: "Short and punchy. One idea per sentence. Occasional fragments for emphasis."
+      vocabulary_level: "Conversational, everyday language with NZ flavor"
+      preferred_terms:
+        - "flat" (not "apartment" or "unit")
+        - "mate" (casual address)
+        - "reckon" (instead of "think" or "believe")
+        - "nosey" (instead of "browse" or "explore")
+        - "spill the tea" (share honest feedback)
+        - "sweet" / "sweet as" (success/good)
+        - "rant" (review/feedback - playful)
+        - "dodgy" (problematic)
+        - "munted" (broken/messed up)
+      avoided_terms:
+        - Corporate buzzwords ("leverage", "synergy", "optimize")
+        - American spellings and slang
+        - Overly formal language
+        - Technical jargon without context
+        - Passive voice when active is clearer
+      grammar_conventions:
+        - Sentence case for headings (not Title Case)
+        - Contractions are encouraged (you're, we've, it's)
+        - Oxford comma: optional, be consistent
+        - Sentence fragments OK for emphasis
+      punctuation_style: |
+        - Periods: Use them. Keep things short.
+        - Exclamation marks: Sparingly, for genuine enthusiasm
+        - Question marks: Use in headings to engage ("What's the story here?")
+        - Emojis: Minimal, subtle (🚀 for future features is OK)
+
+    messaging_patterns:
+      headings:
+        style: "Question-based or benefit-focused, conversational tone"
+        examples:
+          - "What's the story here?"
+          - "Why we're different"
+          - "How It Works"
+          - "It's time to be honest."
+          - "The Verdict"
+          - "The Timeline"
+          - "Reckon we missed something?"
+      ctas:
+        style: "Action verbs with personality, friendly imperatives"
+        examples:
+          - "Join the crew" (signup)
+          - "Sign in" (login)
+          - "Go have a nosey" (explore)
+          - "Post it" (submit rating)
+          - "Nah, never mind" (cancel)
+          - "Head back home" (return home)
+          - "Spill the tea" (rate property)
+          - "Lived here? Settle the score." (rate CTA)
+          - "Save a soul. Search above to drop a review." (encourage rating)
+          - "Learn More About Our Rating Process"
+          - "Scope it on Maps" (view on map)
+          - "+ Add it to the list" (add suggestion)
+      errors:
+        tone: "Self-deprecating, helpful, never blaming the user"
+        structure: |
+          1. Acknowledge the problem with humor
+          2. Explain simply what went wrong (if helpful)
+          3. Provide clear action to resolve
+        examples:
+          - title: "She's Munted (500)"
+            heading: "We've lost our bearings."
+            body: "Something's gone wrong in the engine room. We probably need to ask for directions. Give us a minute to sort it out."
+            cta: "Head back home"
+          - title: "Lost as, mate (404)"
+            heading: "You're miles off."
+            body: "We've looked everywhere—even Bluff—but we can't find that page. You might be a bit lost."
+            cta: "Head back home"
+          - title: "Form validation"
+            heading: "Hang on, fix these bits (please):"
+      success_messages:
+        tone: "Celebratory but brief, Kiwi slang encouraged"
+        examples:
+          - "Sweet, you're in." (login success)
+          - "Sweet, your email is confirmed." (email confirmed)
+          - "Catch you later." (logout)
+          - "Welcome to the crew! You're officially a Renter (and maybe a ranter :))." (signup)
+          - "Account updated. Sweet as." (update success)
+          - "Password changed. You're back in business."
+          - "Sweet, signed in with Google." (OAuth success)
+          - "Haere rā! Account cancelled. We'll miss you." (account deletion - uses Māori goodbye)
+      help_text:
+        style: "Brief, practical, sometimes cheeky"
+        examples:
+          - "Optional. We just like to be friendly." (name field)
+          - "At least 6 characters" (password requirement)
+          - "Leave blank if you're still stuck there" (move-out date)
+          - "The basics (just to keep things legit)." (tenancy section)
+          - "What's the vibe?" (overall rating)
+          - "The specific stuff that matters." (detailed ratings)
+          - "Keep it short and sweet (2-100 characters)"
+          - "If it's important, we want to know about it."
+      empty_states:
+        approach: "Encouraging, opportunity-focused, light humor"
+        examples:
+          - heading: "No rating history yet"
+            body: "Zero ratings so far. You could be the first."
+            cta: "Spill the tea"
+          - heading: "Trend data building..."
+            body: "We need more ratings over time to generate historical trends."
+      loading_states:
+        examples:
+          - "Searching..."
+          - "Loading..."
+      authentication_messages:
+        examples:
+          - "You're already signed in, mate." (already authenticated)
+          - "Yeah, nah. That login didn't work." (invalid credentials)
+          - "Careful, you've got one more shot before we lock the account." (last attempt)
+          - "Hold up, you need to be signed in for that." (unauthenticated)
+          - "Session expired. Log in again to carry on."
+          - "IMPORTANT: Check your email! Click the link to activate your account."
+          - "Welcome back, stranger." (login page greeting)
+          - "Spill the tea on your flat. Anonymously." (signup page greeting)
+
+  design_tokens:
+    colors:
+      primary:
+        - name: "blue-600"
+          value: "#2563EB"
+          usage: "Primary actions, links, focus states, brand accent"
+        - name: "blue-700"
+          value: "#1D4ED8"
+          usage: "Hover states for primary buttons"
+        - name: "blue-500"
+          value: "#3B82F6"
+          usage: "Progress bars, decorative elements"
+        - name: "blue-100"
+          value: "#DBEAFE"
+          usage: "Focus rings, subtle backgrounds"
+        - name: "blue-50"
+          value: "#EFF6FF"
+          usage: "Feature cards, light backgrounds"
+      secondary:
+        - name: "purple-600"
+          value: "#9333EA"
+          usage: "Gradient accent, admin actions"
+        - name: "purple-100"
+          value: "#F3E8FF"
+          usage: "Beta badges, accent backgrounds"
+        - name: "purple-50"
+          value: "#FAF5FF"
+          usage: "Feature card backgrounds"
+        - name: "pink-600"
+          value: "#DB2777"
+          usage: "Gradient accent terminus"
+        - name: "pink-50"
+          value: "#FDF2F8"
+          usage: "Feature card backgrounds"
+        - name: "indigo-50"
+          value: "#EEF2FF"
+          usage: "Feature card backgrounds, suggestion sections"
+      neutral:
+        - name: "gray-900"
+          value: "#111827"
+          usage: "Headings, primary text, dark buttons"
+        - name: "gray-700"
+          value: "#374151"
+          usage: "Body text, labels"
+        - name: "gray-600"
+          value: "#4B5563"
+          usage: "Secondary text, descriptions"
+        - name: "gray-500"
+          value: "#6B7280"
+          usage: "Muted text, placeholders, help text"
+        - name: "gray-400"
+          value: "#9CA3AF"
+          usage: "Icons, disabled states"
+        - name: "gray-300"
+          value: "#D1D5DB"
+          usage: "Borders, dividers"
+        - name: "gray-200"
+          value: "#E5E7EB"
+          usage: "Subtle borders, range track"
+        - name: "gray-100"
+          value: "#F3F4F6"
+          usage: "Card borders, subtle backgrounds, badges"
+        - name: "gray-50"
+          value: "#F9FAFB"
+          usage: "Page backgrounds, stat bars"
+        - name: "white"
+          value: "#FFFFFF"
+          usage: "Card backgrounds, input backgrounds"
+      semantic:
+        - name: "green-600"
+          value: "#16A34A"
+          usage: "Positive trends, success indicators"
+        - name: "green-500"
+          value: "#22C55E"
+          usage: "Success alert borders"
+        - name: "green-100"
+          value: "#DCFCE7"
+          usage: "Success alert backgrounds"
+        - name: "red-600"
+          value: "#DC2626"
+          usage: "Negative trends, destructive actions, sign out"
+        - name: "red-500"
+          value: "#EF4444"
+          usage: "Error alert borders"
+        - name: "red-100"
+          value: "#FEE2E2"
+          usage: "Error alert backgrounds"
+        - name: "red-50"
+          value: "#FEF2F2"
+          usage: "Error/validation backgrounds"
+        - name: "amber-700"
+          value: "#B45309"
+          usage: "Beta badge text"
+        - name: "amber-300"
+          value: "#FCD34D"
+          usage: "Beta badge border"
+        - name: "amber-100"
+          value: "#FEF3C7"
+          usage: "Beta badge background"
+      gradients:
+        - name: "brand-gradient"
+          value: "bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600"
+          usage: "Brand text (with bg-clip-text text-transparent), CTAs"
+        - name: "page-gradient"
+          value: "bg-gradient-to-br from-blue-50 via-white to-purple-50"
+          usage: "Page backgrounds"
+        - name: "card-header-gradient"
+          value: "bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500"
+          usage: "Decorative card headers (2px height)"
+        - name: "footer-icon-gradient"
+          value: "bg-gradient-to-br from-blue-600 to-purple-600"
+          usage: "Footer brand icon background"
+
+    typography:
+      font_families:
+        - name: "System Stack"
+          stack: "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif"
+          usage: "All text (default Tailwind sans stack)"
+      sizes:
+        - name: "7xl"
+          value: "4.5rem (72px)"
+          usage: "Home page brand title (mobile: 6xl)"
+        - name: "6xl"
+          value: "3.75rem (60px)"
+          usage: "Hero titles (home page brand on mobile)"
+        - name: "5xl"
+          value: "3rem (48px)"
+          usage: "Large page titles (about page heading), overall score display"
+        - name: "4xl"
+          value: "2.25rem (36px)"
+          usage: "Auth page brand, location page main heading"
+        - name: "3xl"
+          value: "1.875rem (30px)"
+          usage: "Section headings, error page headings, stat values"
+        - name: "2xl"
+          value: "1.5rem (24px)"
+          usage: "Card score values, stat numbers"
+        - name: "xl"
+          value: "1.25rem (20px)"
+          usage: "Section subheadings, feature titles, footer brand"
+        - name: "lg"
+          value: "1.125rem (18px)"
+          usage: "Lead paragraphs, larger body text, modal titles"
+        - name: "base"
+          value: "1rem (16px)"
+          usage: "Body text, form labels, button text"
+        - name: "sm"
+          value: "0.875rem (14px)"
+          usage: "Secondary text, help text, smaller buttons, dropdown items"
+        - name: "xs"
+          value: "0.75rem (12px)"
+          usage: "Caption text, badges, meta information, uppercase labels"
+        - name: "10px"
+          value: "0.625rem (10px)"
+          usage: "Beta badge text (custom size)"
+      weights:
+        - name: "extrabold (800)"
+          usage: "Brand name, hero titles, page headings"
+        - name: "bold (700)"
+          usage: "Section headings, feature titles, stat values, score values"
+        - name: "semibold (600)"
+          usage: "Button text, card titles, navigation links, group headings"
+        - name: "medium (500)"
+          usage: "Labels, interactive elements, nav links"
+        - name: "normal (400)"
+          usage: "Body text, descriptions"
+        - name: "light (300)"
+          usage: "Hero subtitles, taglines"
+      line_heights:
+        - name: "relaxed"
+          value: "1.625"
+          usage: "Body paragraphs, descriptions"
+        - name: "normal"
+          value: "1.5"
+          usage: "Default text, error messages"
+        - name: "tight"
+          value: "1.25"
+          usage: "Headings, compact text"
+      special_styles:
+        - name: "antialiased"
+          usage: "Applied to body for smoother font rendering"
+        - name: "uppercase tracking-wider"
+          usage: "Section labels ('THE VERDICT', 'PREVIOUS TENANTS')"
+        - name: "truncate / line-clamp-2"
+          usage: "Text overflow handling"
+
+    spacing:
+      scale:
+        - name: "0.5"
+          value: "0.125rem (2px)"
+          usage: "Minimal gaps"
+        - name: "1"
+          value: "0.25rem (4px)"
+          usage: "Tiny spacing"
+        - name: "1.5"
+          value: "0.375rem (6px)"
+          usage: "Badge gaps, small margins"
+        - name: "2"
+          value: "0.5rem (8px)"
+          usage: "Tight gaps, small padding"
+        - name: "3"
+          value: "0.75rem (12px)"
+          usage: "Standard gaps, form field margins"
+        - name: "4"
+          value: "1rem (16px)"
+          usage: "Standard padding, gaps, page padding"
+        - name: "5"
+          value: "1.25rem (20px)"
+          usage: "Card padding"
+        - name: "6"
+          value: "1.5rem (24px)"
+          usage: "Section padding, larger gaps"
+        - name: "8"
+          value: "2rem (32px)"
+          usage: "Section margins, large padding"
+        - name: "10"
+          value: "2.5rem (40px)"
+          usage: "Header card padding"
+        - name: "12"
+          value: "3rem (48px)"
+          usage: "Hero spacing, footer padding, empty state padding"
+        - name: "16"
+          value: "4rem (64px)"
+          usage: "Page section margins"
+      usage_guidelines: |
+        - Use 4 (1rem/16px) as the base unit
+        - Page padding: px-4 (mobile), sm:px-6, lg:px-8
+        - Section spacing: space-y-8 (32px between major sections)
+        - Form field spacing: space-y-6 (24px between fields)
+        - Card internal padding: p-5 to p-8 depending on context
+        - Container max-widths: max-w-7xl (main nav), max-w-5xl (location pages), max-w-4xl (content pages), max-w-3xl (forms), max-w-2xl (search), max-w-md (auth cards)
+
+    borders:
+      radius:
+        - name: "rounded-full"
+          value: "9999px"
+          usage: "Pills, search inputs, primary CTAs, badges, avatars"
+        - name: "rounded-2xl"
+          value: "1rem (16px)"
+          usage: "Large cards, auth containers, section cards"
+        - name: "rounded-xl"
+          value: "0.75rem (12px)"
+          usage: "Feature cards, modals, detail cards"
+        - name: "rounded-lg"
+          value: "0.5rem (8px)"
+          usage: "Buttons, form inputs, smaller cards, dropdowns"
+        - name: "rounded-md"
+          value: "0.375rem (6px)"
+          usage: "Small buttons, action buttons"
+        - name: "rounded"
+          value: "0.25rem (4px)"
+          usage: "Checkboxes, small elements"
+      widths:
+        - name: "border"
+          value: "1px"
+          usage: "Default borders (cards, inputs)"
+        - name: "border-2"
+          value: "2px"
+          usage: "Search input (focused), table headers"
+        - name: "border-b-4 border-l-4"
+          value: "4px"
+          usage: "Alert accent borders"
+      colors:
+        - name: "border-gray-100"
+          usage: "Subtle card borders, dividers"
+        - name: "border-gray-200"
+          usage: "Standard borders, stat bar separators"
+        - name: "border-gray-300"
+          usage: "Form input borders, OAuth button borders"
+        - name: "border-blue-100"
+          usage: "Suggestion section borders"
+        - name: "border-blue-500"
+          usage: "Focus states"
+
+    shadows:
+      - name: "shadow-sm"
+        value: "0 1px 2px 0 rgb(0 0 0 / 0.05)"
+        usage: "Cards, form inputs, subtle elevation"
+      - name: "shadow-md"
+        value: "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)"
+        usage: "Buttons, elevated cards"
+      - name: "shadow-lg"
+        value: "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)"
+        usage: "Dropdowns, hover states, search input"
+      - name: "shadow-xl"
+        value: "0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)"
+        usage: "Auth cards, main content cards, search box container"
+      - name: "shadow-2xl"
+        value: "0 25px 50px -12px rgb(0 0 0 / 0.25)"
+        usage: "Hero CTAs hover, prominent elements"
+
+    breakpoints:
+      - name: "sm"
+        value: "640px"
+        usage: "Small tablets, landscape phones"
+      - name: "md"
+        value: "768px"
+        usage: "Tablets, show/hide navigation elements"
+      - name: "lg"
+        value: "1024px"
+        usage: "Laptops, desktop layouts"
+      - name: "Approach"
+        value: "Mobile-first"
+        usage: "All base styles are mobile, then enhanced with sm:, md:, lg: prefixes"
+
+  components:
+    - name: "Primary Button"
+      variants:
+        - "Solid (default)"
+        - "Full-width"
+        - "With icon"
+      states:
+        - "Default"
+        - "Hover (bg-blue-700, shadow-lg)"
+        - "Focus (ring-4 ring-blue-100)"
+        - "Disabled"
+      props_or_options:
+        - "Size: py-3 px-4 to px-8 (larger for CTAs)"
+        - "Shape: rounded-lg (forms) or rounded-full (hero CTAs)"
+      code_example: |
+        <button class="px-8 py-3 bg-blue-600 text-white font-medium rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-100 transition-all cursor-pointer shadow-md hover:shadow-lg">
+          Post it
+        </button>
+      visual_description: "Blue solid button with white text, subtle shadow, rounded corners. Darkens on hover."
+      usage_guidelines: "Use for primary actions (submit forms, main CTAs). Full-width in forms, inline elsewhere."
+      accessibility_notes: "Ensure sufficient color contrast. Include focus ring for keyboard navigation."
+      default_copy_pattern: "Action verb phrases: 'Sign in', 'Join the crew', 'Post it', 'Go have a nosey'"
+
+    - name: "Secondary Button"
+      variants:
+        - "Outlined"
+        - "Ghost/text"
+      states:
+        - "Default (border-gray-300, text-gray-700)"
+        - "Hover (bg-gray-50)"
+        - "Focus (ring-2 ring-offset-2 ring-blue-500)"
+      code_example: |
+        <a class="inline-flex items-center justify-center px-6 py-3 border border-gray-300 shadow-sm text-base font-medium rounded-lg text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+          Nah, never mind
+        </a>
+      visual_description: "White background with gray border, gray text. Subtle gray on hover."
+      usage_guidelines: "Use for secondary/cancel actions. Pair with primary button."
+      default_copy_pattern: "Dismissive/casual: 'Nah, never mind', 'Head back home'"
+
+    - name: "Gradient CTA Button"
+      variants:
+        - "Pill (rounded-full)"
+        - "With hover scale effect"
+      code_example: |
+        <a class="inline-block px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white text-lg font-semibold rounded-full hover:shadow-2xl transition-all transform hover:scale-105">
+          Go have a nosey
+          <svg class="inline-block h-5 w-5 ml-2">...</svg>
+        </a>
+      visual_description: "Gradient blue-to-purple pill button with white text, grows slightly on hover."
+      usage_guidelines: "Reserve for hero CTAs and important marketing actions."
+      default_copy_pattern: "Friendly invitations with personality"
+
+    - name: "Form Input"
+      variants:
+        - "Text input"
+        - "Email input"
+        - "Password input"
+        - "Number input"
+        - "Date input"
+        - "Select dropdown"
+        - "Textarea"
+      states:
+        - "Default (border-gray-300)"
+        - "Focus (ring-2 ring-blue-500, border-blue-500)"
+        - "Error"
+        - "Disabled"
+      code_example: |
+        <input type="email" 
+               class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all outline-none"
+               placeholder="you@example.com">
+      visual_description: "White background, gray border, rounded corners. Blue ring on focus."
+      usage_guidelines: "Labels above inputs. Help text below in gray-500 xs text."
+      accessibility_notes: "Always include labels. Use placeholder for examples, not labels."
+
+    - name: "Search Input"
+      variants:
+        - "Hero search (rounded-full, large)"
+      code_example: |
+        <input class="w-full pl-14 pr-6 py-4 text-lg border-2 border-gray-200 rounded-full shadow-lg hover:shadow-xl focus:shadow-2xl focus:border-blue-500 focus:ring-4 focus:ring-blue-100 transition-all duration-200 outline-none"
+               placeholder="Where are you looking? (e.g. 2/599 Glenfield Road)">
+      visual_description: "Large, rounded-full input with search icon left, prominent shadow. Expands shadow on focus."
+      usage_guidelines: "Use for primary search functionality only."
+
+    - name: "Card"
+      variants:
+        - "Content card (rounded-2xl, shadow-xl)"
+        - "List card (rounded-xl, shadow-sm)"
+        - "Feature card (colored background)"
+        - "Stat card"
+      code_example: |
+        <div class="bg-white rounded-2xl shadow-xl p-8 border border-gray-100">
+          <!-- content -->
+        </div>
+      visual_description: "White background, large rounded corners, subtle border, significant shadow."
+      usage_guidelines: "Use for content grouping. Feature cards can have colored backgrounds (blue-50, purple-50, etc.)"
+
+    - name: "Location Card"
+      code_example: |
+        <article class="bg-white rounded-xl shadow-sm hover:shadow-lg transition-all duration-200 border border-gray-100 overflow-hidden h-full flex flex-col">
+          <div class="h-2 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500"></div>
+          <div class="p-5 flex-1 flex flex-col">
+            <!-- Address, score, badges -->
+          </div>
+        </article>
+      visual_description: "White card with 2px gradient header bar, grows shadow on hover."
+      usage_guidelines: "Used for property listings in search results."
+
+    - name: "Alert/Notification"
+      variants:
+        - "Success (green)"
+        - "Error (red)"
+        - "Warning"
+      code_example: |
+        <div class="bg-green-100 border-l-4 border-green-500 text-green-700 p-4 mb-4" role="alert">
+          <p>Sweet, you're in.</p>
+        </div>
+      visual_description: "Colored background with darker left border accent."
+      usage_guidelines: "Use for flash messages after actions. Keep copy brief and friendly."
+
+    - name: "Badge/Pill"
+      variants:
+        - "Beta badge (amber)"
+        - "Postcode badge (gray)"
+        - "Aspect badge"
+      code_example: |
+        <span class="ml-1.5 px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wider bg-amber-100 text-amber-700 rounded border border-amber-300">
+          Beta
+        </span>
+      visual_description: "Small pill with colored background, matching border, uppercase text."
+      usage_guidelines: "Use sparingly for status indicators and metadata."
+
+    - name: "Navbar"
+      code_example: |
+        <nav class="bg-white/80 backdrop-blur-sm border-b border-gray-100 sticky top-0 z-50">
+      visual_description: "Semi-transparent white with blur effect, subtle bottom border, sticky positioning."
+      usage_guidelines: "Contains brand logo (gradient text), navigation links, user menu."
+
+    - name: "Dropdown Menu"
+      code_example: |
+        <div class="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg py-1 border border-gray-200 z-50">
+      visual_description: "White popover with shadow, rounded corners, appears on click."
+      usage_guidelines: "Use Stimulus 'dropdown' controller for toggle behavior."
+
+    - name: "Modal"
+      code_example: |
+        <div class="relative transform overflow-hidden rounded-xl bg-white text-left shadow-xl transition-all sm:my-8 sm:w-full sm:max-w-lg">
+      visual_description: "Centered white container with shadow, gray backdrop overlay."
+      usage_guidelines: "Use for aspect picker, confirmations. Include close button."
+
+    - name: "Range Slider"
+      variants:
+        - "Rating slider (0-10)"
+      code_example: |
+        <input type="range" min="0" max="10" step="1" 
+               class="w-full h-3 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-blue-600">
+      visual_description: "Gray track with blue accent for thumb/filled portion."
+      usage_guidelines: "Always pair with visible output element showing current value."
+
+    - name: "Progress Bar"
+      code_example: |
+        <div class="relative h-2 bg-gray-100 rounded-full overflow-hidden">
+          <div class="absolute top-0 left-0 h-full bg-blue-500 rounded-full transition-all duration-500" style="width: 75%"></div>
+        </div>
+      visual_description: "Gray track with blue fill, rounded ends."
+      usage_guidelines: "Use for rating display visualization."
+
+    - name: "Avatar"
+      code_example: |
+        <div class="h-8 w-8 rounded-full bg-blue-100 flex items-center justify-center text-blue-600 font-semibold">
+          J
+        </div>
+      visual_description: "Circle with light blue background, showing user initial."
+      usage_guidelines: "Used in navigation dropdown for signed-in users."
+
+    - name: "Breadcrumb"
+      code_example: |
+        <nav class="flex" aria-label="Breadcrumb">
+          <a class="group flex items-center text-sm font-medium text-gray-500 hover:text-gray-900">
+            <svg class="flex-shrink-0 -ml-1 mr-1 h-5 w-5">← icon</svg>
+            Back to Home
+          </a>
+        </nav>
+      visual_description: "Text link with left arrow icon, gray text that darkens on hover."
+      usage_guidelines: "Use on detail pages for navigation context."
+
+  layouts:
+    - name: "Main Layout"
+      description: "Standard page structure for authenticated/main content"
+      structure: |
+        - min-h-screen body with flex-col
+        - Testing banner (if applicable)
+        - Sticky navbar
+        - Flash message container
+        - Main content (flex-grow)
+        - Footer
+      usage: "All main application pages"
+
+    - name: "Auth Layout"
+      description: "Centered single-card layout for login/signup"
+      structure: |
+        - Full viewport background gradient
+        - Centered container (max-w-md)
+        - Brand logo/title
+        - White card with shadow
+        - Footer link back to home
+      usage: "Login, registration, password reset pages"
+
+    - name: "Content Page Layout"
+      description: "Standard content pages (about, how it works)"
+      structure: |
+        - Gradient background
+        - max-w-4xl container
+        - Centered header with gradient title
+        - White card for main content
+        - Sections with spacing
+      usage: "Static content, marketing pages"
+
+    - name: "Location Detail Layout"
+      description: "Property detail page structure"
+      structure: |
+        - max-w-5xl container
+        - Breadcrumb navigation
+        - Header card with address, score, CTA
+        - Stats bar (The Verdict, Tenants, Ratings, Freshness)
+        - Detailed ratings grid
+        - Historical trends section
+      usage: "Location/property detail pages"
+
+    - name: "Form Layout"
+      description: "Multi-section form with cards"
+      structure: |
+        - max-w-3xl or max-w-4xl container
+        - Centered header
+        - Multiple section cards (rounded-2xl, shadow-sm)
+        - Each section: header + content area
+        - Action buttons at bottom (cancel left, submit right)
+      usage: "Rating submission, complex forms"
+
+    - name: "Home/Search Layout"
+      description: "Search-centric landing page"
+      structure: |
+        - Full viewport with gradient background
+        - Decorative SVG pattern background
+        - Centered content vertically and horizontally
+        - Large brand title
+        - Prominent search box
+        - Supporting taglines
+        - Search results area below
+      usage: "Home page only"
+
+  patterns:
+    navigation: |
+      - Sticky top navbar with glassmorphism effect
+      - Brand logo links to home
+      - Desktop: inline links + user dropdown
+      - Mobile: hamburger menu with slide-down panel
+      - Active/hover states: text-blue-600
+      - Footer: 4-column grid with link sections
+
+    forms: |
+      - Labels above inputs (block, text-sm font-medium)
+      - Help text below inputs (text-xs text-gray-500)
+      - Inputs: full-width, consistent padding (px-4 py-3)
+      - Error messages: red alert box at top with list
+      - Sections grouped in cards with headers
+      - Two-column layouts on desktop (sm:grid-cols-2)
+      - Submit buttons: right-aligned, primary style
+
+    data_display: |
+      - Ratings as large bold numbers with /10 suffix
+      - Progress bars for visual rating representation
+      - Stats displayed in grid with uppercase labels
+      - Tables: simple with border-b borders, alternating subtle highlighting
+      - Trend indicators: colored arrows (green ↗, red ↘, gray →)
+      - Empty states: centered icon, heading, description, CTA
+
+    feedback: |
+      - Success: green left-border alerts, brief celebratory copy
+      - Error: red left-border alerts, self-deprecating tone, list of issues
+      - Form validation: red highlight, clear error messages
+      - Loading: subtle indicators, not blocking
+      - Confirmations: browser confirm dialogs for destructive actions
+
+  principles:
+    design_philosophy:
+      - "Privacy First: Never display individual ratings, only aggregates"
+      - "Mobile First: Design for phones, enhance for desktop"
+      - "Performance is a Feature: Fast load times, minimal dependencies"
+      - "Structured Data Only: No free text fields, no moderation burden"
+      - "Pragmatic Over Perfect: Ship working features, iterate based on real data"
+      - "Explicit Over Implicit: Clear, obvious UI that doesn't require guessing"
+
+    accessibility_standards:
+      - "Touch targets: minimum 44px (p-3 on interactive icons)"
+      - "Focus indicators: visible ring styles on all interactive elements"
+      - "Color contrast: ensure text meets WCAG 2.1 AA standards"
+      - "Semantic HTML: proper heading hierarchy, landmark elements"
+      - "ARIA labels: for icon-only buttons and non-obvious controls"
+      - "Role attributes: for dialogs, alerts, navigation"
+
+    brand_guidelines: |
+      - Logo: SVG house icon + gradient text wordmark
+      - Colors: Blue-purple gradient for brand, gray scale for content
+      - Typography: System fonts, bold for emphasis
+      - Imagery: Minimal, NZ-themed when used (e.g., Bluff signpost for errors)
+      - Tone: Kiwi casual, honest, self-deprecating humor
+
+    user_experience_priorities:
+      - "Search is the hero: make finding properties effortless"
+      - "Rating is the core action: minimize friction for submissions"
+      - "Trust through transparency: show sample sizes and dates"
+      - "Mobile usability: touch-friendly, no horizontal scroll"
+      - "Progressive disclosure: don't overwhelm, expand details on demand"
+
+  implementation:
+    styling_approach: |
+      - Framework: TailwindCSS (utility-first)
+      - Configuration: Default Tailwind with custom accent colors
+      - CSS file: app/assets/stylesheets/application.tailwind.css
+      - Compiled by: Tailwind CLI or asset pipeline
+
+    naming_conventions: |
+      - Views: snake_case for partials (_navbar.html.erb)
+      - CSS classes: Tailwind utilities, no custom class names
+      - Data attributes: data-controller, data-action (Stimulus)
+      - IDs: kebab-case for JavaScript hooks
+
+    code_organization: |
+      - Layouts: app/views/layouts/ (application.html.erb, minimal.html.erb)
+      - Shared partials: app/views/shared/ (_navbar, _footer, _location_card)
+      - Page views: app/views/pages/ (home, about, etc.)
+      - Feature views: app/views/{feature}/ (locations, ratings, devise)
+      - JavaScript: app/javascript/controllers/ (Stimulus controllers)
+
+    dependencies:
+      - "TailwindCSS: Utility-first CSS framework"
+      - "Hotwire/Turbo: SPA-like navigation without heavy JS"
+      - "Stimulus: Lightweight JavaScript controllers"
+      - "Heroicons: SVG icon set (via inline SVGs)"
+
+    stimulus_controllers:
+      - name: "dropdown"
+        usage: "Mobile menu, user menu dropdowns"
+        actions: "toggle, hide (on window click)"
+      - name: "search"
+        usage: "Home page search functionality"
+        actions: "search (on input)"
+      - name: "aspect-picker"
+        usage: "Rating form aspect selection modal"
+        actions: "open, close, search, add, remove"
+      - name: "aspect-suggestion"
+        usage: "Collapsible aspect suggestion form"
+        actions: "toggle, checkDuplicate"
+      - name: "form-safety"
+        usage: "Prevent accidental form abandonment"
+
+  copy_guidelines:
+    microcopy_rules:
+      - "Keep it under 10 words where possible"
+      - "Use active voice"
+      - "Start with verbs for CTAs"
+      - "Be specific, not vague"
+      - "Test if it sounds like something a friend would say"
+    
+    kiwi_slang_reference:
+      - term: "sweet / sweet as"
+        meaning: "great, good, understood"
+        usage: "Success messages"
+      - term: "yeah, nah"
+        meaning: "no (but softened)"
+        usage: "Error messages"
+      - term: "mate"
+        meaning: "friend, casual address"
+        usage: "Friendly messages"
+      - term: "reckon"
+        meaning: "think, believe"
+        usage: "Suggestions, opinions"
+      - term: "nosey"
+        meaning: "look around, browse"
+        usage: "CTAs for exploration"
+      - term: "munted"
+        meaning: "broken, messed up"
+        usage: "Error pages (500)"
+      - term: "haere rā"
+        meaning: "goodbye (Māori)"
+        usage: "Account deletion"
+      - term: "spill the tea"
+        meaning: "share the truth/gossip"
+        usage: "Rating CTAs"
+      - term: "the vibe"
+        meaning: "the feeling, atmosphere"
+        usage: "Rating descriptions"
+      - term: "dodgy"
+        meaning: "unreliable, suspicious"
+        usage: "Describing bad landlords"

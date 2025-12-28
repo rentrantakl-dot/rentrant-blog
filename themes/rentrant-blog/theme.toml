@@ -1,0 +1,14 @@
+# Theme metadata
+name = "RentRant Blog"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "A minimalistic Hugo theme for RentRant blog"
+homepage = "https://rentrant.nz"
+min_version = "0.80.0"
+
+[author]
+  name = "RentRant"
+  homepage = "https://rentrant.nz"
+
+[params]
+  tagline = "The truth about that flat you're eyeing."

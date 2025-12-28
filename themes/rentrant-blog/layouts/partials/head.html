@@ -1,0 +1,129 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{{/* Title */}}
+<title>{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.tagline }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}
+</title>
+
+{{/* Meta description */}}
+{{ if .Description }}
+<meta name="description" content="{{ .Description }}">
+{{ else if .IsPage }}
+<meta name="description" content="{{ .Summary | plainify | truncate 160 }}">
+{{ else }}
+<meta name="description" content="{{ .Site.Params.description | default " Insights for renters" }}">
+{{ end }}
+
+{{/* Keywords for SEO */}}
+{{ with .Params.tags }}
+<meta name="keywords" content="{{ delimit . " , " }}">
+{{ end }}
+
+{{/* Author */}}
+{{ with .Params.author }}
+<meta name="author" content="{{ . }}">
+{{ else }}
+<meta name="author" content="{{ .Site.Params.author | default .Site.Title }}">
+{{ end }}
+
+{{/* Open Graph */}}
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:title" content="{{ .Title | default .Site.Title }}">
+<meta property="og:description"
+    content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:locale" content="en_NZ">
+{{ with .Site.Params.ogImage }}
+<meta property="og:image" content="{{ . | absURL }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+{{ end }}
+{{ if .IsPage }}
+<meta property="article:published_time" content="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">
+{{ with .Lastmod }}
+<meta property="article:modified_time" content="{{ .Format " 2006-01-02T15:04:05Z07:00" }}">
+{{ end }}
+{{ with .Params.author }}
+<meta property="article:author" content="{{ . }}">
+{{ end }}
+{{ with .Params.tags }}
+{{ range . }}
+<meta property="article:tag" content="{{ . }}">
+{{ end }}
+{{ end }}
+{{ end }}
+
+{{/* Twitter Card */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
+<meta name="twitter:description"
+    content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ with .Site.Params.twitterHandle }}
+<meta name="twitter:site" content="{{ . }}">
+<meta name="twitter:creator" content="{{ . }}">
+{{ end }}
+{{ with .Site.Params.ogImage }}
+<meta name="twitter:image" content="{{ . | absURL }}">
+{{ end }}
+
+{{/* Canonical URL */}}
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{/* Favicon */}}
+<link rel="icon" type="image/svg+xml" href='{{ "favicon.svg" | relURL }}'>
+
+{{/* RSS */}}
+{{ with .OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+{{ end }}
+
+{{/* JSON-LD Structured Data */}}
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ .Title }}",
+  "description": "{{ if .Description }}{{ .Description }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}",
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  {{ with .Lastmod }}"dateModified": "{{ .Format "2006-01-02T15:04:05Z07:00" }}",{{ end }}
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Params.author | default .Site.Params.author | default .Site.Title }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Title }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ "favicon.svg" | absURL }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+  {{ with .Params.tags }},
+  "keywords": "{{ delimit . ", " }}"
+  {{ end }}
+}
+</script>
+{{ else if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}"
+}
+</script>
+{{ end }}
+
+{{/* Styles */}}
+{{ $styles := resources.Get "css/main.css" }}
+{{ if $styles }}
+<link rel="stylesheet" href="{{ $styles.Permalink }}">
+{{ end }}

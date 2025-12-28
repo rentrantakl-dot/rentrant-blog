@@ -1,0 +1,75 @@
+{{ define "main" }}
+<div class="container">
+    {{/* Hero section */}}
+    <section class="hero">
+        <h1 class="hero-title">
+            <span class="text-gradient">{{ .Site.Title }}</span>
+        </h1>
+        <p class="hero-subtitle">{{ .Site.Params.tagline | default "Insights for renters" }}</p>
+
+        {{ with .Site.Params.mainAppUrl }}
+        <a href="{{ . }}" class="btn btn-gradient">
+            Try RentRant
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                style="margin-left: 0.5rem;">
+                <path d="M5 12h14M12 5l7 7-7 7"></path>
+            </svg>
+        </a>
+        {{ end }}
+    </section>
+
+    {{/* Recent posts */}}
+    {{ $posts := where .Site.RegularPages "Type" "posts" | first 6 }}
+    {{ if $posts }}
+    <section>
+        <div class="page-header">
+            <h2>Latest articles</h2>
+            <p class="page-description">Tips, updates, and insights for renters.</p>
+        </div>
+
+        <div class="post-grid">
+            {{ range $posts }}
+            <article class="post-card">
+                <div class="post-card-gradient"></div>
+                <div class="post-card-body">
+                    <h3 class="post-card-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h3>
+                    <p class="post-card-excerpt">
+                        {{ .Summary | plainify | truncate 120 }}
+                    </p>
+                    <div class="post-card-meta">
+                        <time datetime="{{ .Date.Format " 2006-01-02" }}">
+                            {{ .Date.Format "2 Jan 2006" }}
+                        </time>
+                        <span>·</span>
+                        <span>{{ .ReadingTime }} min read</span>
+                    </div>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+
+        {{ if gt (len (where .Site.RegularPages "Type" "posts")) 6 }}
+        <div class="text-center mt-8">
+            <a href="{{ " posts/" | relURL }}" class="btn btn-secondary">
+                View all articles
+            </a>
+        </div>
+        {{ end }}
+    </section>
+    {{ else }}
+    {{/* Empty state */}}
+    <section class="text-center" style="padding: 4rem 0;">
+        <div class="card" style="max-width: 32rem; margin: 0 auto;">
+            <div class="card-header-gradient"></div>
+            <div class="card-body">
+                <h2>Coming soon</h2>
+                <p class="text-muted">We're working on some great content. Check back soon.</p>
+            </div>
+        </div>
+    </section>
+    {{ end }}
+</div>
+{{ end }}
