@@ -9,6 +9,9 @@ export default {
 
         // Only handle requests starting with /blog
         if (url.pathname.startsWith('/blog')) {
+
+
+
             // Configure the target origin
             const ORIGIN_HOST = 'rentrantakl-dot.github.io';
             const ORIGIN_PATH_PREFIX = '/rentrant-blog';
@@ -36,6 +39,9 @@ export default {
             // KEY FIX: GitHub Pages requires the Host header to match the custom domain or github.io domain
             modifiedRequest.headers.set('Host', ORIGIN_HOST);
 
+            // KEY FIX: GitHub blocks requests with empty User-Agent
+            modifiedRequest.headers.set('User-Agent', 'Cloudflare-Worker-Proxy');
+
             // Remove headers that might confuse the origin
             modifiedRequest.headers.delete('Referer');
 
@@ -44,7 +50,8 @@ export default {
 
                 // Check for 404 from GitHub
                 if (response.status === 404) {
-                    return new Response('Blog post not found on GitHub origin.', { status: 404 });
+                    console.log(`GitHub 404 for: ${targetUrl}`);
+                    return new Response(`Blog post not found on GitHub origin. Target: ${targetUrl}`, { status: 404 });
                 }
 
                 return response;
