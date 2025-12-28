@@ -1,7 +1,7 @@
 # RentRant Blog Site Configuration
 # This is the main site configuration - copy to your site root
 
-baseURL = "https://rentrantakl-dot.github.io/rentrant-blog/"
+baseURL = "https://rentrant.nz/blog/"
 languageCode = "en-nz"
 title = "RentRant Blog"
 theme = "rentrant-blog"
