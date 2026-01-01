@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the RentRant Blog"
-date: 2025-01-01
+date: 2026-01-01
 draft: false
 description: "We're building something to help Kiwi renters. Here's what's happening."
 tags: ["updates", "community"]
