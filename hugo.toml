@@ -16,7 +16,7 @@ enableEmoji = true
   mainAppUrl = "https://rentrant.nz"
 
 [[menus.main]]
-  name = "Blog"
+  name = "Articles"
   url = "/posts/"
   weight = 1
 
