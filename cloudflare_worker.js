@@ -13,16 +13,15 @@ export default {
 
 
             // Configure the target origin
-            const ORIGIN_HOST = 'rentrantakl-dot.github.io';
-            const ORIGIN_PATH_PREFIX = '/rentrant-blog';
+            const ORIGIN_HOST = 'blog.rentrant.nz';
 
             // Calculate the new path
-            // e.g. /blog/post-1 -> /rentrant-blog/post-1
-            let newPath = url.pathname.replace(/^\/blog/, ORIGIN_PATH_PREFIX);
+            // e.g. /blog/post-1 -> /post-1
+            let newPath = url.pathname.replace(/^\/blog/, '');
 
             // Ensure trailing slash for root to avoid 404 on some servers or infinite redirects
-            if (newPath === ORIGIN_PATH_PREFIX) {
-                newPath = `${ORIGIN_PATH_PREFIX}/`;
+            if (newPath === '') {
+                newPath = '/';
             }
 
             // Construct the new URL
