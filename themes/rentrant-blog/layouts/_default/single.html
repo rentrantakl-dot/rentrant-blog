@@ -39,7 +39,21 @@
             <footer class="share-section"
                 style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--color-gray-100);">
                 <p class="text-muted text-center" style="margin-bottom: 1rem;">Found this helpful? Share it:</p>
-                <div class="share-buttons">
+                {{/* Native Share Button (Mobile/Supported Browsers) */}}
+                <button id="native-share-btn" class="share-btn share-btn-native"
+                    style="display: none; width: auto; padding: 0.5rem 1rem; border-radius: 999px; background-color: var(--color-primary-600); color: white; gap: 0.5rem; justify-content: center; align-items: center;">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="18" cy="5" r="3"></circle>
+                        <circle cx="6" cy="12" r="3"></circle>
+                        <circle cx="18" cy="19" r="3"></circle>
+                        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+                        <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+                    </svg>
+                    <span>Share this article</span>
+                </button>
+
+                <div id="fallback-share-btns" class="share-buttons" style="display: flex;">
                     {{/* Twitter/X */}}
                     <a href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}"
                         target="_blank" rel="noopener noreferrer" class="share-btn share-btn-twitter"
@@ -93,6 +107,26 @@
                         </svg>
                     </button>
                 </div>
+
+                <script>
+                    (function () {
+                        const shareBtn = document.getElementById('native-share-btn');
+                        const fallbackBtns = document.getElementById('fallback-share-btns');
+
+                        if (navigator.share) {
+                            shareBtn.style.display = 'flex';
+                            fallbackBtns.style.display = 'none';
+
+                            shareBtn.addEventListener('click', () => {
+                                navigator.share({
+                                    title: '{{ .Title }}',
+                                    text: '{{ .Description | default .Title }}',
+                                    url: '{{ .Permalink }}'
+                                }).catch(console.error);
+                            });
+                        }
+                    })();
+                </script>
             </footer>
         </div>
     </div>

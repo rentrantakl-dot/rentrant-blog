@@ -2,7 +2,7 @@
 name = "RentRant Blog"
 license = "MIT"
 licenselink = "https://opensource.org/licenses/MIT"
-description = "A minimalistic Hugo theme for RentRant blog"
+description = "A minimalistic, social-optimized Hugo theme for RentRant blog"
 homepage = "https://rentrant.nz"
 min_version = "0.80.0"
 

@@ -5,6 +5,8 @@ A minimalistic Hugo theme designed to complement the RentRant rental insights pl
 ## Features
 
 - Clean, mobile-first design
+- **Social-First Features**: Native Web Share API, Open Graph Video/Image support
+- **Rich Embeds**: TikTok & Instagram shortcodes
 - Kiwi-flavored brand voice
 - Gradient brand styling (blue → purple → pink)
 - Glassmorphism navbar
@@ -53,6 +55,23 @@ theme = "rentrant-blog"
 
 ```bash
 hugo new posts/my-first-post.md
+```
+
+### Social Metadata & Embeds
+
+The theme supports rich social sharing out of the box.
+
+**Front Matter:**
+```yaml
+image: "images/cover.jpg" # Overrides site default
+video: "https://example.com/video.mp4" # For OG:Video previews
+images: ["img1.jpg", "img2.jpg"] # For Twitter galleries
+```
+
+**Shortcodes:**
+```html
+{{< tiktok id="72948324..." user="rentrant" >}}
+{{< instagram id="C1x-..." >}}
 ```
 
 ## License

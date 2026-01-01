@@ -30,57 +30,78 @@
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:title" content="{{ .Title | default .Site.Title }}">
 <meta property="og:description"
-    content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:locale" content="en_NZ">
-{{ with .Site.Params.ogImage }}
-<meta property="og:image" content="{{ . | absURL }}">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-{{ end }}
-{{ if .IsPage }}
-<meta property="article:published_time" content="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">
-{{ with .Lastmod }}
-<meta property="article:modified_time" content="{{ .Format " 2006-01-02T15:04:05Z07:00" }}">
-{{ end }}
-{{ with .Params.author }}
-<meta property="article:author" content="{{ . }}">
-{{ end }}
-{{ with .Params.tags }}
-{{ range . }}
-<meta property="article:tag" content="{{ . }}">
-{{ end }}
-{{ end }}
-{{ end }}
 
-{{/* Twitter Card */}}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
-<meta name="twitter:description"
+{{/* Image Processing */}}
+{{- $s := newScratch -}}
+{{- if .Params.images -}}
+{{- $s.Add "imgs" .Params.images -}}
+{{- end -}}
+{{- if .Params.image -}}
+{{- $s.Add "imgs" (slice .Params.image) -}}
+{{- end -}}
+
+{{- if not ($s.Get "imgs") -}}
+{{- $img := findRE "(?i)<img.*?src=[\"'](.*?)[\"']" .Content 1 -}} {{- range $img -}} {{- $match :=index
+  (findRE "src=[\"'](.*?)[\"' ]" . 1) 0 -}} {{- $src :=replaceRE "src=[\"'](.*?)[\"' ]" "$1" $match -}} {{-
+  $s.Add "imgs" (slice $src) -}} {{- end -}} {{- end -}} {{- if .Site.Params.ogImage -}} {{- $s.Add "imgs" (slice
+  .Site.Params.ogImage) -}} {{- end -}} {{- $finalImages :=$s.Get "imgs" | uniq -}} {{/* Open Graph - Images */}} {{-
+  range first 1 $finalImages -}} <meta property="og:image" content="{{ . | absURL }}">
+  {{- end -}}
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+
+  {{/* Open Graph - Video */}}
+  {{- with .Params.video -}}
+  <meta property="og:video" content="{{ . | absURL }}">
+  {{- end -}}
+  {{ if .IsPage }}
+  <meta property="article:published_time" content="{{ .Date.Format " 2006-01-02T15:04:05Z07:00" }}">
+  {{ with .Lastmod }}
+  <meta property="article:modified_time" content="{{ .Format " 2006-01-02T15:04:05Z07:00" }}">
+  {{ end }}
+  {{ with .Params.author }}
+  <meta property="article:author" content="{{ . }}">
+  {{ end }}
+  {{ with .Params.tags }}
+  {{ range . }}
+  <meta property="article:tag" content="{{ . }}">
+  {{ end }}
+  {{ end }}
+  {{ end }}
+
+  {{/* Twitter Card */}}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Title | default .Site.Title }}">
+  <meta name="twitter:description"
     content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-{{ with .Site.Params.twitterHandle }}
-<meta name="twitter:site" content="{{ . }}">
-<meta name="twitter:creator" content="{{ . }}">
-{{ end }}
-{{ with .Site.Params.ogImage }}
-<meta name="twitter:image" content="{{ . | absURL }}">
-{{ end }}
+  {{ with .Site.Params.twitterHandle }}
+  <meta name="twitter:site" content="{{ . }}">
+  <meta name="twitter:creator" content="{{ . }}">
+  {{ end }}
 
-{{/* Canonical URL */}}
-<link rel="canonical" href="{{ .Permalink }}">
+  {{/* Twitter Images (Reuse logic) */}}
+  {{- range first 1 $finalImages -}}
+  <meta name="twitter:image" content="{{ . | absURL }}">
+  {{- end -}}
 
-{{/* Favicon */}}
-<link rel="icon" type="image/svg+xml" href='{{ "favicon.svg" | relURL }}'>
+  {{/* Canonical URL */}}
+  <link rel="canonical" href="{{ .Permalink }}">
 
-{{/* RSS */}}
-{{ with .OutputFormats.Get "rss" }}
-<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
-{{ end }}
+  {{/* Favicon */}}
+  <link rel="icon" type="image/svg+xml" href='{{ "favicon.svg" | relURL }}'>
 
-{{/* JSON-LD Structured Data */}}
-{{ if .IsPage }}
-<script type="application/ld+json">
+  {{/* RSS */}}
+  {{ with .OutputFormats.Get "rss" }}
+  <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+  {{ end }}
+
+  {{/* JSON-LD Structured Data */}}
+  {{ if .IsPage }}
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
@@ -110,8 +131,8 @@
   {{ end }}
 }
 </script>
-{{ else if .IsHome }}
-<script type="application/ld+json">
+  {{ else if .IsHome }}
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
@@ -120,10 +141,10 @@
   "url": "{{ .Site.BaseURL }}"
 }
 </script>
-{{ end }}
+  {{ end }}
 
-{{/* Styles */}}
-{{ $styles := resources.Get "css/main.css" }}
-{{ if $styles }}
-<link rel="stylesheet" href="{{ $styles.Permalink }}">
-{{ end }}
+  {{/* Styles */}}
+  {{ $styles := resources.Get "css/main.css" }}
+  {{ if $styles }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}">
+  {{ end }}
