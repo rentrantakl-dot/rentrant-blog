@@ -10,7 +10,7 @@ theme = "rentrant-blog"
 enableEmoji = true
 
 [params]
-  tagline = "The truth about that flat you're eyeing."
+  tagline = "Don't just rent. rave... or <span class=\"text-attention\">rant</span>."
   description = "Insights, tips, and updates for NZ renters."
   author = "RentRant Team"
   mainAppUrl = "https://rentrant.nz"

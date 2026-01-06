@@ -4,8 +4,7 @@
             {{/* Brand column */}}
             <div>
                 <div class="footer-brand">{{ .Site.Title }}</div>
-                <p class="footer-tagline">{{ .Site.Params.tagline | default "The truth about that flat you're eyeing."
-                    }}</p>
+                <p class="footer-tagline">{{ .Site.Params.tagline | default "Insights for renters" | safeHTML }}</p>
             </div>
 
             {{/* Footer navigation */}}
