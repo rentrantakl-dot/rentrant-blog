@@ -5,7 +5,7 @@
         <h1 class="hero-title">
             <span class="text-gradient">{{ .Site.Title }}</span>
         </h1>
-        <p class="hero-subtitle">{{ .Site.Params.tagline | default "Insights for renters" | safeHTML }}</p>
+        <p class="hero-subtitle">{{ .Site.Params.tagline | default "Insights for renters" }}</p>
 
         {{ with .Site.Params.mainAppUrl }}
         <a href="{{ . }}" class="btn btn-gradient">
