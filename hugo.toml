@@ -15,6 +15,10 @@ enableEmoji = true
   author = "RentRant Team"
   mainAppUrl = "https://rentrant.nz"
 
+  [params.analytics.umami]
+    websiteId = "dbc2efd8-55c9-43f5-b94e-4ccc1a8e7df5"
+    src = "https://analytics.rentrant.nz/script.js"
+
 [[menus.main]]
   name = "Articles"
   url = "/posts/"

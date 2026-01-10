@@ -148,3 +148,9 @@
   {{ if $styles }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}">
   {{ end }}
+
+  {{/* Umami Analytics */}}
+  {{ with .Site.Params.analytics.umami }}
+  <script defer src="{{ .src }}" data-website-id="{{ .websiteId }}" {{ with .domains }} data-domains="{{ . }}" {{ end
+    }}></script>
+  {{ end }}
