@@ -40,7 +40,7 @@
                         {{ .Summary | plainify | htmlUnescape | truncate 120 }}
                     </p>
                     <div class="post-card-meta">
-                        <time datetime="{{ .Date.Format " 2006-01-02" }}">
+                        <time datetime='{{ .Date.Format "2006-01-02" }}'>
                             {{ .Date.Format "2 Jan 2006" }}
                         </time>
                         <span>·</span>
@@ -53,7 +53,7 @@
 
         {{ if gt (len (where .Site.RegularPages "Type" "posts")) 6 }}
         <div class="text-center mt-8">
-            <a href="{{ " posts/" | relURL }}" class="btn btn-secondary">
+            <a href='{{ "posts/" | relURL }}' class="btn btn-secondary">
                 View all articles
             </a>
         </div>
