@@ -92,7 +92,7 @@ const articles = [
     {
         title: "The True Cost of Renting in Auckland: Beyond the Weekly Price",
         category: "Core Evergreen",
-        status: "Planned",
+        status: "Written",
         priority: 6,
         targetKeywords: ["cost of living auckland renter", "renting costs auckland", "auckland rent plus bills", "how much does it cost to rent auckland"],
         hypothesis: "International migrants + first-time renters search this heavily. No comprehensive breakdown exists that includes power, water, internet, insurance, transport by suburb. Could rank for 'cost of living Auckland' adjacent queries.",
@@ -104,7 +104,7 @@ const articles = [
     {
         title: "Auckland Rental Market: What Renters Need to Know in 2026",
         category: "Seasonal / Timely",
-        status: "Planned",
+        status: "Written",
         priority: 7,
         targetKeywords: ["auckland rental market 2026", "auckland rents going up or down", "rental market forecast nz 2026", "is it a good time to rent auckland"],
         hypothesis: "People search '[city] rental market [year]' every January-March. Currently dominated by property manager and investor content. A renter-perspective market update would be unique positioning and refreshable annually.",
@@ -116,7 +116,7 @@ const articles = [
     {
         title: "Tenancy Law Changes 2025: What Renters Actually Need to Know",
         category: "Rights & Legal",
-        status: "Planned",
+        status: "Written",
         priority: 8,
         targetKeywords: ["tenancy law changes 2025 nz", "new tenancy rules nz", "90 day notice landlord nz", "can landlord evict without reason nz"],
         hypothesis: "The Residential Tenancies Amendment Act 2024 (effective Jan 2025) brought major changes. Most coverage is landlord-focused. A clear tenant-perspective explainer would fill a gap and rank for ongoing searches as people encounter these rules.",
@@ -128,7 +128,7 @@ const articles = [
     {
         title: "First Time Renting in Auckland: The Complete Guide",
         category: "Core Evergreen",
-        status: "Planned",
+        status: "Written",
         priority: 9,
         targetKeywords: ["first time renting nz", "how to rent auckland", "renting guide new zealand", "renting first flat auckland"],
         hypothesis: "Students, immigrants, and young adults search this year-round. Existing content is either too generic (global sites) or too brief (NZ property manager blogs). A genuinely comprehensive Auckland-specific guide would be a magnet.",
@@ -140,7 +140,7 @@ const articles = [
     {
         title: "Best Suburbs for Renters in Auckland (2026 Guide)",
         category: "Suburb Guides",
-        status: "Planned",
+        status: "Written",
         priority: 10,
         targetKeywords: ["best suburbs rent auckland", "cheapest suburbs auckland rent", "where to rent auckland", "best areas to live auckland renter"],
         hypothesis: "Massive search intent from people moving to Auckland or changing suburbs. Existing content is investor-focused (best suburbs to BUY). A renter-perspective guide covering livability, transport, rent levels, and condition would be unique.",

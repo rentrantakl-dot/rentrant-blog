@@ -192,12 +192,49 @@ Only use if the embedded content genuinely adds value.
 
 ### Current Information (as of February 2026)
 - Healthy Homes Standards: Fully in effect since 1 July 2025
-- Rent increases: Once every 12 months, 60 days notice
+- Rent increases: Once every 12 months, 60 days written notice
 - Bond maximum: 4 weeks' rent
 - Advance rent maximum: 2 weeks' rent
 - Bond lodgement: Within 23 working days
-- Periodic tenancy termination: 90 days for landlord (no cause), 28 days for tenant
-- Fixed-term tenancies: Roll to periodic unless agreement states otherwise
+- Periodic tenancy termination (since 30 January 2025):
+  - Landlord: 90 days (no cause required)
+  - Landlord: 42 days (owner-use, sale with vacant possession, employee housing)
+  - Tenant: 21 days
+- Fixed-term tenancies: Roll to periodic unless either party gives notice between 90 and 21 days before end
+- Pet bond (from 1 December 2025): Additional 2 weeks' rent maximum
+- Tenancy Tribunal exemplary damages: Up to $7,200 for smaller landlords (<6 properties), up to $50,000 for larger landlords
+
+### NZ-Specific Accuracy (Critical)
+
+All content must be accurate for New Zealand — not just legally, but contextually. Before publishing, verify:
+
+**Legal & Regulatory:**
+- [ ] All tenancy law references match current NZ legislation
+- [ ] Healthy Homes requirements are accurate (R-values for insulation, not just thickness)
+- [ ] Tribunal processes and damage limits are current
+- [ ] Government resources link to .govt.nz domains (tenancy.govt.nz, hud.govt.nz)
+
+**Construction & Housing:**
+- [ ] Building materials mentioned are relevant to NZ housing stock:
+  - Aluminium joinery became common from 1970s (replacing timber)
+  - Weatherboard and timber framing dominate older stock
+  - Galvanised pipes common in pre-1980s houses
+  - Concrete slab foundations became common from 1970s
+- [ ] Insulation requirements use NZ climate zones (Zone 1-2 for most of Auckland)
+- [ ] No references to construction practices from other countries (e.g., triple glazing from Scandinavia, US-style construction)
+
+**Services & Resources:**
+- [ ] Property listings: Trade Me (not Zillow, Rightmove, etc.)
+- [ ] Fibre/broadband: Chorus (NZ network provider)
+- [ ] Council documents: LIM (Land Information Memorandum)
+- [ ] Free legal help: Community Law NZ, Citizens Advice Bureau
+- [ ] Tribunal: Tenancy Tribunal (not "small claims court")
+
+**Culture & Context:**
+- [ ] Rental culture references fit NZ (flatting culture, bond via Tenancy Services, etc.)
+- [ ] Terminology is NZ-specific ("flat" not "apartment", "bond" not "security deposit")
+- [ ] Market observations are Auckland/NZ-specific (not imported from Australian or UK markets)
+- [ ] Seasonal references fit Southern Hemisphere (winter = June-August)
 
 ---
 
