@@ -33,7 +33,7 @@
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
                 </h2>
                 <p class="post-card-excerpt">
-                    {{ .Summary | plainify | truncate 150 }}
+                    {{ .Summary | plainify | htmlUnescape | truncate 150 }}
                 </p>
 
                 {{/* Tags */}}

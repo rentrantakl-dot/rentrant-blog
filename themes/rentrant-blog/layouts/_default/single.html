@@ -34,7 +34,8 @@
             <div class="post-content">
                 {{ with .Params.image }}
                 <div class="featured-image mb-8">
-                    <img src="{{ . | absURL }}" alt="{{ $.Title }}" style="width: 100%; height: auto; border-radius: 0.5rem;">
+                    <img src="{{ . | absURL }}" alt="{{ $.Title }}"
+                        style="width: 100%; height: auto; border-radius: 0.5rem;">
                 </div>
                 {{ end }}
                 {{ .Content }}
@@ -150,7 +151,7 @@
                         <a href="{{ .Permalink }}">{{ .Title }}</a>
                     </h3>
                     <p class="post-card-excerpt">
-                        {{ .Summary | plainify | truncate 100 }}
+                        {{ .Summary | plainify | htmlUnescape | truncate 100 }}
                     </p>
                     <div class="post-card-meta">
                         <time datetime="{{ .Date.Format " 2006-01-02" }}">

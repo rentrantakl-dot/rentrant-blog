@@ -9,7 +9,7 @@
 {{ if .Description }}
 <meta name="description" content="{{ .Description }}">
 {{ else if .IsPage }}
-<meta name="description" content="{{ .Summary | plainify | truncate 160 }}">
+<meta name="description" content="{{ .Summary | plainify | htmlUnescape | truncate 160 }}">
 {{ else }}
 <meta name="description" content="{{ .Site.Params.description | default " Insights for renters" }}">
 {{ end }}

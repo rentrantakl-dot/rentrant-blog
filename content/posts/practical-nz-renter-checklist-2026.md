@@ -5,7 +5,7 @@ draft: false
 description: "A practical checklist for NZ renters. Know your rights on bond, advance rent, and inspections. Don't rush into signing—protect yourself with these checks."
 tags: ["renter rights", "tenancy agreements", "rental inspection"]
 author: "RentRant Team"
-image: "images/nz-rental-inspection-checklist.jpg"
+image: "/images/rent-check-list.jpg"
 image_alt: "Renter documenting property condition during pre-signing inspection in New Zealand"
 
 # Social & Sharing
