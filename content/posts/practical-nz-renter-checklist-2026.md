@@ -1,160 +1,477 @@
 ---
-title: "Before you sign that lease: Practical NZ Renter Checklist 2026"
+title: "What to Check Before Signing Your NZ Rental Lease"
 date: 2026-01-04T17:31:50+13:00
 draft: false
-description: |
-    Having waited to get approved for a rental,
-    there is often pressure to sign on without offending the landlord.
-    But you are signing up to staying and paying for a service just as any other.
-    Ensure that you are getting a fair shake and you are protecting youself.
-    This is not legal advise, but practical experience renting.
-tags: ["renter rights", "rent agreements"]
+description: "A practical checklist for NZ renters. Know your rights on bond, advance rent, and inspections. Don't rush into signing—protect yourself with these checks."
+tags: ["renter rights", "tenancy agreements", "rental inspection"]
 author: "RentRant Team"
-image: "images/rent-check-list.jpg"
+image: "images/nz-rental-inspection-checklist.jpg"
+image_alt: "Renter documenting property condition during pre-signing inspection in New Zealand"
 
 # Social & Sharing
-# image: "images/cover.jpg" # Optional: Overrides site default for social cards
-# video: "" # Optional: URL to a video file for rich social previews
 # images: [] # Optional: Array of images for Twitter/OG galleries
 ---
 
+You've been approved for a rental. After all the applications and waiting, it feels like relief.
 
-> **Not legal advice.**  
-> These are practical observations informed by current New Zealand tenancy law and prior experience.  
-> Always conduct your own due diligence and refer to official Tenancy Services guidance before making financial commitments.
+That relief often leads to rushed decisions. But the agreement you're about to sign will determine whether the next year is manageable or miserable. This is the moment to slow down. Think that BNZ ad with snails.
 
-You’ve finally secured a rental and received an offer from the landlord. Getting approved can feel like winning a small lottery—after applications, references, and back-and-forth with property managers and landlords, it often comes down to a sense of luck.
-
-That relief can lead to rushed decisions. The agreement you sign now will shape how comfortable your tenancy is—and how easy it is to exit later. This is the moment to slow down. While there is **no legal requirement** for landlords to provide advance review time, it is reasonable to insist on time to review a **draft** of the agreement before signing. This post highlights practical checks to make before the document is finalised, and clearly distinguishes between **legal requirements** and **best-practice advice**.
+Most landlords will try to get you to sign immediately. There's no legal requirement for them to give you review time, but you can—and should—insist on it anyway. Here's what to check before the document is finalized.
 
 ---
 
-## Understand the tenancy agreement
+## Before You Visit the Property
 
-A written tenancy agreement is a **legal requirement** for most residential rentals in New Zealand. It sets out the terms and obligations under which the property is rented and should be read carefully.
+### Research the Address
 
-If you are a first-time renter, note that move-in costs typically include **bond and rent in advance**. Ensure you have sufficient cash available when these payments are due.
+Before you even book a viewing, do basic checks:
 
-### Type of tenancy
-The agreement must specify whether the tenancy is **fixed-term** or **periodic**.
+- **Check transport connections**—a bus stop nearby is useless if routes don't actually go where you need
+- **Look at sunlight patterns** using [Shadow Map](https://app.shadowmap.org/)—nearby buildings or hills can leave places dark year-round
+- **Google the property manager or landlord**—if their name appears in Tenancy Tribunal cases repeatedly, take note
 
-Most rentals are initially offered as fixed-term tenancies (commonly 12 months). Landlords often prefer this for predictability and may prioritise tenants willing to commit to a fixed term.
-
-### Rent and rent frequency
-In New Zealand, rent is usually quoted weekly. Rent should be paid by bank transfer, and the landlord’s bank account details should be clearly stated in the agreement. This is standard practice and avoids disputes.
-
-### Advance rent
-By law, landlords may ask for **no more than two weeks’ rent in advance**. They cannot require further rent payments until the advance rent has been used up. Any request beyond this is unlawful.
-
-### Bond expectations
-Landlords may ask for a bond of up to **four weeks’ rent**. The bond must be lodged with **Tenancy Services within 23 working days**, and the landlord must provide a receipt and confirmation of lodgement.
-
-### Rent reviews or increases
-Rent increases are tightly regulated:
-- Rent can generally only be increased **once every 12 months**.
-- For **fixed-term tenancies**, rent can only be increased if the agreement explicitly allows it.
-- Landlords must provide **at least 60 days’ written notice** of any increase.
-
-Pay close attention to clauses covering what happens **after the fixed term ends**. If nothing changes, the tenancy typically rolls over to a **periodic tenancy**.
+**Cost estimate:**  
+For a typical $600/week rental, you'll need around **$3,600 upfront** (4 weeks bond + 2 weeks advance rent). Make sure you have this available when payments are due—landlords usually want it within 48 hours of signing.
 
 ---
 
-## Property inspection
+## During the Property Inspection
 
-This is one of the most important steps before signing, as it directly affects how easily you can exit the rental.
+This is where most people make mistakes. They trust that problems will be sorted out later. They won't be.
 
-There is **no legal requirement** for inspections to occur before signing, but it is best practice to agree that the inspection happens **at least a day in advance**, giving you time to properly document issues.
+### Get an Inspection Before Signing
 
-### Notes on the agreement
-Be meticulous. Walk through every room and record all existing damage directly on the agreement:
+There's **no legal requirement** for a pre-signing inspection, but insist on one anyway. If the landlord or property manager refuses, that's a red flag. Walk away.
 
-- Walls (all sides), doors (including behind doors), windows, and glass panes  
-- Cracks, chips, stains, water marks, leak marks, and signs of mould—especially in bathrooms  
-- Floors, ceilings, and fixtures
+Request the inspection **at least one day before signing**. You need time to review your notes and photos, not make snap decisions while standing in the living room.
 
-For all chattels listed in the agreement, confirm they work. If something is partially functional (for example, one burner on a gas hob not working), record it clearly. Note the overall cleanliness of the property and chattels.
+**How to ask for it:**
 
-The inspection applies to the **entire property**, including outdoor areas. Document the condition of lawns, gardens, and grounds to avoid disputes later.
+Send an email:
 
-Having another person present can help you stay focused. All notes should be mutually agreed and written into the agreement. Do not rely on goodwill—this is a legal document, and the person you deal with now may not be involved when you leave.
+> Hi [Property Manager],
+> 
+> Thanks for the offer. Before signing, I'd like to do a property inspection to document the current condition—standard practice to protect both parties.
+> 
+> Can we schedule this for [date], at least one day before signing? I'll bring the draft agreement to note any existing damage.
+> 
+> Let me know a time that works.
+> 
+> Cheers,  
+> [Your name]
 
-### Photographs
-Written notes in the signed agreement are your primary protection, but take **supporting photographs** of all damage and wear.
+If they push back with "we don't do that" or "just sign and we'll sort issues later," don't believe them. You're about to hand over thousands of dollars. Act accordingly.
 
-Rename or tag photos promptly and store them securely. Context is easily forgotten over time, and clearly labelled photos can be invaluable at the end of the tenancy.
+### What to Check (Room by Room)
+
+Bring a printed checklist and walk through every room systematically. Don't rely on your memory.
+
+**Walls and Ceilings:**
+- Cracks, holes, or marks (note location: "bedroom 2, north wall, 1m from window")
+- Water stains or discoloration (often hidden behind furniture—move it and look)
+- Mould, especially in corners, around windows, behind beds
+- Paint condition (peeling, bubbling, dirty marks)
+
+**Windows and Doors:**
+- Do all windows open and close properly?
+- Are locks functional?
+- Check for drafts (hold your hand near edges on a windy day)
+- Look for cracked glass or damaged frames
+
+**Floors:**
+- Stains, scratches, worn patches
+- Carpet damage or lifting edges
+- Tiles: cracks or missing grout
+- For wooden floors: gaps, warping, water damage
+
+**Bathrooms and Kitchen:**
+- **Mould is the big one**—check shower seals, under sinks, around taps, ceiling corners
+- Water pressure (turn on taps, flush toilet)
+- Does the shower drain properly? (ask to run it for 30 seconds)
+- Check all appliances work: oven, hob, extractor fan, dishwasher
+- Open cupboards: water damage, mould, pests
+
+**Heating and Ventilation:**
+- Is the heater installed and functional? (turn it on and confirm it actually heats)
+- If it's a fireplace: does it look like it's been used recently? Soot marks, ash, clean flue?
+- Bathroom and kitchen ventilation: does the fan actually work?
+- Check for dampness: musty smell, condensation on windows
+
+**Outdoor Areas:**
+- State of lawns and gardens (you may be required to maintain these—note the current condition)
+- Fences, gates, paths
+- Drainage: any pooling water or obvious drainage problems?
+
+**Chattels (appliances and furniture listed in the agreement):**
+- Confirm everything listed actually exists
+- Test everything: fridge, washing machine, dryer, dishwasher
+- If something is broken or partially working (e.g., one stove element doesn't work), **write it down**
+
+### Document Everything
+
+**Written Notes:**  
+Record all damage directly on the tenancy agreement. Be specific:
+- ✅ "Bedroom 2, east wall, 40cm crack above window frame"
+- ❌ "Some cracks in bedroom"
+
+Both you and the landlord/property manager must sign off on these notes. Do not rely on verbal assurances that "we'll note that down later." If it's not written in the agreement you both sign, it doesn't exist.
+
+**Photographs:**  
+Take photos of everything you noted, plus:
+- Wide shot of each room from the doorway
+- Close-ups of all damage
+- All chattels (showing they exist and work)
+- Meter readings (power, water, gas if applicable)
+
+**Photo Organization:**  
+Don't just dump 100 photos in your camera roll. You'll forget what they show.
+
+- Create a folder: `123-queen-st-move-in-04jan2026`
+- Rename photos: `bedroom2-wall-crack-east.jpg`, `kitchen-oven-working.jpg`
+- Do this **immediately** after the inspection while you remember what's what
+
+Store photos somewhere safe (cloud backup, external drive). You'll need them when you move out.
 
 ---
 
-## More than Healthy Homes compliant
+## Understanding the Tenancy Agreement
 
-All rental properties must meet the **Healthy Homes Standards**. From **1 July 2025**, this requirement applies to *all* rentals. New or renewed tenancy agreements must include a **signed Healthy Homes compliance statement**.
+Now you're actually reading the document. Here's what matters.
 
-Compliance is a legal minimum. It does not guarantee the home will be pleasant to live in.
+### Type of Tenancy
 
-### Heating
-Landlords must provide compliant heating for at least the living room. If a fireplace is listed as the heating source, check that it appears usable and shows signs of recent use.
+**Fixed-term** (usually 12 months):  
+You and the landlord are both locked in for the specified period. You can't just leave early without consequences. The landlord can't kick you out unless you breach the agreement.
 
-### Insulation
-Insulation is part of Healthy Homes compliance, but it can be difficult to verify visually. Ask direct questions about insulation in the ceiling and underfloor areas, even if the landlord states the property is compliant.
+Landlords usually prefer fixed-term tenancies and may prioritize applicants who agree to one. If you're not sure you'll stay the full term, think carefully before committing.
 
-### Ventilation and moisture
-Healthy Homes Standards require adequate ventilation and measures to manage moisture and drainage. Check that bathrooms and kitchens have effective ventilation and look for signs of dampness or water pooling around the property.
+**Periodic:**  
+Either party can end the tenancy with proper notice (90 days for landlord to end without cause, 28 days for tenant). More flexibility, but less security.
+
+Most rentals start as fixed-term, then automatically roll over to periodic when the term ends (unless the agreement says otherwise).
+
+### Rent: What You're Actually Paying
+
+Rent is usually quoted **weekly** in New Zealand (even though most people are paid monthly or fortnightly). Check the agreement states the weekly rate clearly.
+
+**Payment method:**  
+Should be by bank transfer. The landlord's bank account details must be in the agreement. If they want cash or anything else, ask why.
+
+**Rent in advance:**  
+Landlords can ask for **maximum 2 weeks' rent in advance**. Anything more than this is illegal. They cannot ask for more advance rent until the first lot has been used up.
+
+**Bond:**  
+Maximum **4 weeks' rent**. The bond must be lodged with Tenancy Services within **23 working days** of being paid. You should receive a receipt and a confirmation that it's been lodged. If the landlord doesn't lodge it, that's a problem—report it.
+
+**Example upfront costs for a $600/week rental:**
+
+| Item | Amount | Legal Limit |
+|------|--------|-------------|
+| Bond | $2,400 | 4 weeks max |
+| Rent in advance | $1,200 | 2 weeks max |
+| **Total due at signing** | **$3,600** | |
+
+If they ask for $5,000+ upfront, something's wrong. Check the math.
+
+### Rent Increases
+
+Rent can generally only be increased **once every 12 months**, and landlords must give **at least 60 days' written notice**.
+
+For **fixed-term tenancies**, rent can only be increased if the agreement explicitly allows it. If there's a rent increase clause, it should specify *how* the increase is calculated (e.g., CPI-linked, market review). Vague clauses like "rent may be increased at landlord's discretion" are potentially unenforceable.
+
+Read the section about what happens **after the fixed term ends**. Often it just rolls to periodic, but some agreements include automatic rent increases or renewal terms. Know what you're agreeing to.
 
 ---
 
-## Understand responsibilities
+## Healthy Homes Compliance
 
-Some obligations are set by law, while others are purely **contractual**. Read this section carefully.
+From **1 July 2025**, all rental properties must meet Healthy Homes Standards. New or renewed tenancy agreements must include a **signed compliance statement**.
 
-### Lawns
-Lawn maintenance is commonly assigned to tenants, but this is **not a legal requirement**—it must be stated in the agreement. Ask about current arrangements and estimate the ongoing cost when assessing value for money.
+Compliance is the legal minimum. It does not mean the place will be warm, dry, or pleasant to live in. It just means it meets baseline standards.
 
-### Gardens
-Garden maintenance is also contractual. Ensure expectations are clearly defined. It is better to clarify upfront than to discover later that significant work is expected.
+### What to Check
 
-### Cleaning and painting
-There is **no fixed legal standard** requiring “deep cleaning” or painting on exit. Tenants are generally required to leave the property **reasonably clean and tidy**, allowing for fair wear and tear.
+**Heating:**  
+Landlords must provide heating for at least the main living area. If the agreement lists a fireplace as the heating source, check:
+- Does it look functional?
+- Are there recent ash or soot marks (signs it's actually been used)?
+- Is there firewood available?
 
-Confirm:
-- Whether professional cleaning or painting was done before you move in  
-- Whether the agreement imposes any additional obligations on exit
+A fireplace that hasn't been touched in years probably won't work when you need it.
 
-Be cautious of clauses that go beyond legal requirements.
+**Insulation:**  
+Required in ceiling and underfloor (where accessible). Hard to verify visually, but you can ask direct questions:
+- "Is the ceiling fully insulated?"
+- "Is there underfloor insulation?"
+- "When was it installed?"
+
+Even if the landlord says it's compliant, a cold house in winter tells you the real story.
+
+**Ventilation:**  
+Kitchens and bathrooms must have adequate ventilation. Check:
+- Does the extractor fan actually work? (turn it on)
+- Do windows open?
+
+**Moisture and Drainage:**  
+Check for:
+- Pooling water outside
+- Dampness inside (musty smell, wet patches)
+- Condensation on windows
+- Mould anywhere
+
+If you see mould and the landlord dismisses it as "minor," trust your gut. Mould problems don't fix themselves.
+
+**Get the compliance statement:**  
+The landlord must provide a statement confirming the property meets Healthy Homes Standards, including the date of the last assessment. If they don't have one for an agreement starting after 1 July 2025, don't sign.
 
 ---
 
-## Things that do not show up on listings
+## Who's Responsible for What?
 
-Some important factors are rarely documented but can significantly affect daily life.
+Some responsibilities are set by law. Others are purely contractual and can be negotiated (in theory—in practice, landlords usually won't budge).
+
+### Lawns and Gardens
+
+**Not a legal requirement** for tenants to maintain them, but most agreements include this anyway.
+
+If the agreement says you're responsible for lawns:
+- Note the current state during inspection (overgrown? well-maintained?)
+- Estimate the cost: mowing, weeding, seasonal maintenance
+- Factor this into whether the rent is actually a good deal
+
+If you're expected to maintain a large section on top of paying $650/week, that's effectively higher rent.
+
+Gardens are the same. If the agreement requires "maintaining gardens," clarify what that means:
+- Regular weeding?
+- Seasonal planting?
+- Professional-level landscaping?
+
+Get it in writing. "Just keep it tidy" is too vague.
+
+### Cleaning and Painting on Exit
+
+There's **no fixed legal standard** requiring professional cleaning or repainting when you leave.
+
+You're generally required to leave the property **reasonably clean and tidy**, allowing for fair wear and tear.
+
+**But:**  
+If the property was professionally cleaned before you moved in, you may be expected to return it to similar condition. This is why documenting the move-in state matters.
+
+If the agreement includes specific exit cleaning requirements (e.g., "must be professionally cleaned"), ask:
+- Was it professionally cleaned before I moved in?
+- Who pays for the exit clean? (spoiler: usually you)
+
+Clauses requiring professional cleaning when the property wasn't professionally cleaned on entry are questionable. Tenancy Tribunal cases on this go both ways, so protect yourself with documentation.
+
+Painting: You're not required to repaint unless you caused damage beyond normal wear (e.g., painting walls yourself without permission, nail holes everywhere). Faded paint from sunlight = fair wear and tear.
+
+---
+
+## Things That Don't Show Up on Listings
+
+Some factors massively affect daily life but are rarely documented.
 
 ### Sunlight
-Visit the property at different times of day to assess warmth and natural light. Nearby buildings or hills can limit sunlight. If multiple visits are not possible, tools like [Shadow Map](https://app.shadowmap.org/) can provide a rough guide.
+
+A dark, cold house is miserable in winter. Visit at different times of day if possible, or use [Shadow Map](https://app.shadowmap.org/) to see how sunlight hits the property throughout the year.
+
+Nearby tall buildings or hills can block sunlight completely, even if the listing says "sunny and bright."
+
+### Noise
+
+Stand quietly in each room for a minute. Listen for:
+- Traffic noise
+- Neighboring properties (voices, music, footsteps)
+- Commercial activity (nearby bars, construction)
+
+Visit on a weekday and a weekend if you can—noise patterns differ.
 
 ### Transport
-Check proximity to bus or train stations and confirm that routes actually work for your commute. A nearby stop with poor connectivity may still be impractical.
 
-### Parking spots
-With shared driveways or garages, confirm exactly what is included in the tenancy. Resolve any ambiguity before signing and ensure it is documented.
+Check that bus/train routes actually work for your commute. A bus stop 200m away is useless if:
+- Buses only run every 2 hours
+- The route doesn't go where you need
+- Services stop early evening
 
----
+Use AT Journey Planner (Auckland) or Metlink (Wellington) to verify.
 
-## Paperwork & compliance
+### Parking
 
-### Communication channels
-Ensure the agreement specifies clear communication channels. Having a documented email address for notices and maintenance requests makes disputes easier to manage.
+If the property includes parking, confirm exactly what's included:
+- Dedicated space or shared driveway?
+- How many cars?
+- Visitor parking available?
 
-### Agency payments — letting fees and key money
-Letting fees charged to tenants are **illegal** in New Zealand, even when an agency is involved.  
-Key money is generally prohibited, with limited exceptions (such as a lawful option fee). If money beyond rent and bond is requested, question it carefully.
-
-### Breaking the tenancy
-Understand the legal and contractual conditions for ending the tenancy early. Knowing this upfront reduces stress if circumstances change.
+Shared driveways can become territorial disputes. Get clarity upfront.
 
 ---
 
-Taking the time to do these checks does not make you difficult—it makes you prepared. A calm, informed approach at the start of a tenancy is one of the most effective ways to protect your experience throughout.
+## Paperwork and Compliance
+
+### Communication Channels
+
+Ensure the agreement specifies how you'll communicate with the landlord/property manager:
+- Email address for maintenance requests
+- Email address for formal notices (ending tenancy, complaints)
+
+Having documented communication channels makes disputes easier. "He said, she said" doesn't hold up. Emails do.
+
+### Illegal Fees
+
+**Letting fees** charged to tenants are **illegal** in New Zealand. Even if a property manager is involved, you should not be charged a letting fee.
+
+**Key money** is generally prohibited (limited exceptions exist, like lawful option fees, but these are rare).
+
+If you're asked to pay anything beyond rent and bond, question it carefully. "Administration fee," "application fee," "key deposit"—these are often just illegal letting fees with different names.
+
+### Breaking the Tenancy Early
+
+Fixed-term tenancies are binding. If you need to leave early, you're generally liable for rent until:
+- The landlord finds a replacement tenant, or
+- The fixed term ends
+
+Some agreements include break clauses (e.g., "tenant may end tenancy early with 4 weeks' notice and payment of $X"). Read these carefully.
+
+Understand the terms before signing. Life changes happen—new jobs, relationship breakdowns, family emergencies. Knowing your exit options upfront reduces stress if circumstances change.
+
+---
+
+## Utilities and Connections
+
+Not usually covered in guides, but practically important.
+
+**Before move-in:**
+- Confirm which utilities are tenant vs. landlord responsibility (typically: tenant pays power/internet, landlord pays rates; water varies)
+- Arrange power connection **1-2 weeks before move-in**, you are able to future date it (don't wait until the last day—it takes time to activate)
+- Check internet availability at the address (fibre? VDSL? some areas have limited options)
+- Take meter readings during inspection and compare to landlord's records
+
+**Water:**  
+In apartments, landlord often pays water and includes it in rent. In standalone houses, tenant usually pays. Confirm in writing.
+
+---
+
+## Renters Insurance
+
+Landlord insurance covers the building, not your stuff.
+
+If there's a fire, flood, or burglary, you're not automatically covered. Get **contents insurance**—usually $10-20/week depending on how much you own.
+
+Some policies also cover accidental damage to the landlord's property (e.g., you spill red wine on the carpet). Worth considering.
+
+Get quotes before moving in. You can't insure things after they're already lost.
+
+---
+
+## Red Flags: When to Walk Away
+
+Even if you're desperate, some issues are non-negotiable:
+
+❌ **Landlord refuses pre-signing inspection**  
+If they won't let you document the property condition, they're planning to blame pre-existing damage on you later.
+
+❌ **Requests more than 4 weeks bond or 2 weeks advance rent**  
+Illegal. If they're breaking this rule upfront, expect more problems later.
+
+❌ **Asks for "key money," "letting fee," or unexplained charges**  
+Illegal. Don't pay it.
+
+❌ **Visible mould that landlord dismisses as "minor"**  
+Mould is a health hazard and indicates moisture problems. It will get worse, not better.
+
+❌ **No Healthy Homes compliance statement** (for agreements after 1 July 2025)  
+Required by law. If they don't have one, they're either non-compliant or disorganized. Either way, not your problem to solve.
+
+❌ **Chattels listed in agreement don't exist or don't work**  
+If the oven doesn't work and they say "we'll fix it after you move in," get it in writing with a deadline. Better yet, don't sign until it's fixed.
+
+❌ **Pressured to sign immediately without review time**  
+"Sign now or we'll give it to someone else" is a manipulation tactic. If the place is that in-demand, someone else can have it.
+
+Trust your instincts. A bad landlord will make your life hell for a year. It's not worth it.
+
+---
+
+## If Things Go Wrong
+
+You documented everything, but the landlord still isn't addressing problems noted during the inspection. What now?
+
+1. **Email the landlord/property manager** with a list of issues and photos. Keep it factual, not emotional:
+   > "During the inspection on [date], we documented the following issues: [list]. These were noted in the signed agreement. Please confirm when these will be addressed."
+
+2. **Request a timeline** for repairs. Don't accept vague "we'll get to it" responses.
+
+3. **Do not withhold rent.** Even if the landlord is non-compliant, withholding rent is illegal and gives them grounds to evict you.
+
+4. **Escalate if needed.** Contact Tenancy Services (0800 836 262) for dispute resolution. They're free and can mediate.
+
+If repairs affect habitability (no heating in winter, severe mould, no hot water), you may have grounds to end the tenancy early. Get advice from Tenancy Services or a community law centre before making that call.
+
+Keep all correspondence. Emails, texts, photos—document everything. If it ends up in the Tenancy Tribunal, you'll need evidence.
+
+---
+
+## Document: Pre-Inspection Checklist
 
 
+**Room-by-Room Checklist:**
+
+**Living Areas:**
+- [ ] Walls: cracks, holes, stains, mould
+- [ ] Ceilings: water damage, cracks
+- [ ] Floors: damage, stains, wear
+- [ ] Windows: open/close properly, locks work, drafts, cracked glass
+- [ ] Doors: open/close properly, locks work
+- [ ] Heating: installed and functional
+- [ ] Ventilation: windows open, extractor fan works
+
+**Kitchen:**
+- [ ] Appliances: oven, hob, dishwasher, fridge all work
+- [ ] Cupboards: water damage, mould, pests
+- [ ] Sink and taps: leaks, water pressure
+- [ ] Ventilation: extractor fan works
+
+**Bathrooms:**
+- [ ] Shower/bath: seals intact, drains properly, water pressure
+- [ ] Toilet: flushes properly, no leaks
+- [ ] Sink and taps: leaks, water pressure
+- [ ] Mould: especially around shower, under sink, ceiling corners
+- [ ] Ventilation: extractor fan works
+
+**Bedrooms:**
+- [ ] Walls, ceiling, floors: same as living areas
+- [ ] Wardrobes: functional, no damage
+- [ ] Windows and doors: same as living areas
+
+**Outdoor:**
+- [ ] Lawns and gardens: current condition
+- [ ] Fences and gates: damage, functionality
+- [ ] Paths and driveways: cracks, trip hazards
+- [ ] Drainage: pooling water
+
+**Meters:**
+- [ ] Power meter reading: ___________
+- [ ] Water meter reading (if applicable): ___________
+
+**Photos Taken:**
+- [ ] Wide shot of each room
+- [ ] Close-ups of all damage
+- [ ] All chattels
+- [ ] Meter readings
+
+---
+
+## Final Thought
+
+Taking time to do these checks doesn't make you difficult. It makes you smart.
+
+Landlords know most renters won't push back. They rely on that. Don't give them the benefit of the doubt—make them earn it.
+
+The person showing you around might seem friendly and reasonable. Great. But when you move out and want your bond back, you'll be dealing with whoever is managing the property at that point. Protect yourself now with documentation, because verbal promises won't help you later.
+
+If you've rented before, [rate the property on RentRant](https://rentrant.nz). Future tenants deserve to know what you experienced. If you're about to rent, check if we have information on the address. It might save you from making a bad decision.
+
+---
 
 <!-- 
 Social Embeds:
