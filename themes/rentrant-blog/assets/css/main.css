@@ -898,6 +898,38 @@ main {
 }
 
 /* ========================================
+   AI DISCLOSURE
+   ======================================== */
+.ai-disclosure {
+  margin-top: 2.5rem;
+  padding: 1rem 1.25rem;
+  border-left: 3px solid var(--color-gray-300);
+  background: var(--color-gray-50);
+  border-radius: 0 0.375rem 0.375rem 0;
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  color: var(--color-gray-500);
+}
+
+.ai-disclosure p {
+  margin: 0;
+}
+
+.ai-disclosure strong {
+  color: var(--color-gray-600);
+  font-weight: 600;
+}
+
+.ai-disclosure a {
+  color: var(--color-gray-500);
+  text-decoration: underline;
+}
+
+.ai-disclosure a:hover {
+  color: var(--color-gray-700);
+}
+
+/* ========================================
    SHARE BUTTONS
    ======================================== */
 .share-section {

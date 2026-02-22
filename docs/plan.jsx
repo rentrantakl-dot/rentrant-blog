@@ -44,7 +44,7 @@ const articles = [
     {
         title: "Red Flags to Watch for When Viewing Auckland Rentals",
         category: "Core Evergreen",
-        status: "Planned",
+        status: "Written",
         priority: 2,
         targetKeywords: ["what to look for renting nz", "rental viewing checklist nz", "red flags rental property", "rental inspection checklist auckland"],
         hypothesis: "People Google this right before or after a viewing. Existing NZ content is thin — mostly generic property manager blogs. A detailed, renter-perspective checklist with photos/examples would rank well and build trust.",
@@ -56,7 +56,7 @@ const articles = [
     {
         title: "Is Your Auckland Rental Healthy Homes Compliant? How to Check",
         category: "Rights & Legal",
-        status: "Planned",
+        status: "Written",
         priority: 3,
         targetKeywords: ["healthy homes standards nz", "is my rental healthy homes compliant", "healthy homes checklist tenant", "healthy homes compliance statement"],
         hypothesis: "Huge search volume since July 2025 deadline. Most content is written FOR landlords. Almost nothing written FROM the tenant's perspective — what to look for, how to check, what to do if not compliant. Gap is wide open.",
@@ -68,7 +68,7 @@ const articles = [
     {
         title: "What to Do When Your Landlord Raises the Rent",
         category: "Rights & Legal",
-        status: "Planned",
+        status: "Written",
         priority: 4,
         targetKeywords: ["rent increase nz", "landlord raised rent too much", "how to challenge rent increase nz", "rent increase rules new zealand"],
         hypothesis: "Highly emotional search moment — people Google this when they've just received a rent increase notice. Existing content is mostly legal jargon. A clear, step-by-step guide with the 2025 RTA changes would rank and convert.",
@@ -80,7 +80,7 @@ const articles = [
     {
         title: "Mould in Your Auckland Rental: Your Rights and What to Do About It",
         category: "Rights & Legal",
-        status: "Planned",
+        status: "Written",
         priority: 5,
         targetKeywords: ["mould in rental nz", "mould landlord responsibility nz", "mould auckland rental", "black mould rental property new zealand"],
         hypothesis: "Auckland's humid climate makes this perennial. RNZ, Stuff, NZ Herald run mould rental stories regularly — massive ongoing search interest. Existing guides are scattered. A definitive, practical guide from the tenant side would rank for years.",
@@ -152,7 +152,7 @@ const articles = [
     {
         title: "Renting in [Suburb]: What Tenants Say (Template)",
         category: "Suburb Guides",
-        status: "Future",
+        status: "Written",
         priority: 15,
         targetKeywords: ["renting in ponsonby", "renting mt eden auckland", "grey lynn rental", "[suburb] auckland rental review"],
         hypothesis: "Hyperlocal long-tail SEO. Each suburb page targets '[suburb] renting/rental' queries. Low individual volume but collectively massive. Once RentRant has data, these become uniquely valuable — no competitor can replicate address-level tenant ratings.",
@@ -164,7 +164,7 @@ const articles = [
     {
         title: "How to Negotiate Your Rent in Auckland (Yes, You Can)",
         category: "Core Evergreen",
-        status: "Planned",
+        status: "Written",
         priority: 11,
         targetKeywords: ["negotiate rent nz", "can you negotiate rent auckland", "how to ask for lower rent nz", "rent negotiation tips"],
         hypothesis: "Timely — 2025/2026 is the first renter-favourable market in a decade. The Spinoff, RNZ covered the housing minister encouraging renters to negotiate. People are searching for HOW. No practical NZ guide exists with scripts and evidence strategies.",
@@ -176,7 +176,7 @@ const articles = [
     {
         title: "Auckland Rental Scams: How to Spot Them Before You Lose Money",
         category: "Core Evergreen",
-        status: "Planned",
+        status: "Written",
         priority: 12,
         targetKeywords: ["rental scam auckland", "fake rental listing nz", "rental scam new zealand", "how to avoid rental scams nz"],
         hypothesis: "Scam awareness searches spike during high-turnover periods (Jan-Mar, Jul-Aug). Facebook group scams + fake Trade Me listings are well-documented. No definitive NZ guide exists. High trust-building potential.",
@@ -188,7 +188,7 @@ const articles = [
     {
         title: "Your Bond Rights: What Auckland Renters Need to Know",
         category: "Rights & Legal",
-        status: "Planned",
+        status: "Written",
         priority: 13,
         targetKeywords: ["bond rights nz", "getting bond back nz", "bond refund tenant nz", "how long to get bond back new zealand"],
         hypothesis: "Bond disputes are the #1 Tenancy Tribunal issue. Every renter searches this at lease end. Existing content is legalistic. A practical guide with photo documentation tips, timeline, and dispute process would rank well.",
@@ -200,7 +200,7 @@ const articles = [
     {
         title: "Property Manager vs Private Landlord: What's Better for Auckland Renters?",
         category: "Core Evergreen",
-        status: "Future",
+        status: "Written",
         priority: 14,
         targetKeywords: ["property manager vs landlord nz", "renting from property manager", "private landlord nz rental"],
         hypothesis: "A question many renters have but don't know how to evaluate. No NZ content addresses this from the tenant perspective. Could become valuable once RentRant has data comparing responsiveness ratings between managed and private properties.",
@@ -212,7 +212,7 @@ const articles = [
     {
         title: "What the Rental Market Looks Like from the Tenant Side",
         category: "Data-Driven",
-        status: "Future",
+        status: "Written",
         priority: 16,
         targetKeywords: ["auckland rental report", "tenant survey auckland", "rental quality auckland data"],
         hypothesis: "Once RentRant has meaningful data (500+ ratings), publish an annual 'Auckland Rental Report Card' from aggregated tenant ratings. No one else has this data. Massive PR and backlink potential — media loves original data stories.",

@@ -1,0 +1,6 @@
+{{/* AI-assisted content disclosure — appears on all posts unless skipDisclosure: true */}}
+{{ if not .Params.skipDisclosure }}
+<aside class="ai-disclosure" aria-label="Content disclosure">
+    <p><strong>How we make these:</strong> We pick the topic, set the angle, and define what needs covering based on what Auckland renters actually deal with. AI tools handle the research and drafting under those parameters. We then verify every claim against official NZ sources (Tenancy Services, MBIE, Tribunal records) before publishing. Spot something wrong? <a href="mailto:hello@rentrant.nz">Tell us</a>.</p>
+</aside>
+{{ end }}
