@@ -268,6 +268,16 @@ Before publishing, verify:
 - [ ] Internal links to relevant RentRant content
 - [ ] External links to Tenancy Services/authoritative sources
 - [ ] Headings are descriptive and include keywords naturally
+
+### Agent Optimisation (see `docs/AGENT_OPTIMISATION_GUIDELINES.md` for full detail)
+- [ ] `key_facts` frontmatter block present (jurisdiction, last_verified, content_type, 3-7 facts)
+- [ ] NZ jurisdiction stated explicitly in the first 50 words
+- [ ] All regulations include their effective date at first mention
+- [ ] Blockquotes carrying warnings/templates/examples are prefixed with a semantic label (`**Warning:**`, `**Template:**`, `**Example:**`, `**Key point:**`, `**Tip:**`)
+- [ ] Each H2 section is self-contained — no "as mentioned above" cross-dependencies
+- [ ] Regulatory data with 3+ related facts is in a table, not prose
+- [ ] AI disclosure block present in markdown source (second-to-last section, before Resources)
+- [ ] `skipDisclosure` is `false` or absent in frontmatter
 ```
 
 ---
