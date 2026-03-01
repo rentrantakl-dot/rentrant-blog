@@ -9,6 +9,11 @@ theme = "rentrant-blog"
 # Enable emoji
 enableEmoji = true
 
+# Canonify root-relative URLs (e.g. /posts/...) to absolute URLs using baseURL.
+# Required because the Cloudflare Worker only routes /blog/* — root-relative links
+# would otherwise bypass the worker and hit the main app, causing 404s.
+canonifyURLs = true
+
 [params]
   tagline = "The truth about that flat you're eyeing."
   description = "Insights, tips, and updates for NZ renters."

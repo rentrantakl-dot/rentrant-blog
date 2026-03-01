@@ -34,7 +34,9 @@
             <div class="post-content">
                 {{ with .Params.image }}
                 <div class="featured-image mb-8">
-                    <img src="{{ . | absURL }}" alt="{{ $.Title }}"
+                    <img src="{{ . | absURL }}"
+                        alt="{{ $.Params.image_alt | default $.Title }}"
+                        loading="lazy"
                         style="width: 100%; height: auto; border-radius: 0.5rem;">
                 </div>
                 {{ end }}

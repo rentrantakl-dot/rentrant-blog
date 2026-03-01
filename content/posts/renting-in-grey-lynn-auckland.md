@@ -5,6 +5,8 @@ draft: false
 description: "Renting in Grey Lynn, Auckland? Here's the honest breakdown: 2-bedroom median $768/week (Crockers/REINZ), transport options, housing stock quality, and what to check."
 tags: ["auckland", "suburbs", "grey-lynn", "rent", "guide"]
 author: "RentRant Team"
+image: "images/grey-lynn-villa-guide.png"
+image_alt: "Illustrated watercolour of a Grey Lynn weatherboard villa with a figure on the front steps"
 
 key_facts:
   jurisdiction: "New Zealand"

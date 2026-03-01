@@ -5,6 +5,8 @@ draft: false
 description: "Looking for a place to rent in Auckland? Here's an honest breakdown of suburbs by price, transport, vibe, and what tenants actually experience."
 tags: ["auckland", "suburbs", "rent", "guide", "2026"]
 author: "RentRant Team"
+image: "images/auckland-suburbs-comparison.png"
+image_alt: "Illustrated watercolour bird's-eye sketch of Auckland suburbs with a small figure studying the scene through binoculars"
 ---
 
 Asking "what's the best suburb to rent in Auckland?" is a bit like asking "what's the best food?" — it depends entirely on who you are, what you need, and what you can afford.
