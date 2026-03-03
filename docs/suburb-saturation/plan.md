@@ -54,7 +54,7 @@ SEO authority from Kingsland/Mt Eden bleeds naturally into this cluster. Target 
 **Status:** Written, updated with sourced data. Commit with Henderson/Onehunga batch.
 **SEO target:** "renting in Grey Lynn Auckland", "Grey Lynn rental"
 **Renter profile:** Young professionals, couples, DINKs — digitally active, opinion-sharing (43.3% of residents rent)
-**Rent data:** 1-bed ~$550/week (+6.8% YoY), 2-bed ~$725/week (+6.5%), 3-bed ~$850/week (+8.6%) — Opes Partners / Trade Me early 2026
+**Rent data (Crockers/REINZ May 2025 — source used in published article):** 1-bed $569/week (-3% YoY), 2-bed $768/week (+1% YoY), 3-bed $886/week (-10% YoY). NOTE: Opes Partners/Trade Me early 2026 figures exist but show conflicting YoY trends — do not mix sources. Use Crockers/REINZ for consistency with published content.
 **Angle used:** Premium rents on older villa stock that may not meet Healthy Homes standards. Transparency as protection for renters paying for postcode without quality signals. Sentiment: **False Advertising** (character vs liveability) + **Winter Suffering**
 **Internal links:** ← Mt Albert, → Ponsonby (once written)
 
@@ -66,7 +66,7 @@ SEO authority from Kingsland/Mt Eden bleeds naturally into this cluster. Target 
 **SEO target:** "renting in Ponsonby Auckland", "Ponsonby rental", "Herne Bay rental Auckland"
 **Renter profile:** High-expectation professionals and creative workers paying well above the 30% affordability threshold. Barfoot & Thompson dominate PM in this area.
 **Rent data (Crockers May 2025 REINZ):**
-- 1-bed: $575/week (+1% YoY)
+- 1-bed: $569/week (+1% YoY)
 - 2-bed: $722/week (-4% YoY)
 - 3-bed: $996/week (-9% YoY)
 - 4-bed: $1,305/week (-7% YoY)
@@ -86,6 +86,7 @@ The deeper angle: long-term renters in Ponsonby are now particularly exposed to 
 - Barfoot & Thompson Trustpilot pattern: "very chaotic property manager, lots of talk and very little action" — maintenance delays documented
 - No-cause evictions now live — particularly affects long-term Ponsonby renters
 - B&T also among agencies named in "Bad Tenants" Facebook blacklist controversy
+- **The Leys Institute (20 St Mary's Road, Ponsonby)** — heritage library and pool complex, closed since 2019 for seismic strengthening, target reopening ~2028. Interim "Little Library" at 14 Jervois Road. This is a Ponsonby institution; do NOT place it in Grey Lynn.
 
 **Internal links:** ← Grey Lynn, → Eden Terrace, → core bond/Healthy Homes guides
 
@@ -104,7 +105,7 @@ The deeper angle: long-term renters in Ponsonby are now particularly exposed to 
 
 **Sharpened angle:** Lead with the Grafton Student Flats closure.
 
-University of Auckland confirmed Grafton Student Flats (Carlton Gore Pines) will not be available from 2026 onwards. This removes a known supply of affordable, walking-distance accommodation and pushes students directly into the private rental market — without the safety net of university-managed housing, and without the knowledge to navigate it.
+University of Auckland confirmed Grafton Student Flats (10A Carlton Gore Road — do NOT use the unofficial name "Carlton Gore Pines") will not be available from 2026 onwards. This removes a known supply of affordable, walking-distance accommodation and pushes students directly into the private rental market — without the safety net of university-managed housing, and without the knowledge to navigate it.
 
 This is the hook: a cohort of renters entering the market under time pressure, without NZ rental history, without local references, and without knowing that some property managers are asking for "rental CVs with photos" (Privacy Act grey area) and requiring bank statements per person. Discrimination by "plausible deniability" operates most effectively when applicant pools are large — and Eden Terrace/Grafton listings receive 20-50+ applications.
 
@@ -160,7 +161,7 @@ Two specific, documented risks for Sandringham renters that don't appear in gene
 **File to create:** `content/posts/renting-in-parnell-auckland.md`
 **Status:** Not started
 **SEO target:** "renting in Parnell Auckland", "Newmarket rental Auckland", "renting near Auckland hospital", "renting near Auckland CBD"
-**Renter profile:** Healthcare workers (Auckland Hospital at Grafton/Parnell border), international students, recent migrants. Diverse demographic, high turnover, weak local networks. Properties rent in 21 days median (Parnell).
+**Renter profile:** Healthcare workers (Auckland City Hospital is at 2 Park Road, Grafton — it is in Grafton, not at the Grafton/Parnell border), international students, recent migrants. Diverse demographic, high turnover, weak local networks. Properties rent in 21 days median (Parnell).
 **Rent data:**
 - Parnell: ~$750/week median (myRent)
 - Newmarket (Crockers Epsom/Newmarket/Royal Oak cluster May 2025): 1-bed $498/week, 2-bed $641/week, 3-bed $816/week
@@ -270,6 +271,21 @@ Every suburb post should link to geographic neighbours and to:
 - Bamboo Routes – Auckland gentrification 2026: https://bambooroutes.com/blogs/news/auckland-real-estate-market
 
 ---
+
+## Geographic Accuracy — Known Gotchas
+
+These are institutions or landmarks that are commonly misattributed to the wrong suburb. Verify physical addresses before placing anything in a suburb guide.
+
+| Institution / Feature | Actual suburb | Common mistake |
+|---|---|---|
+| Leys Institute (Grey Lynn Library + pool) | **Ponsonby** (20 St Mary's Road) | Placed in Grey Lynn |
+| Auckland City Hospital | **Grafton** (2 Park Road) | Described as Grafton/Parnell border |
+| Auckland Zoo | **Western Springs** (Motions Road) | Attributed to Mt Albert |
+| MOTAT | **Western Springs** (Great North Road) | Attributed to Mt Albert |
+| Michael Savage Memorial Park | **Orakei / Mission Bay** (Hapimana St) | Placed near Onehunga or Mt Roskill |
+| Maungawhau CRL station | **Eden Terrace** (1 New North Road) | Called "Mt Eden station" (old name) |
+
+**Rule:** Always verify an institution's physical street address before writing it into a suburb guide. Brand names (e.g. "Grey Lynn Library") do not always match the suburb the building is in.
 
 ## Review Notes
 

@@ -104,10 +104,10 @@ If you're renting specifically for school zones, double-check the zone boundarie
 Mt Albert is the kind of suburb where people walk their dogs in the evening, say hello at the dairy, and actually know their neighbours. It's not trying to be trendy. It just quietly gets on with it.
 
 **What's good:**
-- The **Saturday farmers' market** (Mt Albert Community Garden) — local produce, good coffee, community feel
+- The **Saturday farmers' market** (847 New North Road) — local produce, good coffee, community feel
 - Proximity to **Unitec** campus and the green spaces around Oakley Creek
-- **Auckland Zoo** is a walk away
-- **MOTAT** (Museum of Transport and Technology) for weekend rainy-day plans
+- **Auckland Zoo** in adjacent Western Springs — about 2–3 km away, a short cycle or drive
+- **MOTAT** (Museum of Transport and Technology) in Western Springs for weekend rainy-day plans
 - Good mix of cafes and eateries along New North Road — not flashy, but solid
 - The Western Springs/Motions Road Reserve area for walking and running
 

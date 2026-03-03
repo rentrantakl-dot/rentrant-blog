@@ -124,6 +124,7 @@ Herne Bay runs quieter — bigger houses, tree-lined streets that slope toward t
 **What's less good:**
 - Rents are high and going up — the market here rarely softens
 - A thin supply of ~18 properties/month means competition is real
+- The **Leys Institute** (20 St Mary's Road) — Ponsonby's heritage library and pool complex — has been closed since 2019 for seismic strengthening, with a 2028 reopening target. Library services are operating from a small interim branch at 14 Jervois Road.
 - Weekend parking and noise on Ponsonby Road affect some nearby properties
 - The professional PM layer makes tenant-PM relationships more transactional — and some PMs are significantly better than others
 - Older stock can mean cold winters despite premium prices

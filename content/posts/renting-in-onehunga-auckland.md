@@ -118,7 +118,7 @@ Metro magazine described Onehunga as having the kind of community cohesion that'
 **What's good:**
 - **Onehunga Bay / Māngere Inlet** — an actual gem. The walking and cycling path along the waterfront gives you views across to Māngere Bridge and out to the Manukau Harbour. Worth finding.
 - **Onehunga town centre** — functional without the premium. The main street has what you need without charging you for the aesthetic.
-- **Michael Savage Memorial Park** (close by in adjacent Mt Roskill) — large green reserve with city views
+- **Cornwall Park and One Tree Hill / Maungakiekie Domain** — about 2 km away, one of Auckland's best urban parks with sweeping city views and open farmland
 - Growing food scene — some genuinely good cafes and small restaurants have appeared over the last few years
 - Genuine community cohesion — the kind that doesn't need a farmers' market to prove it
 

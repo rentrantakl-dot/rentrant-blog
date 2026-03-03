@@ -30,7 +30,7 @@ Under New Zealand's broader transport investment programme, the CRL represents t
 
 ## What Is the City Rail Link, Actually?
 
-The CRL is a 3.45 km twin-tunnel underground rail link running beneath the Auckland CBD. It connects the existing Western Line (Mt Albert, Kingsland, Grafton direction) to Britomart — which previously functioned only as a terminus, meaning trains had to reverse in and out.
+The CRL is a 3.45 km twin-tunnel underground rail link running beneath the Auckland CBD. It connects the Western Line (serving Mt Albert, Kingsland, and beyond to Henderson and west Auckland) through new underground stations to Britomart — which previously functioned only as a terminus, meaning trains had to reverse in and out. When the CRL opens, the Western Line will be rerouted through the tunnel; Grafton station will transfer to the Southern Line network.
 
 Once fully operational, the CRL creates a **through-running network**: trains enter from one side and exit from the other, which dramatically increases capacity and allows higher frequency services across all lines.
 

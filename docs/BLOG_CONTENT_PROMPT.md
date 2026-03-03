@@ -236,6 +236,40 @@ All content must be accurate for New Zealand — not just legally, but contextua
 - [ ] Market observations are Auckland/NZ-specific (not imported from Australian or UK markets)
 - [ ] Seasonal references fit Southern Hemisphere (winter = June-August)
 
+### Geographic Accuracy (Critical — suburb guides)
+
+Misattributing a place to the wrong suburb destroys credibility. The errors are easy to make because brand names, catchment areas, and physical locations often don't match.
+
+**Mandatory checks before writing any institution, landmark, or amenity into a suburb guide:**
+
+1. **Verify the physical street address** — not the service name, not the catchment area, not what Google autocompletes. Check Auckland Council's [GeoMaps](https://geomaps.aucklandcouncil.govt.nz/) or the institution's own website for the actual address.
+
+2. **Brand name ≠ suburb** — a service named after one suburb may physically sit in another. Key example: "Grey Lynn Library" (branch name) is inside the Leys Institute at 20 St Mary's Road, **Ponsonby**. The branch serves Grey Lynn but the building is not in Grey Lynn.
+
+3. **Use only official names** — verify against the institution's own website or Auckland Council records. Informal names (e.g. "Carlton Gore Pines" for Grafton Student Flats) should never appear in published content.
+
+4. **Check the Known Gotchas table** in `docs/suburb-saturation/plan.md` before writing about any inner-Auckland institution. It captures confirmed misattributions from previous content.
+
+5. **Infrastructure state** — for CRL/rail content, always describe the post-CRL network (H2 2026 onwards), not the pre-CRL state. Verify line assignments at [Auckland Transport's CRL page](https://at.govt.nz/projects-initiatives/city-centre-projects-and-initiatives/city-rail-link-aucklands-new-network-in-2026/).
+
+**Known misattributions (do not repeat):**
+
+| Institution | Actual location | Wrong assumption |
+|---|---|---|
+| Leys Institute / Grey Lynn Library | Ponsonby, 20 St Mary's Rd | Grey Lynn |
+| Auckland City Hospital | Grafton, 2 Park Road | Grafton/Parnell border |
+| Auckland Zoo | Western Springs, Motions Road | Mt Albert |
+| MOTAT | Western Springs, Great North Road | Mt Albert |
+| Michael Savage Memorial Park | Orakei/Mission Bay, Hapimana St | Near Onehunga or Mt Roskill |
+
+**Rent data source rule:** Within a single article, use one data source for rent figures and cite it clearly. Do not mix Crockers/REINZ data with Opes Partners/Trade Me data in the same article — they use different methodologies and may show conflicting YoY trends.
+
+- [ ] Every institution/landmark/amenity mentioned has been verified at its physical street address
+- [ ] No service brand name has been assumed to match a suburb (checked against actual address)
+- [ ] Only official names used — no informal/unofficial building names
+- [ ] Rent data comes from a single named source (Crockers/REINZ preferred for consistency)
+- [ ] For transport content: post-CRL network state verified, not pre-CRL
+
 ---
 
 ## 7. FINAL CHECKLIST
@@ -262,6 +296,13 @@ Before publishing, verify:
 - [ ] Links to authoritative sources where needed
 - [ ] Specific, actionable advice (not vague platitudes)
 - [ ] Answers a real question renters have
+
+### Geographic Accuracy (suburb guides only)
+- [ ] Every institution, landmark, and amenity verified at its physical street address — not assumed from service name or catchment area
+- [ ] Checked `docs/suburb-saturation/plan.md` Known Gotchas table for common misattributions
+- [ ] No informal/unofficial building names used — only names verifiable from the institution's own website or Auckland Council
+- [ ] Rent data uses a single source throughout — no mixing of Crockers/REINZ and Opes/Trade Me figures
+- [ ] Image filenames and article slug match the suburb the content is actually about
 
 ### SEO
 - [ ] Primary keyword in title, first paragraph, one H2, description

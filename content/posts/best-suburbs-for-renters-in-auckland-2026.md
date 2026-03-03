@@ -112,7 +112,7 @@ The "not too expensive, not too basic" tier. Usually a mix of older and newer ho
 
 **Housing stock:** Classic Auckland mix — 1920s villas and bungalows alongside newer developments. Older houses can be cold; look for insulation.
 
-**Vibe:** Leafy, established, neighbourhood feel. Saturday farmers' market. Close to Unitec and Auckland Zoo.
+**Vibe:** Leafy, established, neighbourhood feel. Saturday farmers' market. Close to Unitec; Auckland Zoo and MOTAT are a short cycle away in adjacent Western Springs.
 
 **Watch for:** Competition is moderate. Check the age and condition of villas carefully.
 

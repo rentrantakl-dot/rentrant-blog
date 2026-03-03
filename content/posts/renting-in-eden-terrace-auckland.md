@@ -138,7 +138,7 @@ This is where expectation-setting matters. Eden Terrace is not a neighbourhood i
 
 **What's good:**
 - **Location is unmatched** for students and CBD workers — the walk-to-work or walk-to-campus proposition is the whole point
-- **Auckland City Hospital** is adjacent to Grafton — if you work in healthcare, the commute is zero
+- **Auckland City Hospital** is in Grafton (2 Park Road) — if you work in healthcare, the commute is zero
 - **Newmarket** is a short walk south, with better shopping and food options than the immediate area
 - High turnover means properties come up frequently — easier to move if a building doesn't work for you
 - No car needed — real public transport and walking coverage
