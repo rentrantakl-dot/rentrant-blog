@@ -6,6 +6,18 @@ description: "A practical guide to mould in Auckland rentals. Who's responsible,
 tags: ["mould", "auckland", "healthy-homes", "tenant-rights", "tenancy-tribunal", "ventilation"]
 author: "RentRant Team"
 
+key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "2026-02-06"
+  content_type: "guide"
+  primary_law: "Residential Tenancies (Healthy Homes Standards) Regulations 2019"
+  facts:
+    - "Ventilation standard: kitchen extractor must vent to outside; bathroom requires extractor or openable window of at least 300×300mm"
+    - "Moisture ingress standard: no water should enter through roof, walls, or ground — fully in effect since 1 July 2025"
+    - "Landlords cannot require tenants to simply 'open windows more' to address a structural moisture problem"
+    - "Exemplary damages for Healthy Homes non-compliance: up to $7,200 (fewer than 6 properties), up to $50,000 (larger landlords)"
+    - "Rent reductions of 20-40% have been awarded in multiple Auckland cases where mould resulted from structural causes"
+
 # Social & Sharing
 # image: "images/mould-auckland-rental.jpg"
 ---
@@ -286,4 +298,4 @@ Living in a healthy home isn't a luxury. It's the legal minimum.
 
 ---
 
-*Had a mouldy flat? [Rate the insulation, ventilation, and moisture on RentRant](https://rentrant.nz). Make conditions visible so the next tenant knows what they're walking into.*
+*Had a mouldy flat? [Rate the insulation, ventilation, and dampness on RentRant](https://rentrant.nz/locations/search). The platform is early-stage, but every rating makes conditions more visible for the next person — and less deniable for the landlord.*

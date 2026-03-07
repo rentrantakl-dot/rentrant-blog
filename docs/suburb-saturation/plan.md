@@ -2,8 +2,8 @@
 
 ```
 Status: In Progress
-Last updated: 2026-02-28
-Next action: Write Ponsonby/Herne Bay AND Eden Terrace/Grafton posts in parallel
+Last updated: 2026-03-03
+Next action: Write Sandringham post (next priority); additional topic candidates added for Grey Lynn, Eden Terrace/Grafton, Mt Albert
 ```
 
 ## Goal
@@ -57,6 +57,31 @@ SEO authority from Kingsland/Mt Eden bleeds naturally into this cluster. Target 
 **Rent data (Crockers/REINZ May 2025 — source used in published article):** 1-bed $569/week (-3% YoY), 2-bed $768/week (+1% YoY), 3-bed $886/week (-10% YoY). NOTE: Opes Partners/Trade Me early 2026 figures exist but show conflicting YoY trends — do not mix sources. Use Crockers/REINZ for consistency with published content.
 **Angle used:** Premium rents on older villa stock that may not meet Healthy Homes standards. Transparency as protection for renters paying for postcode without quality signals. Sentiment: **False Advertising** (character vs liveability) + **Winter Suffering**
 **Internal links:** ← Mt Albert, → Ponsonby (once written)
+
+#### Grey Lynn — Additional Content Opportunities
+
+**Topic A: What Plan Change 120 Means for Grey Lynn Renters**
+- **Status:** Not started
+- **Hypothesis:** PC120 (notified 3 Nov 2025, not yet operative as of March 2026) zones parts of Grey Lynn for 6-storey development along Richmond Road/Great North Road corridor (Baildon, Edwards, Allen Roads area), with Great North Road itself potentially rising to 15 storeys in the notified version. Landlords in upzoning corridors have financial incentive to issue 90-day no-cause terminations and redevelop rather than maintain. Grey Lynn renters paying premium rents in these corridors face displacement risk they're not aware of.
+- **Angle:** "Is your Grey Lynn block being upzoned? What PC120 means if your landlord wants to redevelop."
+- **Accuracy requirements before writing:**
+  - PC120 is notified but NOT yet operative — state this clearly (appeals/submissions period ongoing)
+  - Do not name specific streets as "definitely upzoned" without checking Auckland Council GeoMaps for the current notified zone layer — PC120 zone boundaries are complex
+  - Frame as "what to check" not "here's what's happening to your street"
+  - Link to [Auckland Council GeoMaps](https://geomaps.aucklandcouncil.govt.nz/) for readers to self-verify
+- **Sentiment hook:** **Instability** (no-cause eviction for redevelopment) + **Powerlessness**
+- **SEO target:** "Plan Change 120 Grey Lynn renters", "Grey Lynn upzoning rental"
+
+**Topic B: The Grey Lynn Lifestyle Premium — What's Actually Worth It**
+- **Status:** Not started
+- **Hypothesis:** Grey Lynn commands premium rents partly on lifestyle signifiers: the farmers market, Richmond Road cafes, walkability, village feel. A grounded guide examining which amenities are genuine and accessible vs which are part of the brand mythology. Honest about the trade-offs at the price point.
+- **Angle:** "Grey Lynn's lifestyle premium: what's real, what's marketing, and what to actually factor into your rent decision."
+- **Accuracy requirements before writing:**
+  - Grey Lynn Farmers Market: **510 Richmond Road** (weekly). The last Sunday of the month moves to **449 Richmond Road** (Grey Lynn Community Centre, Great North Road side). Verify this schedule is still current before publishing.
+  - Do NOT call it the "Grey Lynn Community Garden farmers market" — the correct name is the Grey Lynn Farmers Market or Grey Lynn Community Market
+  - The market is run by a community trust, not a commercial operator — verify before implying otherwise
+- **Sentiment hook:** **Financial Bleed** (paying for amenities you may not use at the price point)
+- **SEO target:** "Grey Lynn rent worth it", "Grey Lynn rental lifestyle"
 
 ---
 
@@ -122,12 +147,90 @@ This is the hook: a cohort of renters entering the market under time pressure, w
 
 **Internal links:** ← Grey Lynn, ← Ponsonby, → Parnell, → Newmarket, → first-time renting guide
 
+#### Eden Terrace / Grafton — Additional Content Opportunities
+
+**Topic A: Leaky Building Risk in Eden Terrace Apartments — What to Check**
+- **Status:** Not started
+- **Hypothesis:** Eden Terrace's apartment stock includes buildings constructed between 1994 and 2004 — the peak era of monolithic cladding / "leaky building" construction in NZ. Renters rarely check for this risk, and agents do not volunteer it. A guide to recognising leaky-era buildings and what questions to ask before signing.
+- **Angle:** "The hidden risk in Eden Terrace apartments: how to spot a leaky-era building before you move in."
+- **Accuracy requirements — critical:**
+  - The leaky building era in NZ is approximately 1994–2004. This is verifiable from MBIE's monolithic cladding guidance and the Weathertight Homes Resolution Service records.
+  - **Do NOT name specific buildings as "leaky" without citing a published, sourced report or Tribunal decision.** You may say a building "was constructed in the leaky-era and carries the typical construction risks associated with that period" but not "this building has leaky building issues" without specific evidence.
+  - Uptown apartments (65 units, approximately 10 Park Road area, built ~2002) has been cited as an example in research; only reference this if a verifiable published source exists — verify before writing.
+  - Recommended frame: "buildings built between 1994 and 2004 warrant extra checks — here's what to look for and who to ask"
+  - Link to MBIE's weathertight homes resources and the Weathertight Homes Resolution Service process
+- **Sentiment hook:** **False Advertising** (photogenic apartments that look fine until winter) + **Financial Bleed** (remediation costs if you're stuck)
+- **SEO target:** "leaky building Eden Terrace", "renting apartment Auckland leaky building check"
+
+**Topic B: Grafton Station After the CRL — What Changes for Renters**
+- **Status:** Not started — publish when CRL opening is imminent (H2 2026) or as forward-looking guide
+- **Hypothesis:** Post-CRL, Grafton station will be served by the **South-City Line** as its primary service, and the **Onehunga-West Line** for off-peak/weekends. The **East-West Line does NOT serve Grafton**. This changes the commute profile for renters choosing Grafton over Eden Terrace based on train access — particularly for anyone expecting CBD-direct or cross-city service.
+- **Angle:** "Grafton station after the CRL: what the new network means for renters near Auckland Hospital."
+- **Accuracy requirements:**
+  - CRL full service expected H2 2026 — verify AT's published timeline before framing as "now open" vs "opening soon"
+  - Grafton station line assignments: always verify against [AT's CRL page](https://at.govt.nz/projects-initiatives/city-centre-projects-and-initiatives/city-rail-link-aucklands-new-network-in-2026/) before publishing — line names and service patterns may change before go-live
+  - Maungawhau station (Eden Terrace, 1 New North Road) is the CRL underground station — do NOT call it "Mt Eden station" (old name)
+  - Grafton station remains above-ground on the existing network, served by re-routed lines
+- **Sentiment hook:** **False Advertising** (renters choosing Grafton for train access need accurate service information)
+- **SEO target:** "Grafton station CRL", "renting near Grafton train station Auckland"
+
+**Topic C: Renting Near Auckland City Hospital — A Guide for Healthcare Workers**
+- **Status:** Not started
+- **Hypothesis:** Auckland City Hospital (2 Park Road, **Grafton** — it is IN Grafton, not at the Grafton/Parnell border) employs thousands of healthcare workers on rotating shifts. Shift workers face specific rental challenges: irregular hours mean less time to chase maintenance, overnight on-call shifts make commute distance to the hospital critical, and exhaustion makes it easy to accept poor conditions. A targeted guide for healthcare workers renting near the hospital.
+- **Angle:** "Renting near Auckland City Hospital: what shift workers need to know about Grafton and Parnell."
+- **Accuracy requirements:**
+  - Auckland City Hospital: **2 Park Road, Grafton**. The hospital is in Grafton — not Parnell, not at the Grafton/Parnell border. The suburb boundary runs along Park Road itself.
+  - Walking distances from the hospital: Grafton is immediate walking distance; Parnell is 10-15 min walk; Newton ~15 min walk; Eden Terrace ~20 min walk via Symonds Street
+  - Reference to Grafton Student Flats closure (covered in main article) as context for reduced affordable nearby supply
+- **Sentiment hook:** **Powerlessness** (too tired to fight bad conditions) + **Financial Bleed** (commute costs add up on shift worker wages)
+- **SEO target:** "renting near Auckland hospital", "Grafton rental Auckland City Hospital"
+
 ---
 
 ### 4. Mt Albert ✅ DONE + Sandringham — NEEDED
 **Mt Albert file:** `content/posts/renting-in-mt-albert-auckland.md` (committed)
 **Sandringham file to create:** `content/posts/renting-in-sandringham-auckland.md`
 **Status:** Mt Albert done. Sandringham not started.
+
+#### Mt Albert — Additional Content Opportunities
+
+**Topic A: Renting for MAGS — What the Zone Actually Covers**
+- **Status:** Not started
+- **Hypothesis:** Mt Albert Grammar School (MAGS) is one of Auckland's most sought-after school zones. Families pay a significant rent premium to access it. But the zone does NOT cover all of Mt Albert — it has a complex boundary that excludes parts of the suburb and changes periodically. Families renting "in Mt Albert" in good faith may find themselves outside the zone when enrolment time comes.
+- **Angle:** "Renting in Mt Albert for the MAGS zone: why your suburb name isn't enough — and how to actually check."
+- **Accuracy requirements — critical:**
+  - Do NOT publish specific streets as "inside" or "outside" the zone. Zone boundaries change each year and the school makes individual address decisions. Direct readers to the Ministry of Education zone checker or the school's own enrolment page.
+  - Pt Chevalier is largely outside the MAGS zone despite being adjacent — do not imply otherwise without checking the current year's boundary.
+  - Zone-checking must be done by street address, not suburb name.
+  - Even within the home zone, enrolment is not guaranteed if rolls are full — out-of-zone applicants are balloted.
+  - If a rent premium is cited, use a single named source.
+- **Sentiment hook:** **Financial Bleed** (paying zone premium without confirming zone) + **False Advertising** ("near MAGS" in listings does not mean in zone)
+- **SEO target:** "renting MAGS zone Auckland", "Mt Albert Grammar school zone rental"
+
+**Topic B: The Unitec Development — What Mt Albert Renters Need to Know**
+- **Status:** Not started
+- **Hypothesis:** Unitec merged with MIT on 1 January 2026, with the Unitec brand and campus continuing at Carrington Road at reduced scale. The surrounding 39.7ha of Unitec land is earmarked for approximately 4,000 homes — one of Auckland's largest urban infill projects. For renters near the Carrington Road campus, this means construction disruption now and significant new housing supply on the horizon.
+- **Angle:** "Mt Albert's biggest change in decades: what the Unitec land development means for renters."
+- **Accuracy requirements:**
+  - Unitec/MIT merger: effective 1 January 2026 (Tertiary Education Commission). The Unitec brand continues at the Carrington Road campus.
+  - Do NOT describe the Unitec campus as "closed" — it is operating at reduced scale.
+  - 39.7ha / ~4,000 homes: verify current consents status, developer identity, and published timeline before citing these figures. Hedge as "planned" not "approved."
+- **Sentiment hook:** **Instability** (suburb character changing rapidly) balanced with opportunity angle (more supply = more options eventually)
+- **SEO target:** "Unitec development Mt Albert rental", "Carrington Road housing development Auckland"
+
+**Topic C: Mt Albert Without a Car — An Honest Transport Guide**
+- **Status:** Not started
+- **Hypothesis:** Mt Albert is often framed as requiring a car, but the Western Line train station is approximately 300–320m from the New North Road shops via the pedestrian overbridge — roughly a 4–5 minute walk. Combined with bus links along Sandringham and Dominion Roads, car-free living is more viable than most listings imply. Post-CRL, the Western Line is rerouted through the tunnel and service patterns change.
+- **Angle:** "Can you actually live in Mt Albert without a car? What the train station and buses actually offer."
+- **Accuracy requirements:**
+  - Mt Albert station: ~300–320m from New North Road shops via pedestrian overbridge, ~4–5 minute walk. Verify against current mapping before quoting.
+  - Auckland Zoo and MOTAT are in **Western Springs** (Motions Road and Great North Road respectively) — NOT in Mt Albert. They are ~2–3km away by bike or bus; do not describe them as walkable from Mt Albert without this qualifier.
+  - Post-CRL Western Line changes: verify current service pattern at AT's trip planner. Frame as upcoming/imminent (H2 2026), not current.
+- **Sentiment hook:** **Financial Bleed** (car ownership adds $200–400+/month to the real cost of renting)
+- **SEO target:** "Mt Albert public transport Auckland", "renting Mt Albert without a car"
+
+---
+
 **SEO target:** "renting in Sandringham Auckland", "Sandringham rental"
 **Renter profile:** Large South Asian and East Asian communities (Indian, Sri Lankan, Bangladeshi concentrated on Sandringham Road; Chinese-background residents in adjacent Balmoral). 45.3% renter rate. Multi-generational households common.
 **Rent data (Crockers May 2025, Sandringham/Three Kings/Hillsborough cluster):**

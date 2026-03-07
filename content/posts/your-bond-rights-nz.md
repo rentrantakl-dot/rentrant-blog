@@ -6,6 +6,18 @@ description: "Everything NZ renters need to know about bond. How much, how it's 
 tags: ["bond", "tenant-rights", "auckland", "guide", "tenancy-tribunal"]
 author: "RentRant Team"
 
+key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "2026-02-14"
+  content_type: "guide"
+  primary_law: "Residential Tenancies Act 1986"
+  facts:
+    - "Bond maximum: 4 weeks rent; pet bond (from 1 December 2025): additional 2 weeks rent maximum"
+    - "Bond must be lodged with Tenancy Services within 23 working days of receipt"
+    - "Tenancy Services aims to process agreed refunds within 5-10 working days"
+    - "17% of bonds missed the 5-day return target in 2025 due to MBIE system transition — delays are documented"
+    - "Tenancy Tribunal application fee: approximately $20; recoverable if you win"
+
 # Social & Sharing
 # image: "images/bond-rights-nz.jpg"
 ---
@@ -250,4 +262,4 @@ Some landlords try to claim bond for things that aren't your responsibility. Her
 
 ---
 
-*Moving out? [Rate your rental on RentRant](https://rentrant.nz) before you go. Future tenants deserve to know what they're signing up for — and your experience makes the picture clearer for everyone.*
+*Moving out? Once the bond's sorted, [rate the property on RentRant](https://rentrant.nz/locations/search). How responsive was the landlord? Did the insulation hold up? Your experience — even a quick rating — makes the picture clearer for whoever moves in next.*

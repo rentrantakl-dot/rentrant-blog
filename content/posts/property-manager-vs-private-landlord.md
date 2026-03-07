@@ -6,6 +6,17 @@ description: "Should you rent from a property manager or a private landlord in N
 tags: ["renting-tips", "auckland", "property-manager", "landlord", "tenant-rights"]
 author: "RentRant Team"
 
+key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "2026-02-22"
+  content_type: "guide"
+  primary_law: "Residential Tenancies Act 1986"
+  facts:
+    - "Approximately 60-70% of NZ rentals are managed by private landlords"
+    - "Healthy Homes Standards fully in effect since 1 July 2025 — obligations apply regardless of management type"
+    - "90-day no-cause periodic termination reintroduced 30 January 2025 under the Residential Tenancies Amendment Act 2024"
+    - "Exemplary damages for serious breaches: up to $7,200 (landlords with fewer than 6 properties) or $50,000 (6+ properties)"
+
 # Social & Sharing
 # image: "images/property-manager-vs-landlord.jpg"
 ---
@@ -173,4 +184,4 @@ The best signal? Talk to current or former tenants. That's the single most relia
 
 ---
 
-*We're building [RentRant](https://rentrant.nz) to make that "talk to former tenants" part easier. Structured ratings from real tenants, aggregated into patterns — so you can see what a property or landlord is actually like before you sign. No stories, no accusations. Just signal.*
+*The best signal is always former tenants. [RentRant](https://rentrant.nz/how-it-works) is building that — structured ratings from real tenants, aggregated into patterns. If you've rented, add yours. It makes the picture clearer for everyone after you.*

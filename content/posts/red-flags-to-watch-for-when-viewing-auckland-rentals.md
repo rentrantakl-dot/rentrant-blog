@@ -6,6 +6,18 @@ description: "A practical viewing checklist for Auckland renters. Spot mould, in
 tags: ["auckland", "rental-viewing", "checklist", "healthy-homes", "tenant-rights", "renting-tips"]
 author: "RentRant Team"
 
+key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "2026-02-06"
+  content_type: "checklist"
+  primary_law: "Residential Tenancies (Healthy Homes Standards) Regulations 2019"
+  facts:
+    - "Landlords must provide a Healthy Homes compliance statement within 21 days of tenancy start"
+    - "Heating standard: a fixed heater capable of warming the main living room to at least 18°C"
+    - "Bathroom ventilation: extractor fan venting outside OR openable window of at least 300×300mm"
+    - "Kitchen extractor must vent outside — recirculating rangehoods do not meet the standard"
+    - "LIM (Land Information Memorandum) from Auckland Council costs approximately $350 and can reveal consent history and weathertightness flags"
+
 # Social & Sharing
 # image: "images/red-flags-rental-viewing.jpg"
 ---
@@ -245,6 +257,10 @@ Google the address. Sometimes you'll find old listings with different photos, or
 
 You can order a Land Information Memorandum from Auckland Council for around $350. Most renters won't do this. But if you're considering a long-term tenancy, especially in an unusual property, it can reveal consent history, building compliance issues, and weather tightness flags. Expensive, but cheaper than moving out after six months.
 
+**Search RentRant:**
+
+[Search the property address on RentRant](https://rentrant.nz/locations/search). If previous tenants have reviewed it, you'll see how it scored on heating, insulation, dampness, and landlord responsiveness. The platform is early-stage, so not every property has reviews yet — but it's worth checking, and if yours isn't there you can add it after you move out.
+
 **Ask around:**
 
 If you know anyone in the area, ask them. Neighbourhood intel is underrated.
@@ -276,4 +292,4 @@ And if something feels off — if the place smells damp, if the landlord is evas
 
 ---
 
-*Seen this flat before — from the inside? [Rate it on RentRant](https://rentrant.nz). Future tenants deserve to know what you experienced.*
+*Moved out of a place in Auckland? [Rate it on RentRant](https://rentrant.nz/locations/search) — heating, insulation, dampness, landlord responsiveness. The more tenants add their experience, the more useful it gets for the next person doing exactly what you just did.*

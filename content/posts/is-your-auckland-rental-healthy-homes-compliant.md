@@ -1,10 +1,30 @@
----
+gi---
 title: "Is Your Auckland Rental Healthy Homes Compliant? How to Check"
 date: 2026-02-06T14:35:00+13:00
 draft: false
 description: "How to check if your Auckland rental meets Healthy Homes standards, what to do if it doesn't, and real Tribunal cases showing what tenants have won."
 tags: ["healthy-homes", "auckland", "tenant-rights", "compliance", "rental-inspection", "tenancy-tribunal"]
 author: "RentRant Team"
+
+key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "2026-02-06"
+  content_type: "guide"
+  primary_law: "Residential Tenancies (Healthy Homes Standards) Regulations 2019"
+  facts:
+    - "All five Healthy Homes Standards fully in effect since 1 July 2025"
+    - "Landlords must provide a written compliance statement within 21 days of tenancy start"
+    - "Failing to provide a compliance statement is itself a breach subject to Tribunal action"
+    - "Exemplary damages for non-compliance: up to $7,200 (fewer than 6 properties) or $50,000 (6+ properties)"
+    - "Rent reductions of 20-40% have been awarded for periods of non-compliance"
+
+faqs:
+  - question: "Do all New Zealand rentals have to meet Healthy Homes Standards?"
+    answer: "Yes. Since 1 July 2025, every rental property in New Zealand must comply with all five Healthy Homes Standards: heating, insulation, ventilation, moisture ingress and drainage, and draught stopping. There are no exemptions based on property age — only narrow physical installation limitations."
+  - question: "What can I do if my Auckland rental doesn't meet Healthy Homes Standards?"
+    answer: "Put the issue in writing to your landlord and give them a reasonable timeframe to fix it. If they don't respond or refuse, you can contact Tenancy Services for free mediation, or apply to the Tenancy Tribunal for a compliance order and compensation. Tenants have been awarded rent reductions of 20-40% for non-compliant periods."
+  - question: "Can my landlord evict me for raising Healthy Homes issues?"
+    answer: "No. Retaliatory termination — issuing a notice because a tenant asserted their legal rights — is illegal under the Residential Tenancies Act. If you receive a notice shortly after raising a compliance issue, you may be able to challenge it at the Tenancy Tribunal as retaliatory."
 
 # Social & Sharing
 # image: "images/healthy-homes-compliance.jpg"
@@ -290,4 +310,4 @@ Use this for a quick self-assessment:
 
 ---
 
-*If your rental meets the standards — great. If it doesn't — you have rights. [Rate your rental's condition on RentRant](https://rentrant.nz) and help others know what to expect.*
+*If your rental doesn't meet the standards — you have rights. And if you've moved on, [rate the property on RentRant](https://rentrant.nz/locations/search) — heating, insulation, ventilation, landlord responsiveness. The more tenants add theirs, the more useful the platform gets for everyone navigating Auckland's rental market.*

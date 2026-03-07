@@ -2,9 +2,20 @@
 title: "How to Tell if Your Rent Is Fair — Before You Sign the Lease"
 date: 2026-01-08T09:15:51+13:00
 draft: false
-description: "A practical guide for Auckland renters to assess whether the rent they're being asked to pay is reasonable — using free government tools, market data, and a clear framework for comparison."
-tags: ["auckland", "rent", "fair rent", "tenant rights", "healthy homes", "renting tips", "new zealand"]
+description: "Is your Auckland rent actually fair? Use Tenancy Services market data, Trade Me comparisons, and a practical framework to check before you sign."
+tags: ["auckland", "rent", "fair-rent", "tenant-rights", "healthy-homes", "renting-tips", "nz"]
 author: "RentRant Team"
+
+key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "2026-01-08"
+  content_type: "guide"
+  primary_law: "Residential Tenancies Act 1986"
+  facts:
+    - "Rent increases: maximum once every 12 months from tenancy start; 60 days written notice required"
+    - "Tenancy Services Market Rent Tool is free and searchable by suburb, bedroom count, and property type"
+    - "No-cause periodic termination: landlords can give 90 days notice without reason (from 30 January 2025)"
+    - "General affordability benchmark: housing costs should not exceed 30% of gross income"
 
 # Social & Sharing
 # image: "images/how-to-tell-if-your-rent-is-fair.jpg"
@@ -170,4 +181,4 @@ Before you sign a tenancy agreement, make sure you've covered these:
 
 ---
 
-*RentRant is building a platform where lived rental experiences become visible — structured ratings from real tenants, aggregated into patterns that help the next person make a more informed decision. No stories, no accusations. Just signal. [See how it works at rentrant.nz](https://rentrant.nz)*
+*Price is only part of the picture. If you've rented a property and can say whether the quality matched the rent, [add your experience on RentRant](https://rentrant.nz/locations/search) — it helps the next person make a more informed call.*
