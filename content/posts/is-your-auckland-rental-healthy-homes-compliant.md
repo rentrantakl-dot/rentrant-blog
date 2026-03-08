@@ -1,4 +1,4 @@
-gi---
+---
 title: "Is Your Auckland Rental Healthy Homes Compliant? How to Check"
 date: 2026-02-06T14:35:00+13:00
 draft: false

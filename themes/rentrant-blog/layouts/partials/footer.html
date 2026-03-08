@@ -24,6 +24,13 @@
 
         <div class="footer-bottom">
             <p>&copy; {{ now.Year }} {{ .Site.Title }}. Made with 💙 in Aotearoa.</p>
+            {{ if .Site.Menus.footer_legal }}
+            <ul class="footer-legal-nav">
+                {{ range .Site.Menus.footer_legal }}
+                <li><a href="{{ .URL }}" class="footer-legal-link">{{ .Name }}</a></li>
+                {{ end }}
+            </ul>
+            {{ end }}
         </div>
     </div>
 </footer>
