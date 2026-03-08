@@ -36,7 +36,7 @@ University accommodation is the safest first option for your first year. You're 
 
 Apply the moment your offer of study is confirmed. University of Auckland halls were 99.8% full at the start of 2025, with waiting lists already in place for self-catered residences. The university has been working to expand capacity — a target of 7,500 beds has been set — but demand has consistently run ahead of supply. Don't assume you'll get a place. Have a private rental plan ready to run in parallel, not as an afterthought.
 
-AUT has accommodation options for both City and South Campus students. Check their [accommodation page](https://www.aut.ac.nz/student-life/accommodation) for current options and application timelines. Timing matters — these fill up too.
+AUT has accommodation options for both City and North Campus students. Check their [accommodation page](https://www.aut.ac.nz/student-life/accommodation) for current options and application timelines. Timing matters — these fill up too.
 
 ---
 
