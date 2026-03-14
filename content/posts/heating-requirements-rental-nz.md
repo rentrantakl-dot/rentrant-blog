@@ -5,6 +5,7 @@ draft: false
 description: "NZ rental heating requirements explained: the 18°C rule, what heaters count, sizing requirements, and what to do if your Auckland rental doesn't comply."
 tags: ["healthy-homes", "heating", "tenant-rights", "guide", "auckland"]
 author: "RentRant Team"
+topic: "healthy-homes"
 
 key_facts:
   jurisdiction: "New Zealand"

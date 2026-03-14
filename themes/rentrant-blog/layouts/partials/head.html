@@ -123,7 +123,9 @@
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ .Permalink }}"
-  }
+  },
+  "wordCount": {{ .WordCount }},
+  "articleSection": "{{ if eq .Type "briefs" }}Brief{{ else }}In-Depth Guide{{ end }}"
   {{ with .Params.tags }},
   "keywords": "{{ delimit . ", " }}"
   {{ end }}

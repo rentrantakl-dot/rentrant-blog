@@ -5,6 +5,7 @@ draft: false
 description: "Renting in Auckland as an international student — how bonds work, how to avoid scams, what rights you have, and how to find a flat before you arrive."
 tags: ["auckland", "international-students", "guide", "bond", "tenant-rights", "scams", "renting-tips"]
 author: "RentRant Team"
+topic: "renting-tips"
 
 key_facts:
   jurisdiction: "New Zealand"

@@ -2,33 +2,34 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
-description: ""
+description: ""      # 150–160 chars; target the quick-answer search query
 tags: []
 author: "RentRant Team"
-brief: ""    # Optional: slug of companion brief (e.g. "healthy-homes-brief")
-topic: ""    # suburb-guide | tenant-rights | healthy-homes | renting-tips | market-data
-app_link: "" # Optional: deep link to relevant app page (see docs/app-routes.md). Leave blank to use app homepage.
+long_form: ""        # Optional: slug of the companion long-form guide (e.g. "healthy-homes-compliance-guide")
+topic: ""            # suburb-guide | tenant-rights | healthy-homes | renting-tips | market-data
+app_link: ""         # Optional: deep link to relevant app page (see docs/app-routes.md). Leave blank to use app homepage.
 
-# key_facts: Required for every post (see docs/BLOG_CONTENT_PROMPT.md)
+# key_facts: Required for every brief (see docs/BLOG_CONTENT_PROMPT.md)
 key_facts:
   jurisdiction: "New Zealand"
   last_verified: "{{ now.Format "2006-01-02" }}"
-  content_type: "guide"  # guide | analysis | update | checklist
+  content_type: "brief"
   primary_law: ""        # e.g. "Residential Tenancies Act 1986"
-  facts: []              # 3-7 bullet facts grounding the article
+  facts: []              # 2–4 key facts — pick the most load-bearing ones
 
-# faqs: Optional — enables FAQ rich results in Google Search (see docs/blog-technical-seo.md)
+# faqs: Highly recommended for briefs — Google often shows FAQ snippets for short focused articles
 # faqs:
 #   - question: ""
 #     answer: ""
 
 # Social & Sharing
 # image: "images/cover.jpg"
-# video: ""
 # images: []
 ---
 
-Write your post content here. Sweet as.
+<!-- TARGET: 500 words hard limit. Cut everything that isn't the core answer. One takeaway per section. -->
+
+Write your brief here. Sweet as.
 
 <!--
 App links — see docs/app-routes.md for the full reference:

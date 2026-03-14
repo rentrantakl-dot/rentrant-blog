@@ -5,6 +5,7 @@ draft: true
 description: "We're building something to help Kiwi renters. Here's what's happening."
 tags: ["updates", "community"]
 author: "RentRant Team"
+topic: "renting-tips"
 ---
 
 Kia ora! 👋

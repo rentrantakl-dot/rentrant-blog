@@ -5,6 +5,8 @@ draft: false
 description: "The Auckland rental market has shifted. Rents are softening, vacancy rates rising. Here's what that means for you and how to use it."
 tags: ["auckland", "rental-market", "rent", "2026", "guide"]
 author: "RentRant Team"
+topic: "market-data"
+app_link: "https://rentrant.nz/locations/search"
 ---
 
 For the first time in a decade, the power balance in Auckland's rental market is shifting. Slightly. And if you're renting or about to rent, you'd be wise to pay attention.

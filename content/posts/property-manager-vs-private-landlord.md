@@ -5,6 +5,7 @@ draft: false
 description: "Should you rent from a property manager or a private landlord in NZ? An honest look at what tenants actually experience with each."
 tags: ["renting-tips", "auckland", "property-manager", "landlord", "tenant-rights"]
 author: "RentRant Team"
+topic: "tenant-rights"
 
 key_facts:
   jurisdiction: "New Zealand"

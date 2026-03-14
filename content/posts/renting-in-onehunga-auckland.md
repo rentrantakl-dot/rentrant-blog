@@ -5,6 +5,8 @@ draft: false
 description: "An honest tenant's guide to renting in Onehunga, Auckland — median rents, transport options, housing stock, and why this mid-range suburb is worth considering."
 tags: ["auckland", "suburbs", "onehunga", "rent", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/onehunga"
 
 key_facts:
   jurisdiction: "New Zealand"

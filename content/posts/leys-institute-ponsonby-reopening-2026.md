@@ -5,6 +5,8 @@ draft: false
 description: "The Leys Institute in Ponsonby has been closed for seismic strengthening. Here's the current status, timeline, and what it means for the community while it's shut."
 tags: ["auckland", "ponsonby", "grey-lynn", "community", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/ponsonby"
 image: "images/leys-institute-ponsonby.png"
 image_alt: "Illustrated watercolour of the Leys Institute heritage building wrapped in scaffolding, warm light glowing from its windows"
 

@@ -5,6 +5,7 @@ draft: true
 description: ""
 tags: ["Rent Market"]
 author: "RentRant Team"
+topic: "market-data"
 
 # Social & Sharing
 # image: "images/cover.jpg" # Optional: Overrides site default for social cards

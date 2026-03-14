@@ -5,6 +5,7 @@ draft: false
 description: "Everything NZ renters need to know about bond. How much, how it's held, getting it back, pet bonds, and what to do if there's a dispute."
 tags: ["bond", "tenant-rights", "auckland", "guide", "tenancy-tribunal"]
 author: "RentRant Team"
+topic: "tenant-rights"
 
 key_facts:
   jurisdiction: "New Zealand"

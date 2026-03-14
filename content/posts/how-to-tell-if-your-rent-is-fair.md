@@ -5,6 +5,7 @@ draft: false
 description: "Is your Auckland rent actually fair? Use Tenancy Services market data, Trade Me comparisons, and a practical framework to check before you sign."
 tags: ["auckland", "rent", "fair-rent", "tenant-rights", "healthy-homes", "renting-tips", "nz"]
 author: "RentRant Team"
+topic: "renting-tips"
 
 key_facts:
   jurisdiction: "New Zealand"

@@ -5,6 +5,8 @@ draft: false
 description: "Insulation, solar, and heat pumps in Grey Lynn's character villas — what the Electrify Grey Lynn movement means for renters paying for older housing stock."
 tags: ["auckland", "grey-lynn", "healthy-homes", "rent", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/grey-lynn"
 image: "images/grey-lynn-villa-renovation.png"
 image_alt: "Illustrated watercolour cross-section of a Grey Lynn villa showing warm renovated interior alongside inadequate roof insulation"
 

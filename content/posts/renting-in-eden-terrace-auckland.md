@@ -5,6 +5,8 @@ draft: false
 description: "Eden Terrace and Grafton: Auckland's apartment belt, walking distance to two universities. Median rent $595/week, but quality varies hugely between buildings."
 tags: ["auckland", "suburbs", "eden-terrace", "grafton", "rent", "guide", "students"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/eden-terrace"
 
 key_facts:
   jurisdiction: "New Zealand"

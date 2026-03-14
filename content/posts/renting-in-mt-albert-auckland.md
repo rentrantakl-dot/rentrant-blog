@@ -5,6 +5,8 @@ draft: false
 description: "An honest tenant's guide to renting in Mt Albert, Auckland. Median rents, transport, schools, housing stock, and what to watch for."
 tags: ["auckland", "suburbs", "mt-albert", "rent", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/mt-albert"
 
 # Social & Sharing
 # image: "images/renting-mt-albert.jpg"

@@ -5,6 +5,8 @@ draft: false
 description: "Renting in Henderson, West Auckland — an honest guide to median rents, transport links, housing quality, and what to know about this budget-friendly suburb."
 tags: ["auckland", "suburbs", "henderson", "rent", "guide", "west-auckland"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/henderson"
 
 key_facts:
   jurisdiction: "New Zealand"

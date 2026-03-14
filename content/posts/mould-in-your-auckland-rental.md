@@ -5,6 +5,7 @@ draft: false
 description: "A practical guide to mould in Auckland rentals. Who's responsible, how to document it, and what real tenants have won at the Tribunal."
 tags: ["mould", "auckland", "healthy-homes", "tenant-rights", "tenancy-tribunal", "ventilation"]
 author: "RentRant Team"
+topic: "healthy-homes"
 
 key_facts:
   jurisdiction: "New Zealand"

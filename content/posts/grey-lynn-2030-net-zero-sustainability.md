@@ -5,6 +5,8 @@ draft: false
 description: "Grey Lynn's farmers market, ReUse markets, community gardens, and circular economy culture — and what it means to rent in a suburb that takes sustainability seriously."
 tags: ["auckland", "grey-lynn", "community", "sustainability", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/grey-lynn"
 image: "images/grey-lynn-2030-sustainability.png"
 image_alt: "Illustrated watercolour of the Grey Lynn Farmers Market with produce stalls, small figures browsing, and weatherboard villas in the background"
 

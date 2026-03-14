@@ -5,6 +5,7 @@ draft: false
 description: "Before signing an NZ rental, check your landlord's Tribunal history, reviews, and compliance record. Here's exactly how to do it in under 30 minutes."
 tags: ["tenant-rights", "pre-tenancy", "guide", "auckland", "tenancy-tribunal"]
 author: "RentRant Team"
+topic: "tenant-rights"
 
 key_facts:
   jurisdiction: "New Zealand"

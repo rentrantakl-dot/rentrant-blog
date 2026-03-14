@@ -5,6 +5,8 @@ draft: false
 description: "Renting in Ponsonby or Herne Bay, Auckland? At $700–900+/week, what you pay for the postcode is clear. What you get inside isn't. Here's what to check."
 tags: ["auckland", "suburbs", "ponsonby", "herne-bay", "rent", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/ponsonby"
 
 key_facts:
   jurisdiction: "New Zealand"

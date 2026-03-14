@@ -5,6 +5,7 @@ draft: false
 description: "The Residential Tenancies Amendment Act 2024 changed the game. Here's what the 90-day termination and other new rules mean for NZ renters."
 tags: ["tenant-rights", "tenancy-law", "2025", "guide", "nz-law"]
 author: "RentRant Team"
+topic: "tenant-rights"
 ---
 
 The Residential Tenancies Amendment Act 2024 came into effect on 30 January 2025. If you rent in New Zealand, these changes affect you — whether you've signed a new lease recently or you've been in the same flat for years.

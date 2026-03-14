@@ -5,6 +5,8 @@ draft: false
 description: "Moving into your first Auckland rental? Here's everything you need to know — from searching to signing to surviving your first year."
 tags: ["auckland", "first-time-renter", "guide", "tenant-rights", "tips"]
 author: "RentRant Team"
+topic: "renting-tips"
+app_link: "https://rentrant.nz/locations/search"
 ---
 
 So you're about to rent your first place in Auckland. Maybe you're leaving home, moving for work, starting uni, or just arrived in New Zealand. Whatever brought you here, there's a bunch of stuff you need to know that nobody really explains.

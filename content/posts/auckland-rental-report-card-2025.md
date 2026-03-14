@@ -5,6 +5,8 @@ draft: false
 description: "A data-driven look at Auckland's rental market from the tenant side. Rents, tribunal stats, Healthy Homes compliance, and what it all means."
 tags: ["auckland", "rent", "data", "tenant-rights", "healthy-homes", "2026"]
 author: "RentRant Team"
+topic: "market-data"
+app_link: "https://rentrant.nz/locations/search"
 
 # Social & Sharing
 # image: "images/auckland-rental-report-card.jpg"

@@ -5,6 +5,8 @@ draft: false
 description: "The Maungawhau station reopening in 2026 reshapes commutes for Grey Lynn renters. Here's what actually changes — and what doesn't."
 tags: ["auckland", "grey-lynn", "transport", "city-rail-link", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/grey-lynn"
 image: "images/city-rail-link-grey-lynn.png"
 image_alt: "Illustrated watercolour of the Maungawhau CRL station entrance with basalt stone, amber glass panels and Mount Eden in the background"
 

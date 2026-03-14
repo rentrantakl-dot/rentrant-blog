@@ -5,6 +5,7 @@ draft: false
 description: "How to check if your Auckland rental meets Healthy Homes standards, what to do if it doesn't, and real Tribunal cases showing what tenants have won."
 tags: ["healthy-homes", "auckland", "tenant-rights", "compliance", "rental-inspection", "tenancy-tribunal"]
 author: "RentRant Team"
+topic: "healthy-homes"
 
 key_facts:
   jurisdiction: "New Zealand"

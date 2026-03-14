@@ -3,6 +3,7 @@
 /resources
 .hugo_build.lock
 /docs
+/docs/*
 
 # Dependency directories
 /node_modules

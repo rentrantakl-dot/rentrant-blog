@@ -5,6 +5,8 @@ draft: false
 description: "Moving to Auckland to study? Run these 9 checks before you sign anything — verify your bond, spot scams, and protect yourself under NZ tenancy law."
 tags: ["auckland", "international-students", "checklist", "bond", "tenant-rights", "scams", "renting-tips"]
 author: "RentRant Team"
+topic: "renting-tips"
+app_link: "https://rentrant.nz/locations/search"
 
 key_facts:
   jurisdiction: "New Zealand"

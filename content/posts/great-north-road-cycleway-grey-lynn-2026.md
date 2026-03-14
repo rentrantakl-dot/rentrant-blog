@@ -5,6 +5,8 @@ draft: false
 description: "200+ native trees, new cycleways, and pedestrian improvements along Great North Road, Grey Lynn. Here's what's changing and what it means for renters."
 tags: ["auckland", "grey-lynn", "transport", "cycling", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/grey-lynn"
 image: "images/great-north-road-cycleway.png"
 image_alt: "Illustrated watercolour of a cyclist in a protected lane beside native trees on Great North Road, Grey Lynn"
 

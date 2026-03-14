@@ -5,6 +5,8 @@ draft: false
 description: "Auckland rent is just the start. Here's what renting actually costs when you factor in power, water, transport and everything else landlords don't mention."
 tags: ["auckland", "rent", "cost-of-living", "guide", "budgeting"]
 author: "RentRant Team"
+topic: "market-data"
+app_link: "https://rentrant.nz/locations/search"
 ---
 
 That $650 a week flat in Grey Lynn looks manageable on paper. You've done the maths, checked your pay, maybe even created a spreadsheet. But here's what nobody tells you until you're three months in and wondering where your money went: the weekly rent is just the entry fee.

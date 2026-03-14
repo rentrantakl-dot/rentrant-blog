@@ -5,6 +5,7 @@ draft: false
 description: "A practical guide to negotiating rent in Auckland. When you have leverage, how to build your case, and scripts you can actually use."
 tags: ["rent", "negotiation", "auckland", "tenant-rights", "tips"]
 author: "RentRant Team"
+topic: "renting-tips"
 
 # Social & Sharing
 # image: "images/negotiate-rent-auckland.jpg"

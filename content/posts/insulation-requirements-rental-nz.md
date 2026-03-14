@@ -5,6 +5,7 @@ draft: false
 description: "NZ rental insulation requirements explained: R-values, ceiling and underfloor standards, exemptions, and how to check if your Auckland rental is compliant."
 tags: ["healthy-homes", "insulation", "tenant-rights", "guide", "auckland"]
 author: "RentRant Team"
+topic: "healthy-homes"
 
 key_facts:
   jurisdiction: "New Zealand"

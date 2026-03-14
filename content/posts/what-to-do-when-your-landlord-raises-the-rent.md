@@ -5,6 +5,7 @@ draft: false
 description: "A practical guide for NZ renters dealing with rent increases. Know your rights, check if it's fair, and learn how to push back."
 tags: ["rent-increase", "tenant-rights", "auckland", "negotiation", "tenancy-tribunal", "rent"]
 author: "RentRant Team"
+topic: "tenant-rights"
 
 # Social & Sharing
 # image: "images/rent-increase-guide.jpg"

@@ -5,6 +5,8 @@ draft: false
 description: "A practical viewing checklist for Auckland renters. Spot mould, insulation issues, and dodgy landlords before you sign anything."
 tags: ["auckland", "rental-viewing", "checklist", "healthy-homes", "tenant-rights", "renting-tips"]
 author: "RentRant Team"
+topic: "renting-tips"
+app_link: "https://rentrant.nz/locations/search"
 
 key_facts:
   jurisdiction: "New Zealand"

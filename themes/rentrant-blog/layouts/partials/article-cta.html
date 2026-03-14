@@ -1,0 +1,9 @@
+{{ if not .Params.skipCta }}
+{{ $link := .Params.app_link | default .Site.Params.mainAppUrl }}
+{{ $utmLink := printf "%s?utm_source=blog&utm_medium=article-cta&utm_campaign=engagement" $link }}
+<div class="article-cta">
+    <p class="article-cta-label">Found this useful?</p>
+    <p class="article-cta-headline">Check your flat on RentRant</p>
+    <a href="{{ $utmLink }}" class="btn btn-gradient">Check Your Flat →</a>
+</div>
+{{ end }}

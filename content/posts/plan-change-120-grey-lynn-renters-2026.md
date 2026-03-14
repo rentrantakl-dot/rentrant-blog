@@ -5,6 +5,8 @@ draft: false
 description: "Auckland's Plan Change 120 allows up to 6-storey buildings near transit in Grey Lynn. What this means for renters — including displacement risk."
 tags: ["auckland", "grey-lynn", "rent", "tenant-rights", "guide"]
 author: "RentRant Team"
+topic: "suburb-guide"
+app_link: "https://rentrant.nz/suburbs/auckland/grey-lynn"
 image: "images/plan-change-120-grey-lynn.png"
 image_alt: "Illustrated watercolour of a Grey Lynn bungalow with a ghost outline of a six-storey apartment building looming behind it"
 

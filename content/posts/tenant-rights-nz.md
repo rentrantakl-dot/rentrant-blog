@@ -5,6 +5,7 @@ draft: false
 description: "Your full guide to tenant rights in New Zealand: bond rules, rent increases, Healthy Homes, eviction rules, and what the Tenancy Tribunal can do for you."
 tags: ["tenant-rights", "guide", "auckland", "healthy-homes", "bond", "tenancy-tribunal"]
 author: "RentRant Team"
+topic: "tenant-rights"
 
 key_facts:
   jurisdiction: "New Zealand"

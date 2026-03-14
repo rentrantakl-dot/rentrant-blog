@@ -1,35 +1,185 @@
 {{ define "main" }}
 <div class="container">
-    {{/* Hero section */}}
-    <section class="hero">
-        <h1 class="hero-title">
-            <span class="text-gradient">{{ .Site.Title }}</span>
-        </h1>
-        <p class="hero-subtitle">{{ .Site.Params.tagline | default "Insights for renters" }}</p>
 
-        {{ with .Site.Params.mainAppUrl }}
-        <a href="{{ . }}" class="btn btn-gradient">
-            Check Your Flat
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
-                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                style="margin-left: 0.5rem;">
-                <path d="M5 12h14M12 5l7 7-7 7"></path>
-            </svg>
-        </a>
-        {{ end }}
+    {{/* Identity strip */}}
+    <section class="home-identity">
+        <p class="home-identity-tagline">Renting in New Zealand is harder than it should be. 
+            Scarce rentals and time pressure mean decisions get made fast — with little to go on. 
+            Every property has a history, but that knowledge rarely reaches the next tenant.</p>
+        <p class="home-identity-tagline">Rating your rental on RentRant changes that.</p>
     </section>
 
-    {{/* Recent posts */}}
-    {{ $posts := where .Site.RegularPages "Type" "posts" | first 6 }}
-    {{ if $posts }}
-    <section>
-        <div class="page-header">
-            <h2>Latest articles</h2>
-            <p class="page-description">Tips, updates, and insights for renters.</p>
+    {{/* Zone 1: above-fold — main column + sidebar */}}
+    {{ $recent := where .Site.RegularPages "Type" "posts" | first 3 }}
+    {{ $briefs := where .Site.RegularPages "Type" "briefs" | first 4 }}
+    {{ if or $recent $briefs }}
+    <div class="home-top">
+
+        <div class="home-top-main">
+
+            {{/* Recent Articles */}}
+            {{ if $recent }}
+            <section>
+                <div class="topic-section-header">
+                    <h2>Recent Articles</h2>
+                    <a href='{{ "posts/" | relURL }}' class="topic-section-link">View all →</a>
+                </div>
+                <div class="post-grid">
+                    {{ range $recent }}
+                    <article class="post-card">
+                        {{ with .Params.image }}
+                        <div class="post-card-image">
+                            <img src="{{ . | absURL }}" alt="{{ $.Title }}"
+                                style="width: 100%; height: 10rem; object-fit: cover; border-top-left-radius: 0.5rem; border-top-right-radius: 0.5rem;">
+                        </div>
+                        {{ else }}
+                        <div class="post-card-gradient"></div>
+                        {{ end }}
+                        <div class="post-card-body">
+                            <h3 class="post-card-title">
+                                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            </h3>
+                            <p class="post-card-excerpt">
+                                {{ .Summary | plainify | htmlUnescape | truncate 120 }}
+                            </p>
+                            <div class="post-card-meta">
+                                <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2 Jan 2006" }}</time>
+                                <span>·</span>
+                                <span>{{ .ReadingTime }} min read</span>
+                            </div>
+                        </div>
+                    </article>
+                    {{ end }}
+                </div>
+            </section>
+            {{ end }}
+
+            {{/* Quick Reads (briefs) */}}
+            {{ if $briefs }}
+            <section>
+                <div class="topic-section-header">
+                    <h2>Quick Reads</h2>
+                    <a href='{{ "briefs/" | relURL }}' class="topic-section-link">View all →</a>
+                </div>
+                <div class="post-grid post-grid-4">
+                    {{ range $briefs }}
+                    <article class="post-card">
+                        <div class="post-card-gradient"></div>
+                        <div class="post-card-body">
+                            <h3 class="post-card-title">
+                                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                            </h3>
+                            <div class="post-card-meta">
+                                <span>{{ .ReadingTime }} min read</span>
+                            </div>
+                        </div>
+                    </article>
+                    {{ end }}
+                </div>
+            </section>
+            {{ end }}
+
         </div>
 
+        {{/* Sidebar — CTA card + tag cloud */}}
+        <aside class="home-sidebar">
+
+            {{/* App CTA */}}
+            {{ with .Site.Params.mainAppUrl }}
+            <div class="card">
+                <div class="card-header-gradient"></div>
+                <div class="card-body">
+                    <p class="sidebar-cta-headline">Check your flat</p>
+                    <p class="sidebar-cta-body">RentRant is building rental transparency for NZ renters.</p>
+                    <a href="{{ . }}?utm_source=blog&utm_medium=sidebar&utm_campaign=engagement"
+                        class="btn btn-gradient" style="width: 100%; text-align: center; margin-top: var(--space-4);">
+                        RentRant App
+                    </a>
+                </div>
+            </div>
+            {{ end }}
+
+            {{/* Tag cloud — capped at 12, min 3 posts */}}
+            {{ $tags := .Site.Taxonomies.tags.ByCount | first 12 }}
+            {{ if $tags }}
+            <div class="sidebar-tags">
+                <p class="sidebar-tags-label">Browse by topic</p>
+                <div class="tags">
+                    {{ range $tags }}
+                    {{ if ge .Count 3 }}
+                    <a href='{{ "tags/" | relURL }}{{ .Page.Title | urlize }}/' class="tag">
+                        {{ .Page.Title }}
+                    </a>
+                    {{ end }}
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+
+        </aside>
+    </div>
+    {{ end }}
+
+    {{/* Zone 2: Topic grid — full width */}}
+    {{ $pairedTopics := slice
+        (dict "key" "suburb-guide"  "label" "Suburb Guides"  "listUrl" "tags/suburbs/")
+        (dict "key" "tenant-rights" "label" "Tenant Rights"  "listUrl" "tags/tenant-rights/")
+        (dict "key" "healthy-homes" "label" "Healthy Homes"  "listUrl" "tags/healthy-homes/")
+        (dict "key" "renting-tips"  "label" "Renting Tips"   "listUrl" "posts/")
+    }}
+    {{ $hasTopics := false }}
+    {{ range $pairedTopics }}
+        {{ if where $.Site.RegularPages "Params.topic" .key }}
+            {{ $hasTopics = true }}
+        {{ end }}
+    {{ end }}
+
+    {{ if $hasTopics }}
+    <div class="home-topics">
+        {{ range $pairedTopics }}
+        {{ $posts := where $.Site.RegularPages "Params.topic" .key | first 2 }}
+        {{ if $posts }}
+        <section>
+            <div class="topic-section-header">
+                <h2>{{ .label }}</h2>
+                <a href='{{ .listUrl | relURL }}' class="topic-section-link">View all →</a>
+            </div>
+            <div class="topic-post-list">
+                {{ range $posts }}
+                <article class="post-card">
+                    <div class="post-card-gradient"></div>
+                    <div class="post-card-body">
+                        <h3 class="post-card-title">
+                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        </h3>
+                        <p class="post-card-excerpt">
+                            {{ .Summary | plainify | htmlUnescape | truncate 100 }}
+                        </p>
+                        <div class="post-card-meta">
+                            <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2 Jan 2006" }}</time>
+                            <span>·</span>
+                            <span>{{ .ReadingTime }} min read</span>
+                        </div>
+                    </div>
+                </article>
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+        {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* Market & Data — full width, anchors bottom */}}
+    {{ $market := where .Site.RegularPages "Params.topic" "market-data" | first 3 }}
+    {{ if $market }}
+    <section style="margin-top: var(--space-12);">
+        <div class="topic-section-header">
+            <h2>Market &amp; Data</h2>
+            <a href='{{ "posts/" | relURL }}' class="topic-section-link">View all →</a>
+        </div>
         <div class="post-grid">
-            {{ range $posts }}
+            {{ range $market }}
             <article class="post-card">
                 <div class="post-card-gradient"></div>
                 <div class="post-card-body">
@@ -40,9 +190,7 @@
                         {{ .Summary | plainify | htmlUnescape | truncate 120 }}
                     </p>
                     <div class="post-card-meta">
-                        <time datetime='{{ .Date.Format "2006-01-02" }}'>
-                            {{ .Date.Format "2 Jan 2006" }}
-                        </time>
+                        <time datetime='{{ .Date.Format "2006-01-02" }}'>{{ .Date.Format "2 Jan 2006" }}</time>
                         <span>·</span>
                         <span>{{ .ReadingTime }} min read</span>
                     </div>
@@ -50,17 +198,11 @@
             </article>
             {{ end }}
         </div>
-
-        {{ if gt (len (where .Site.RegularPages "Type" "posts")) 6 }}
-        <div class="text-center mt-8">
-            <a href='{{ "posts/" | relURL }}' class="btn btn-secondary">
-                View all articles
-            </a>
-        </div>
-        {{ end }}
     </section>
-    {{ else }}
-    {{/* Empty state */}}
+    {{ end }}
+
+    {{/* Empty state — no posts at all */}}
+    {{ if and (not (where .Site.RegularPages "Type" "posts")) (not (where .Site.RegularPages "Type" "briefs")) }}
     <section class="text-center" style="padding: 4rem 0;">
         <div class="card" style="max-width: 32rem; margin: 0 auto;">
             <div class="card-header-gradient"></div>
@@ -71,5 +213,6 @@
         </div>
     </section>
     {{ end }}
+
 </div>
 {{ end }}

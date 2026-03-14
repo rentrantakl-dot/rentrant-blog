@@ -5,6 +5,8 @@ draft: false
 description: "How to spot rental scams in Auckland. Common tricks, red flags to watch for, and what a legitimate rental process actually looks like."
 tags: ["scams", "auckland", "renting-tips", "safety", "tenant-rights"]
 author: "RentRant Team"
+topic: "renting-tips"
+app_link: "https://rentrant.nz/locations/search"
 
 # Social & Sharing
 # image: "images/rental-scams-auckland.jpg"
