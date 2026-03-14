@@ -173,6 +173,36 @@ Tables are extracted cleanly by most LLMs and returned as structured answers.
 
 ---
 
+### R9 — FAQPage JSON-LD via `faqs:` frontmatter
+
+Every article — both guides (`/posts/`) and briefs (`/briefs/`) — must include a `faqs:` block in frontmatter. The `head.html` partial automatically emits `FAQPage` structured data for any page with this block. This enables:
+
+- Direct "People also ask" appearances in Google search
+- FAQ answers surfaced by AI agents (Perplexity, ChatGPT with browsing, etc.) without reading the full article body
+- Snippet extraction in voice assistants and RAG pipelines
+
+**`faqs:` requirements:**
+- 3–4 questions for guides; 2–3 for briefs
+- Answers must be self-contained — an agent may surface the answer without the question context
+- Include the key fact (number, timeframe, condition) in the answer, not just a pointer to the article
+- State jurisdiction ("In New Zealand...") in any answer where it could otherwise be ambiguous
+
+**Good:**
+```yaml
+faqs:
+  - question: "How much notice does a landlord need to give to end a tenancy in NZ?"
+    answer: "For a periodic tenancy with no stated reason, a landlord must give 90 days' written notice (since 30 January 2025). For specific reasons (owner-occupancy, sale, renovations), 42 days' notice applies."
+```
+
+**Not sufficient:**
+```yaml
+faqs:
+  - question: "How much notice does a landlord need to give?"
+    answer: "See the notice periods section of this article."
+```
+
+---
+
 ### R8 — Plain-language factual conclusions
 
 In sections where the article reaches a factual conclusion (as opposed to providing advice or opinion), state it plainly in the final sentence of the section. Avoid ending on a rhetorical question or colloquial phrase when the point is factual.
@@ -247,6 +277,7 @@ Add these items to the existing final checklist in `BLOG_CONTENT_PROMPT.md`:
 - [ ] Factual conclusions stated plainly at the end of each section
 - [ ] AI disclosure block present in markdown source (second-to-last section)
 - [ ] `skipDisclosure` is `false` (or absent) in frontmatter
+- [ ] `faqs:` frontmatter block present with 3–4 questions (guides) or 2–3 questions (briefs) — fires FAQPage JSON-LD on all page types
 
 ---
 
@@ -263,4 +294,4 @@ The goal is a layer of machine-readable structure *underneath* the human writing
 
 ---
 
-*Last updated: February 2026. Review whenever significant changes to NZ tenancy law or AI agent consumption patterns require updating.*
+*Last updated: March 2026. Review whenever significant changes to NZ tenancy law or AI agent consumption patterns require updating.*

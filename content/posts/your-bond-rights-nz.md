@@ -19,6 +19,18 @@ key_facts:
     - "17% of bonds missed the 5-day return target in 2025 due to MBIE system transition — delays are documented"
     - "Tenancy Tribunal application fee: approximately $20; recoverable if you win"
 
+faqs:
+  - question: "How much bond can a landlord charge in New Zealand?"
+    answer: "A maximum of 4 weeks' rent. From 1 December 2025, landlords can also charge a pet bond of up to 2 additional weeks' rent if you have pets, making the total possible bonded amount up to 6 weeks' rent."
+  - question: "Who holds my bond in New Zealand?"
+    answer: "Tenancy Services — a government body — not your landlord. Landlords must lodge your bond with Tenancy Services within 23 working days of receiving it. You can verify it at tenancy.govt.nz."
+  - question: "What can a landlord claim from my bond?"
+    answer: "Unpaid rent, damage beyond fair wear and tear, and cleaning costs if the property isn't left reasonably clean. They cannot claim for normal wear and tear, pre-existing damage, or property upgrades."
+  - question: "What is fair wear and tear in a NZ rental?"
+    answer: "The natural deterioration from normal use over time — carpet wearing thin in high-traffic areas, small scuffs on walls, faded paint from sun exposure. This is the landlord's cost, not yours."
+  - question: "How long does it take to get a bond refund in NZ?"
+    answer: "Tenancy Services aims to process agreed refunds within 5–10 working days. If there's a dispute and it goes to the Tenancy Tribunal, it takes longer — but the application fee is only around $20."
+
 # Social & Sharing
 # image: "images/bond-rights-nz.jpg"
 ---

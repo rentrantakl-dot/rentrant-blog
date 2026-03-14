@@ -19,6 +19,16 @@ key_facts:
     - "A Healthy Homes compliance statement must be provided within 21 days of tenancy start"
     - "Rental application discrimination on protected grounds (race, religion, family status, etc.) is unlawful under the Human Rights Act 1993"
 
+faqs:
+  - question: "Can I check a landlord's Tenancy Tribunal history in NZ?"
+    answer: "Yes — Tribunal decisions are public record and searchable at justice.govt.nz/tribunals/tenancy-tribunal/decisions. Search by the landlord's name or the property address to see whether previous tenants have taken them to Tribunal."
+  - question: "How do I verify a landlord in New Zealand?"
+    answer: "Search their Tenancy Tribunal history, verify bond lodgement history at tenancy.govt.nz, check for reviews on RentRant, and confirm the property is legally habitable via council records. The whole process takes about 30 minutes."
+  - question: "What is a Healthy Homes compliance statement?"
+    answer: "A document your landlord must provide within 21 days of your tenancy starting, detailing whether the property meets the five Healthy Homes Standards for heating, insulation, ventilation, draught stopping, and moisture control. Inability or refusal to provide one is a warning sign."
+  - question: "Can a landlord legally refuse to rent to me based on my nationality?"
+    answer: "No — discrimination on the basis of nationality or ethnicity is unlawful under the Human Rights Act 1993. However, a landlord can decline applicants without NZ rental history, which is different. Strong financial evidence and a guarantor help."
+
 # image: "images/how-to-check-landlord-nz.jpg"
 ---
 

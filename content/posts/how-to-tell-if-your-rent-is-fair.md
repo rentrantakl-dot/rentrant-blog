@@ -18,6 +18,16 @@ key_facts:
     - "No-cause periodic termination: landlords can give 90 days notice without reason (from 30 January 2025)"
     - "General affordability benchmark: housing costs should not exceed 30% of gross income"
 
+faqs:
+  - question: "How do I check if my rent is fair in Auckland?"
+    answer: "Use the free Tenancy Services Market Rent Tool (tenancy.govt.nz/rent-bond-and-bills/market-rent) — it uses actual bond lodgement data, not asking prices. Filter by your suburb, property type, and bedroom count to see the median and range."
+  - question: "What is the average rent in Auckland in 2026?"
+    answer: "The median weekly rent across Auckland is around $640/week. By bedroom count: studios ~$395, one-bedrooms ~$460–470, two-bedrooms ~$580–590. These are city-wide figures — inner suburbs run significantly higher."
+  - question: "How often can a landlord raise rent in NZ?"
+    answer: "Once every 12 months from the start of the tenancy or the last increase, with at least 60 days' written notice. There is no cap on the amount, but it must be in line with market rent."
+  - question: "Can I challenge a rent increase in New Zealand?"
+    answer: "Yes. If the proposed rent is substantially above comparable properties in your area, you can negotiate or apply to the Tenancy Tribunal. Use the Tenancy Services Market Rent Tool to build your case."
+
 # Social & Sharing
 # image: "images/how-to-tell-if-your-rent-is-fair.jpg"
 ---

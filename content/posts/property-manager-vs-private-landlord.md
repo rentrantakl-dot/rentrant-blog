@@ -18,6 +18,16 @@ key_facts:
     - "90-day no-cause periodic termination reintroduced 30 January 2025 under the Residential Tenancies Amendment Act 2024"
     - "Exemplary damages for serious breaches: up to $7,200 (landlords with fewer than 6 properties) or $50,000 (6+ properties)"
 
+faqs:
+  - question: "Is it better to rent from a property manager or private landlord in NZ?"
+    answer: "Neither is automatically better. Private landlords vary widely — from highly responsive to entirely unprofessional. Property managers offer more process consistency but responsiveness depends on the company and individual manager. Research the specific landlord or agency rather than assuming either type is safer."
+  - question: "Do my tenant rights differ based on who manages the property?"
+    answer: "No — your rights under the Residential Tenancies Act and Healthy Homes Standards apply regardless of whether the property is managed by the owner directly or through a property management company."
+  - question: "Can a property manager make decisions without the landlord's approval in NZ?"
+    answer: "For routine maintenance, property managers typically have authority to act. For larger decisions — major repairs, rent changes, ending tenancies — they usually need landlord approval, which can slow response times."
+  - question: "How do I complain about a property manager in NZ?"
+    answer: "For legal breaches (Healthy Homes non-compliance, bond disputes), apply to the Tenancy Tribunal. For conduct complaints about licensed agents, you can also complain to the Real Estate Authority (REA) at rea.govt.nz."
+
 # Social & Sharing
 # image: "images/property-manager-vs-landlord.jpg"
 ---

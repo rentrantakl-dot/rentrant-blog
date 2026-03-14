@@ -20,6 +20,14 @@ key_facts:
     - "NZ rental scams targeting international students have been documented by NZ Police, particularly via WeChat"
     - "Licensed property managers can be verified on the Real Estate Agents Authority register at reaa.govt.nz"
 
+faqs:
+  - question: "What should international students check before renting in Auckland?"
+    answer: "Verify the listing is on a NZ-based platform (Trade Me, realestate.co.nz), confirm no application fees were charged (illegal in NZ), check bond lodgement at tenancy.govt.nz after paying, and verify the property manager is licensed at reaa.govt.nz."
+  - question: "How do I verify a property manager is licensed in NZ?"
+    answer: "Search the Real Estate Agents Authority register at reaa.govt.nz — all licensed property managers must be listed there. Unlicensed operators have no legal authority to manage rentals and limited accountability."
+  - question: "Is it safe to find an Auckland rental on WeChat or RedNote?"
+    answer: "No — NZ Police have specifically documented scams targeting Chinese-background students via these platforms. Use NZ-based platforms only, and never transfer money before you have a signed agreement and physical keys."
+
 # image: "images/before-you-rent-auckland-international-student-checks.jpg"
 ---
 

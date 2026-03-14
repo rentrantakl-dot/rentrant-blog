@@ -8,6 +8,14 @@ author: "RentRant Team"
 topic: "suburb-guide"
 app_link: "https://rentrant.nz/suburbs/auckland/mt-albert"
 
+faqs:
+  - question: "How much does it cost to rent in Mt Albert, Auckland?"
+    answer: "Around $650–690/week overall, with 2-bedrooms typically in the $580–640/week range — mid-tier for Auckland, cheaper than Grey Lynn or Ponsonby but well-connected to the city."
+  - question: "Is Mt Albert good for commuting to Auckland CBD?"
+    answer: "Yes — Mt Albert is about 7 km from the CBD with train access on the Western Line. The City Rail Link opening in the second half of 2026 will significantly improve travel times into the city."
+  - question: "What is the vibe like in Mt Albert?"
+    answer: "Leafy, residential, and genuinely local — with a Saturday farmers' market, a decent high street, and none of the pretension of inner-city suburbs. Good for families and professionals who want space without paying Ponsonby prices."
+
 # Social & Sharing
 # image: "images/renting-mt-albert.jpg"
 ---

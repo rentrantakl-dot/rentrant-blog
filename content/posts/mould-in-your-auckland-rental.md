@@ -19,6 +19,16 @@ key_facts:
     - "Exemplary damages for Healthy Homes non-compliance: up to $7,200 (fewer than 6 properties), up to $50,000 (larger landlords)"
     - "Rent reductions of 20-40% have been awarded in multiple Auckland cases where mould resulted from structural causes"
 
+faqs:
+  - question: "Is my landlord responsible for mould in my Auckland rental?"
+    answer: "It depends on the cause. If mould stems from structural issues — poor insulation, inadequate ventilation, missing extractor fans, or moisture ingress — that's the landlord's responsibility. Most persistent mould in Auckland rentals is structural, not caused by tenant behaviour."
+  - question: "What can I claim at the Tenancy Tribunal for mould?"
+    answer: "A compliance order requiring the landlord to fix the root cause, a rent reduction of 20–40% for the affected period, and exemplary damages of up to $7,200 (or $50,000 for larger landlords) for breach of Healthy Homes Standards."
+  - question: "What are the ventilation requirements for NZ rentals?"
+    answer: "The kitchen extractor must vent to outside (recirculating rangehoods don't count). The bathroom must have an extractor venting outside or an openable window of at least 300mm × 300mm. All habitable rooms must have openable windows."
+  - question: "How do I report mould to my landlord in NZ?"
+    answer: "In writing — email is best. Describe the affected locations, attach timestamped photos, note that you've been ventilating properly, and request an inspection with a plan to fix the root cause. Keep copies of all correspondence."
+
 # Social & Sharing
 # image: "images/mould-auckland-rental.jpg"
 ---

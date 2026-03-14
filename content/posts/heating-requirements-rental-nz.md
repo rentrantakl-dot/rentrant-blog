@@ -20,6 +20,16 @@ key_facts:
     - "The required heating capacity is calculated using the MBIE heating assessment tool based on room size, insulation, and climate zone"
     - "Exemplary damages for non-compliance: up to $7,200 (fewer than 6 properties) or $50,000 (6+ properties)"
 
+faqs:
+  - question: "What are the heating requirements for NZ rentals?"
+    answer: "All NZ rentals must have a fixed heater in the main living room capable of heating it to at least 18°C when the outdoor temperature is 1°C. This has been a legal requirement since 1 July 2025 under the Healthy Homes Standards."
+  - question: "Does a portable heater meet the Healthy Homes standard in NZ?"
+    answer: "No. The standard requires a fixed heater — portable heaters do not qualify regardless of their heating capacity or wattage."
+  - question: "Are unflued gas heaters legal in NZ rentals?"
+    answer: "No — unflued gas heaters are prohibited in living rooms and bedrooms under the Healthy Homes Standards. They produce nitrogen dioxide, which is harmful to breathe indoors."
+  - question: "What can I do if my NZ rental doesn't have adequate heating?"
+    answer: "Write to your landlord citing the Healthy Homes heating standard. If they don't act, apply to the Tenancy Tribunal — tenants have been awarded 15–30% rent reductions and exemplary damages of up to $7,200 for non-compliance."
+
 # image: "images/heating-requirements-rental-nz.jpg"
 ---
 

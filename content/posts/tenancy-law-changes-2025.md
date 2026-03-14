@@ -6,6 +6,17 @@ description: "The Residential Tenancies Amendment Act 2024 changed the game. Her
 tags: ["tenant-rights", "tenancy-law", "2025", "guide", "nz-law"]
 author: "RentRant Team"
 topic: "tenant-rights"
+
+faqs:
+  - question: "What changed in NZ tenancy law in 2025?"
+    answer: "The Residential Tenancies Amendment Act 2024 came into effect on 30 January 2025. The key change: landlords can now end periodic tenancies with 90 days' notice and no reason required. Pet bonds of up to 2 weeks' rent were also introduced from 1 December 2025."
+  - question: "Can a landlord evict me without reason in New Zealand?"
+    answer: "Yes, on a periodic (rolling) tenancy — they can give 90 days' written notice with no reason required, from 30 January 2025. On a fixed-term tenancy, they cannot end it early without specific grounds."
+  - question: "How much notice does a landlord have to give to end a tenancy in NZ?"
+    answer: "For no-cause periodic termination: 90 days. For cause-based terminations, notice periods vary — typically 14 days for serious antisocial behaviour, up to 90 days for other grounds. Tenants on periodic tenancies need to give 21 days' notice to leave."
+  - question: "Does the 90-day no-cause termination apply to fixed-term tenancies?"
+    answer: "No — the 90-day no-cause rule only applies to periodic (rolling) tenancies. If you're on a fixed-term lease, your landlord cannot end the tenancy early without specific grounds under the Act."
+
 ---
 
 The Residential Tenancies Amendment Act 2024 came into effect on 30 January 2025. If you rent in New Zealand, these changes affect you — whether you've signed a new lease recently or you've been in the same flat for years.

@@ -7,6 +7,16 @@ tags: ["rent", "negotiation", "auckland", "tenant-rights", "tips"]
 author: "RentRant Team"
 topic: "renting-tips"
 
+faqs:
+  - question: "Can I negotiate rent in Auckland?"
+    answer: "Yes — especially when a listing has been on the market for three weeks or more, when few people attended the viewing, or when the property has visible issues. Apply at the listed price first, then negotiate after being approved."
+  - question: "How much can I realistically negotiate rent down in NZ?"
+    answer: "It depends on the market and property, but $20–50/week is a realistic target when you have evidence. Use the Tenancy Services Market Rent Tool and comparable Trade Me listings to build your case."
+  - question: "When is the best time to negotiate rent in Auckland?"
+    answer: "After being approved but before signing is your strongest position. Off-season (June–August) gives you more leverage than peak season (January–February). Listings sitting 25+ days signal a motivated landlord."
+  - question: "Can a landlord end my tenancy because I tried to negotiate?"
+    answer: "Since January 2025, landlords can end a periodic tenancy with 90 days' notice and no stated reason. In practice, most would rather keep a reliable tenant at slightly lower rent than go through the cost and hassle of finding someone new."
+
 # Social & Sharing
 # image: "images/negotiate-rent-auckland.jpg"
 ---

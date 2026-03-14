@@ -7,6 +7,15 @@ tags: ["auckland", "rent", "cost-of-living", "guide", "budgeting"]
 author: "RentRant Team"
 topic: "market-data"
 app_link: "https://rentrant.nz/locations/search"
+
+faqs:
+  - question: "What does renting in Auckland actually cost beyond the weekly rent?"
+    answer: "Rent plus power ($150–250/month), internet (~$80/month), water usage, and contents insurance. A poorly insulated flat can cost $300+ more per month in power than a well-insulated one at the same rent — the 'cheap' option is often not cheap."
+  - question: "Who pays for water in an Auckland rental?"
+    answer: "The fixed annual water charge is the landlord's cost. Water usage charges are typically the tenant's responsibility, but only if the property has a separate water meter and the tenancy agreement specifies this."
+  - question: "What are the upfront costs of renting in Auckland?"
+    answer: "Bond (max 4 weeks' rent), rent in advance (max 2 weeks), and moving costs. For a $600/week flat, that's up to $3,600 before you move in a single item. Pet bond (max 2 additional weeks from December 2025) may also apply."
+
 ---
 
 That $650 a week flat in Grey Lynn looks manageable on paper. You've done the maths, checked your pay, maybe even created a spreadsheet. But here's what nobody tells you until you're three months in and wondering where your money went: the weekly rent is just the entry fee.

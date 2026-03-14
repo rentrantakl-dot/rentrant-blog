@@ -9,6 +9,17 @@ topic: "suburb-guide"
 app_link: "https://rentrant.nz/locations/search"
 image: "images/auckland-suburbs-comparison.png"
 image_alt: "Illustrated watercolour bird's-eye sketch of Auckland suburbs with a small figure studying the scene through binoculars"
+
+faqs:
+  - question: "What are the most affordable suburbs to rent in Auckland?"
+    answer: "Henderson, Manurewa, Papakura, and Manukau typically offer 2-bedroom rents under $550/week. Further west, Massey and Ranui are also budget-friendly with Western Line train access."
+  - question: "What are the best Auckland suburbs for students?"
+    answer: "Eden Terrace and Grafton are walkable to UoA and AUT. For budget options with rail access, Henderson (Western Line) and Avondale are popular. Manukau suits AUT South Campus and MIT students."
+  - question: "Which Auckland suburbs have the best public transport?"
+    answer: "Suburbs on rail lines offer the most reliable commuting: Henderson and New Lynn (Western Line), Grafton and Newmarket (Southern/Eastern lines), Manukau (Southern Line). The City Rail Link opening in 2026 will improve connections from the western and southern lines into the CBD."
+  - question: "How much should I budget for renting in Auckland in 2026?"
+    answer: "Budget suburbs start around $450–550/week for a 2-bedroom. Mid-range suburbs (Mt Albert, Onehunga, Glen Innes) run $550–680/week. Inner suburbs like Grey Lynn and Ponsonby start from $700/week and up."
+
 ---
 
 Asking "what's the best suburb to rent in Auckland?" is a bit like asking "what's the best food?" — it depends entirely on who you are, what you need, and what you can afford.

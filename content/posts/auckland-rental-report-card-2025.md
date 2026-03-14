@@ -8,6 +8,14 @@ author: "RentRant Team"
 topic: "market-data"
 app_link: "https://rentrant.nz/locations/search"
 
+faqs:
+  - question: "What is the median rent in Auckland?"
+    answer: "Around $650/week as of late 2025 (MBIE bond lodgement data), essentially flat year-on-year — rent growth across Auckland has been under 1% and rents have softened in many inner suburbs."
+  - question: "Are Auckland rents increasing or decreasing?"
+    answer: "Rents have softened — Auckland saw its first year-on-year decline in a decade through 2025. Increases are slowing across all areas, with 3 and 4-bedroom properties seeing the largest drops in premium suburbs."
+  - question: "How do I find out what other tenants have paid at a specific property?"
+    answer: "The Tenancy Services Market Rent Tool uses bond lodgement data — actual signed rents, not asking prices. You can filter by suburb, property type, and bedroom count at tenancy.govt.nz/rent-bond-and-bills/market-rent."
+
 # Social & Sharing
 # image: "images/auckland-rental-report-card.jpg"
 ---

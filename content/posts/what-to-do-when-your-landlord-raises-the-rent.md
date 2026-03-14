@@ -7,6 +7,27 @@ tags: ["rent-increase", "tenant-rights", "auckland", "negotiation", "tenancy-tri
 author: "RentRant Team"
 topic: "tenant-rights"
 
+key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "2026-02-06"
+  content_type: "guide"
+  primary_law: "Residential Tenancies Act 1986"
+  facts:
+    - "Rent increases: maximum once every 12 months from tenancy start or last increase"
+    - "Minimum notice for rent increase: 60 days written notice stating new amount and effective date"
+    - "No legal cap on increase amount, but it must be in line with market rent"
+    - "Landlords can end periodic tenancies with 90 days' notice and no reason since 30 January 2025"
+
+faqs:
+  - question: "How much notice does a landlord have to give for a rent increase in NZ?"
+    answer: "At least 60 days' written notice before the increase takes effect. The notice must state the new rent amount and the date it applies. If proper notice isn't given, the increase isn't valid and the old rent continues."
+  - question: "How often can a landlord raise rent in NZ?"
+    answer: "Once every 12 months from the start of the tenancy or the date of the last increase. If the 12-month rule hasn't been met, the increase is unlawful."
+  - question: "Can I dispute a rent increase in New Zealand?"
+    answer: "Yes. If the increase is substantially above market rent for comparable properties in your area, you can negotiate with evidence from the Tenancy Services Market Rent Tool. If you can't agree, either party can apply to the Tenancy Tribunal to determine fair market rent."
+  - question: "Can my landlord evict me for refusing a rent increase?"
+    answer: "Not directly for refusing a rent increase — but since January 2025, landlords can end periodic tenancies with 90 days' notice for any reason. Focus on negotiating a fair amount with evidence rather than flat refusal."
+
 # Social & Sharing
 # image: "images/rent-increase-guide.jpg"
 ---

@@ -1386,6 +1386,67 @@ main {
 }
 
 /* ========================================
+   ARTICLE PAGE — MOBILE OPTIMISATION
+   ======================================== */
+
+/* Tables: scroll horizontally on narrow screens instead of breaking layout */
+.post-content table {
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Prevent long words and URLs from overflowing their container */
+.post-content {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+/* Post meta items wrap gracefully on very small screens */
+.post-meta {
+  flex-wrap: wrap;
+  row-gap: var(--space-1);
+}
+
+@media (max-width: 639px) {
+  /* Scale down in-article heading sizes on small screens */
+  .post-content h2 {
+    font-size: var(--font-size-2xl);
+  }
+
+  .post-content h3 {
+    font-size: var(--font-size-xl);
+  }
+
+  /* Tighter gap between article and stacked sidebar on mobile */
+  .article-layout {
+    gap: var(--space-6);
+  }
+
+  /* Sidebar CTA full-width button already stretches; ensure the gradient btn
+     doesn't get excessive horizontal padding on small screens */
+  .article-sidebar-cta .btn-gradient {
+    padding-left: var(--space-4);
+    padding-right: var(--space-4);
+  }
+}
+
+@media (max-width: 767px) {
+  /* Sidebar stacks below article on mobile — sticky serves no purpose */
+  .article-sidebar-sticky {
+    position: static;
+  }
+
+  /* Sidebar share is redundant with the inline share footer inside the card
+     body — hide it on mobile to reduce duplicate UI and scroll depth */
+  .sidebar-share {
+    display: none;
+  }
+}
+
+/* ========================================
    PRINT STYLES
    ======================================== */
 @media print {

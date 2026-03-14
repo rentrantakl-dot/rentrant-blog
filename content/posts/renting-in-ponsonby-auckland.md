@@ -8,6 +8,14 @@ author: "RentRant Team"
 topic: "suburb-guide"
 app_link: "https://rentrant.nz/suburbs/auckland/ponsonby"
 
+faqs:
+  - question: "How much does it cost to rent in Ponsonby, Auckland?"
+    answer: "The overall median is around $717/week. By bedroom: 1-bed ~$569/week, 2-bed ~$722/week, 3-bed ~$996/week, 4-bed ~$1,305/week. Rents at the 3 and 4-bedroom end have dropped 7–9% year-on-year — negotiating is more viable than it's been in years."
+  - question: "How competitive is the Ponsonby rental market?"
+    answer: "Very tight — only around 18 properties come to market per month. Expect high application volumes and professional property managers who know the market. That said, softening prices at the upper end mean more room to negotiate than in 2022–23."
+  - question: "Is Ponsonby worth the rent premium?"
+    answer: "It depends on your priorities. You're paying for the lifestyle — the restaurant strip, the walkability, the neighbourhood. The property inside may not always match the premium. Always request the Healthy Homes compliance statement and verify condition carefully before signing."
+
 key_facts:
   jurisdiction: "New Zealand"
   last_verified: "2026-02-28"

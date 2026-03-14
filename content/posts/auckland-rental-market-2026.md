@@ -7,6 +7,15 @@ tags: ["auckland", "rental-market", "rent", "2026", "guide"]
 author: "RentRant Team"
 topic: "market-data"
 app_link: "https://rentrant.nz/locations/search"
+
+faqs:
+  - question: "Are Auckland rents going up or down in 2026?"
+    answer: "Down slightly — rents dropped 2–4% across Auckland through late 2025 and into early 2026, the first genuine decline in a decade. Softening is most pronounced at the upper end of the market (larger homes in premium suburbs)."
+  - question: "How long does a rental property sit on the market in Auckland?"
+    answer: "Around 21 days median in early 2026. Anything listed for 3+ weeks signals a property that hasn't found a tenant — which means the landlord may be open to negotiation on price or terms."
+  - question: "Do Auckland renters have more bargaining power in 2026?"
+    answer: "More than in recent years — yes. Increased rental supply, slowing immigration, and cost of living pressure have combined to soften the market. Tenants willing to do their research and negotiate have more leverage than they've had since 2019."
+
 ---
 
 For the first time in a decade, the power balance in Auckland's rental market is shifting. Slightly. And if you're renting or about to rent, you'd be wise to pay attention.

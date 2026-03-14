@@ -8,6 +8,27 @@ author: "RentRant Team"
 topic: "renting-tips"
 app_link: "https://rentrant.nz/locations/search"
 
+key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "2026-02-14"
+  content_type: "guide"
+  primary_law: "Residential Tenancies Act 1986"
+  facts:
+    - "Application fees and credit check fees are illegal under the Residential Tenancies Act 1986"
+    - "NZ Police have specifically warned about scams targeting Chinese-background renters via WeChat"
+    - "Bond maximum: 4 weeks' rent — any request for money before signing is a red flag"
+    - "Landlords cannot legally require payment before a tenancy agreement is signed and keys handed over"
+
+faqs:
+  - question: "What are common rental scams in Auckland?"
+    answer: "The most common are: the 'overseas landlord' scam (requesting a deposit before any in-person viewing), fake listings using stolen photos at below-market prices, and illegal application fee requests. Any request for money before you have a signed agreement and physical keys is a red flag."
+  - question: "Can landlords charge application fees in NZ?"
+    answer: "No — application fees, background check fees, and credit check fees are explicitly prohibited under the Residential Tenancies Act. Any charge before you sign a tenancy agreement (other than lawful bond and rent in advance) is illegal."
+  - question: "How can I spot a fake rental listing in Auckland?"
+    answer: "Red flags include: price significantly below market for the area, landlord claims to be overseas and can't do an in-person viewing, request for payment before viewing or signing, and photos appearing in multiple listings or on different platforms."
+  - question: "What should I do if I've been targeted by a rental scam?"
+    answer: "Report it to NZ Police (police.govt.nz) and your bank immediately. If money has been transferred, act within hours — banks can sometimes reverse recent transfers. Also report the listing to the platform it appeared on."
+
 # Social & Sharing
 # image: "images/rental-scams-auckland.jpg"
 ---

@@ -7,6 +7,17 @@ tags: ["auckland", "suburbs", "eden-terrace", "grafton", "rent", "guide", "stude
 author: "RentRant Team"
 topic: "suburb-guide"
 app_link: "https://rentrant.nz/suburbs/auckland/eden-terrace"
+brief: "renting-in-grafton-auckland"
+
+faqs:
+  - question: "How much does it cost to rent in Eden Terrace, Auckland?"
+    answer: "Around $445/week for a 1-bedroom, $587/week for a 2-bedroom, and $832/week for a 3-bedroom in the Eden Terrace/Grafton cluster (early 2026). Rents have been flat to slightly declining year-on-year."
+  - question: "Is Eden Terrace good for students at UoA or AUT?"
+    answer: "Yes — both campuses are roughly 10 minutes on foot from most of Eden Terrace. Application volumes are high, particularly since the University of Auckland's Grafton Student Flats stopped accepting new tenancies from 2026."
+  - question: "What should I check when renting an apartment in Eden Terrace?"
+    answer: "Ask about the building's age and weathertight history (pre-2004 buildings carry risk), confirm there's a fixed heater in the main living area (not just a portable panel), and test noise levels at the viewing — thin walls are a common complaint in older blocks."
+  - question: "Does Eden Terrace have good transport links?"
+    answer: "Yes for walking and buses — multiple routes connect the area to the CBD and wider city. Grafton Station on the Southern and Eastern lines is nearby, and will gain City Rail Link connection in the second half of 2026."
 
 key_facts:
   jurisdiction: "New Zealand"

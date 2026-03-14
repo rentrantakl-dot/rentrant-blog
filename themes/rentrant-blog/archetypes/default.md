@@ -17,10 +17,10 @@ key_facts:
   primary_law: ""        # e.g. "Residential Tenancies Act 1986"
   facts: []              # 3-7 bullet facts grounding the article
 
-# faqs: Optional — enables FAQ rich results in Google Search (see docs/blog-technical-seo.md)
-# faqs:
-#   - question: ""
-#     answer: ""
+# faqs: Recommended — renders FAQPage JSON-LD in <head> for search engines and AI agents
+faqs:
+  - question: ""
+    answer: ""
 
 # Social & Sharing
 # image: "images/cover.jpg"

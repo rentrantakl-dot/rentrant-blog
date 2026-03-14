@@ -129,7 +129,7 @@
     }}
     {{ $hasTopics := false }}
     {{ range $pairedTopics }}
-        {{ if where $.Site.RegularPages "Params.topic" .key }}
+        {{ if where (where $.Site.RegularPages "Type" "posts") "Params.topic" .key }}
             {{ $hasTopics = true }}
         {{ end }}
     {{ end }}
@@ -137,7 +137,7 @@
     {{ if $hasTopics }}
     <div class="home-topics">
         {{ range $pairedTopics }}
-        {{ $posts := where $.Site.RegularPages "Params.topic" .key | first 2 }}
+        {{ $posts := where (where $.Site.RegularPages "Type" "posts") "Params.topic" .key | first 2 }}
         {{ if $posts }}
         <section>
             <div class="topic-section-header">
@@ -171,7 +171,7 @@
     {{ end }}
 
     {{/* Market & Data — full width, anchors bottom */}}
-    {{ $market := where .Site.RegularPages "Params.topic" "market-data" | first 3 }}
+    {{ $market := where (where .Site.RegularPages "Type" "posts") "Params.topic" "market-data" | first 3 }}
     {{ if $market }}
     <section style="margin-top: var(--space-12);">
         <div class="topic-section-header">

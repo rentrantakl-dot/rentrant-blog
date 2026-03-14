@@ -20,6 +20,16 @@ key_facts:
     - "Landlords must provide a written insulation statement as part of the Healthy Homes compliance statement within 21 days of tenancy start"
     - "Exemplary damages for non-compliance: up to $7,200 (fewer than 6 properties) or $50,000 (6+ properties)"
 
+faqs:
+  - question: "What insulation is required in NZ rentals?"
+    answer: "All NZ rentals must meet the Healthy Homes insulation standard (since 1 July 2025). For Auckland (Climate Zone 1), new ceiling insulation must reach at least R2.9. Existing insulation must be in reasonable condition. Underfloor insulation of R1.3 is required where installation is practicable."
+  - question: "Are landlords required to insulate under floors in NZ?"
+    answer: "Yes, where reasonably practicable. Concrete slab floors are exempt. Properties where accessing the underfloor space is genuinely impractical may also qualify for an exemption, assessed case by case."
+  - question: "What is R-value in insulation?"
+    answer: "R-value measures a material's resistance to heat flow — the higher the value, the better the insulation. Auckland rentals require a minimum R2.9 for new ceiling insulation installations."
+  - question: "How do I check if my rental has adequate insulation in NZ?"
+    answer: "Request your Healthy Homes compliance statement — your landlord must provide this within 21 days of your tenancy starting. It should detail the insulation type, location, and R-value. You can also do a visual check of the ceiling space if it's accessible."
+
 # image: "images/insulation-requirements-rental-nz.jpg"
 ---
 

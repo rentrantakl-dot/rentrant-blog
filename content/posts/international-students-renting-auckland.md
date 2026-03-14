@@ -6,6 +6,17 @@ description: "Renting in Auckland as an international student — how bonds work
 tags: ["auckland", "international-students", "guide", "bond", "tenant-rights", "scams", "renting-tips"]
 author: "RentRant Team"
 topic: "renting-tips"
+brief: "international-students-renting-auckland"
+
+faqs:
+  - question: "Can international students rent privately in Auckland?"
+    answer: "Yes — but apply for university accommodation first. If renting privately, you'll need proof of income or financial support, ID, and ideally a NZ-based guarantor. Landlords cannot refuse you based on nationality, but may prefer applicants with NZ rental history."
+  - question: "What rental scams target international students in Auckland?"
+    answer: "Fake listings on WeChat and RedNote requesting deposits before any in-person viewing or signed agreement. NZ Police have documented this pattern targeting Chinese-background students. Always use NZ-based platforms like Trade Me."
+  - question: "What upfront costs can a NZ landlord legally charge?"
+    answer: "Bond (maximum 4 weeks' rent) and rent in advance (maximum 2 weeks). Application fees and credit check fees are illegal. Any request for money before a signed tenancy agreement is a red flag."
+  - question: "How do I build a rental application without NZ rental history?"
+    answer: "Provide strong financial evidence (bank statements, sponsor letter), offer a NZ-based guarantor, mention your institution and student visa, and consider offering 2 weeks' rent in advance (the legal maximum). University halls for year one also gives you a NZ landlord reference for future applications."
 
 key_facts:
   jurisdiction: "New Zealand"

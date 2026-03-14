@@ -21,6 +21,17 @@ key_facts:
     - "Housing stock dominated by 1910s–1950s character villas; insulation and heating quality varies widely"
     - "Healthy Homes Standards fully in effect since 1 July 2025 — landlords must provide written compliance statements"
     - "Bond maximum: 4 weeks' rent under the Residential Tenancies Act 1986"
+
+faqs:
+  - question: "How much does it cost to rent in Grey Lynn, Auckland?"
+    answer: "The 2-bedroom median is around $768/week in the Grey Lynn–Westmere cluster (Crockers/REINZ, May 2025). Rents at the 3–4 bedroom end have softened year-on-year, so negotiating is more viable than it was in 2022–23."
+  - question: "What type of housing is available in Grey Lynn?"
+    answer: "Predominantly 1910s–1950s character villas and bungalows. Insulation and heating quality varies widely — some have been extensively renovated, others have barely been touched. Always ask for the Healthy Homes compliance statement before signing."
+  - question: "What should I check when renting a Grey Lynn villa?"
+    answer: "Ask for the Healthy Homes compliance statement covering heating, insulation, and ventilation. Check for cold spots on exterior walls, test extractor fans, and ask whether the villa has ceiling and underfloor insulation — older villas often fall short."
+  - question: "How do you get around Grey Lynn without a car?"
+    answer: "Grey Lynn has no train station. The Inner Link bus runs frequently along Great North Road and connects to the CBD, Ponsonby, and Newmarket. The suburb is also walkable and cycleable to Ponsonby, K Road, and the CBD fringe."
+
 ---
 
 Grey Lynn is what happens when a suburb decides it's been "discovering itself" for 20 years and still hasn't finished. Which is actually fine — it means character villas, decent coffee, and the kind of street you'll be happy to come home to. It also means paying for it.

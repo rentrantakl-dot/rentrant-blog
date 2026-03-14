@@ -20,6 +20,16 @@ key_facts:
     - "Kitchen extractor must vent outside — recirculating rangehoods do not meet the standard"
     - "LIM (Land Information Memorandum) from Auckland Council costs approximately $350 and can reveal consent history and weathertightness flags"
 
+faqs:
+  - question: "What should I look for when viewing an Auckland rental?"
+    answer: "Check for mould or damp smell, confirm there's a fixed heater in the main living room (not just a portable), test extractor fans in kitchen and bathroom, assess natural light and noise, and ask for the Healthy Homes compliance statement."
+  - question: "What are red flags at a rental viewing?"
+    answer: "Mould or musty smell, no fixed heater, single-glazed windows in south-facing rooms, extractor fans that don't vent outside, and reluctance or inability to provide a Healthy Homes compliance statement."
+  - question: "Should I ask for a Healthy Homes compliance statement before signing?"
+    answer: "Yes — landlords must provide it within 21 days of tenancy start, but you can and should request it at the viewing stage. The statement lists heating, insulation, and ventilation details. If a landlord can't or won't provide one, that's a warning sign."
+  - question: "What is a LIM report and do I need one for a rental?"
+    answer: "A Land Information Memorandum (LIM) from Auckland Council (~$350) reveals a property's consent history, weathertightness flags, and council records. Worthwhile for older properties or if you have concerns — especially for 1990s–2004 builds that may have weathertight risk."
+
 # Social & Sharing
 # image: "images/red-flags-rental-viewing.jpg"
 ---

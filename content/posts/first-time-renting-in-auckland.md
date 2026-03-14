@@ -7,6 +7,17 @@ tags: ["auckland", "first-time-renter", "guide", "tenant-rights", "tips"]
 author: "RentRant Team"
 topic: "renting-tips"
 app_link: "https://rentrant.nz/locations/search"
+
+faqs:
+  - question: "What do I need to rent my first flat in Auckland?"
+    answer: "Photo ID, proof of income (payslips, student funding letter, bank statements), and rental references if you have any. You'll also need bond (max 4 weeks' rent) and up to 2 weeks' rent in advance upfront."
+  - question: "Where can I find rental listings in Auckland?"
+    answer: "Trade Me Property is the dominant platform. Also try realestate.co.nz and Flatmates.co.nz for flatmates and room shares. Stick to NZ-based platforms — listings on social media carry a higher scam risk."
+  - question: "What rights do I have as a first-time renter in NZ?"
+    answer: "Full rights under the Residential Tenancies Act — your landlord must meet Healthy Homes Standards, lodge your bond with Tenancy Services within 23 working days, give 60 days' notice for rent increases, and provide 48 hours' notice before inspections."
+  - question: "Can a landlord keep my bond when I move out?"
+    answer: "Only if you owe unpaid rent, caused damage beyond fair wear and tear, or left the property unreasonably dirty. Normal wear from living there is not your cost. Document everything with timestamped photos when you move in."
+
 ---
 
 So you're about to rent your first place in Auckland. Maybe you're leaving home, moving for work, starting uni, or just arrived in New Zealand. Whatever brought you here, there's a bunch of stuff you need to know that nobody really explains.

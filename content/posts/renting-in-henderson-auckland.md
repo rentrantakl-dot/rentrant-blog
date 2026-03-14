@@ -19,6 +19,17 @@ key_facts:
     - "Wide housing mix: older private rentals, Kāinga Ora developments, and newer townhouses — quality varies significantly"
     - "Healthy Homes Standards fully in effect since 1 July 2025 — essential to verify in older housing stock"
     - "Bond maximum: 4 weeks' rent under the Residential Tenancies Act 1986"
+
+faqs:
+  - question: "How much does it cost to rent in Henderson, Auckland?"
+    answer: "Expect around $490–550/week for a 2-bedroom in Henderson (early 2026) — one of Auckland's more affordable rent brackets within commuting distance of the CBD."
+  - question: "How far is Henderson from Auckland CBD by public transport?"
+    answer: "Henderson train station is on the Western Line — around 40–50 minutes to Britomart. The City Rail Link will improve travel times when it opens in the second half of 2026."
+  - question: "Is Henderson a good suburb for renters on a budget?"
+    answer: "Yes — Henderson offers significantly lower rents than inner Auckland suburbs, with a functioning train station, a large town centre, and more space. The trade-off is distance and the suburb's less polished character."
+  - question: "What should I watch out for when renting in Henderson?"
+    answer: "Housing quality varies significantly — from older private rentals to Kāinga Ora developments to newer townhouses. Always request the Healthy Homes compliance statement and verify heating and insulation in older stock."
+
 ---
 
 Henderson is not going to charm you with boutique cafes or heritage streetscapes. What it offers instead is practical: one of Auckland's more affordable rent brackets, a functioning train station, a large suburban hub, and the kind of space that's hard to find within 18 km of the CBD.

@@ -19,6 +19,15 @@ key_facts:
     - "Housing stock is predominantly early 20th century workers' cottages and bungalows, with newer infill near the town centre"
     - "Healthy Homes Standards fully in effect since 1 July 2025 — landlords must provide written compliance statements"
     - "Bond maximum: 4 weeks' rent under the Residential Tenancies Act 1986"
+
+faqs:
+  - question: "How much does it cost to rent in Onehunga, Auckland?"
+    answer: "Around $570–630/week for a 2-bedroom in Onehunga (early 2026) — mid-range for Auckland, sitting below Grey Lynn and Ponsonby but above Henderson or Manurewa."
+  - question: "Does Onehunga have good train or bus access?"
+    answer: "The Onehunga branch line has been suspended since January 2020 for City Rail Link enabling works. Bus routes connect the town centre to the CBD and nearby suburbs. Check AT Journey Planner for current routes."
+  - question: "Is Onehunga a good suburb for renters?"
+    answer: "Yes — Onehunga has a genuine neighbourhood feel, mid-range rents, Onehunga Bay on the Māngere Inlet, and a town centre with local shops. It suits renters who want more character than Henderson without paying inner-suburb prices."
+
 ---
 
 Onehunga doesn't have Grey Lynn's reputation or Ponsonby's restaurant strip. What it has is a genuine neighbourhood, mid-range rents, and Onehunga Bay — a stretch of waterfront along the Māngere Inlet that most Aucklanders have driven past without stopping at. That's their loss.

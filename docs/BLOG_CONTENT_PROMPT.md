@@ -42,28 +42,47 @@ Before drafting anything, classify the topic to determine which format(s) to pro
 Briefs live at `/briefs/` and use the briefs archetype. They are a distinct content type, not a shortened version of a guide.
 
 **Brief rules:**
-- **Hard limit: 500 words.** Cut everything that isn't the core answer.
+- **Hard limit: 300–500 words.** Anything over 500 is a guide, not a brief. Cut everything that isn't the core answer.
 - One key takeaway per section — no extended examples, no lengthy caveats
 - Strong first 50 words — Google uses these for snippets; state the answer immediately
-- FAQ block required (2–3 questions) — briefs rank well for FAQ snippets
+- FAQ block required (2–3 questions) — briefs rank well for FAQ snippets, and the `faqs:` frontmatter fires `FAQPage` JSON-LD for agent/search SEO
 - NZ jurisdiction stated in the first sentence
 - End with a single clear action the reader can take
+- **Date must be in the past at publish time** — Hugo excludes future-dated pages from builds by default. Set the date to when you're writing, not a future slot.
 
-**Brief frontmatter:**
+**Brief archetype compliance (required):** Every brief must populate all fields from `themes/rentrant-blog/archetypes/briefs.md`. The following are non-optional:
+- `key_facts` block with `content_type: "brief"` and 2–4 facts
+- `faqs` block with 2–3 questions
+- `app_link` pointing to the most relevant RentRant location/search page
+- `long_form` slug if a companion guide exists
+
+**Brief frontmatter (full required template):**
 ```yaml
 ---
 title: ""           # Can be a question ("Can My Landlord...?") — briefs often answer questions
+date: YYYY-MM-DDTHH:MM:SS+13:00   # Must be in the past at time of writing
+draft: false
 description: ""     # 150–160 chars; target the quick-answer search query
 tags: []
+author: "RentRant Team"
+topic: ""           # Same topic taxonomy as guides (e.g. "tenant-rights", "market-data")
+app_link: ""        # Required — most relevant RentRant URL (e.g. "https://rentrant.nz/locations/search")
 long_form: ""       # Slug of companion guide if one exists (e.g. "healthy-homes-compliance-guide")
 key_facts:
+  jurisdiction: "New Zealand"
+  last_verified: "YYYY-MM-DD"
   content_type: "brief"
-  facts: []         # 2–4 facts — pick only the most load-bearing ones
-faqs:               # Required for briefs
+  facts:
+    - ""            # 2–4 load-bearing facts only
+faqs:               # Required — fires FAQPage JSON-LD for agent/search SEO
   - question: ""
     answer: ""
 ---
 ```
+
+**Brief layout:** Briefs use the same two-column `article-layout` grid as guides — card body on the left, sidebar (CTA, share buttons, related articles) on the right. Do not add an inline article-cta inside the card body. The `long_form` callout ("Want the full picture?") renders at the bottom of the card automatically when `long_form:` is set.
+
+**Mobile layout behaviour:** On mobile, the sidebar stacks below the article card. The sidebar share buttons are hidden on mobile (≤767px) to avoid duplicating the share footer that already appears at the bottom of the card body. The visible share UI on mobile is the inline card-body footer only — do not remove it. The sidebar CTA and related links remain visible below the article on mobile.
 
 **Good brief opening:**
 > Your landlord needs to give you at least 24 hours written notice before entering — except in genuine emergencies.
@@ -77,10 +96,15 @@ faqs:               # Required for briefs
 
 Guides live at `/posts/` and use the default archetype. Length: 1,500–2,500 words.
 
-**Guide frontmatter:**
+**Guide frontmatter (key fields):**
 ```yaml
 brief: ""   # Slug of companion brief if one exists (e.g. "landlord-entry-rights-brief")
+faqs:       # Required for guides — fires FAQPage JSON-LD for agent/search SEO
+  - question: ""
+    answer: ""
 ```
+
+**FAQs are required for guides**, not just briefs. Every guide should include 3–4 questions in the `faqs:` frontmatter block. The `head.html` partial automatically emits `FAQPage` JSON-LD structured data for any page type that has a `faqs:` block — this enables answers to appear directly in AI agent responses and search snippets.
 
 ---
 
@@ -202,7 +226,7 @@ Include specific, actionable details:
 - Checklists with checkboxes (`- [ ]`)
 
 ### Tables
-Use markdown tables for comparisons:
+Use markdown tables for comparisons. Tables are mobile-safe — they scroll horizontally on small screens, so use them freely for any comparison or regulatory data rather than resorting to prose:
 
 | Item | Amount | Legal Limit |
 |------|--------|-------------|
@@ -240,7 +264,7 @@ Use markdown tables for comparisons:
   - [Citizens Advice Bureau](https://www.cab.org.nz/)
 
 ### Length Guidelines
-- **Briefs** (`/briefs/`): 500 words hard limit. One answer, one action.
+- **Briefs** (`/briefs/`): 300–500 words hard limit. One answer, one action.
 - **Guides** (`/posts/`): 1,500–2,500 words. Comprehensive, step-by-step, checklist-ready.
 
 See **Section 0** for when to produce a Brief, a Guide, or both.
@@ -359,9 +383,13 @@ Before publishing, verify:
 ### Format
 - [ ] Format decision made (Brief / Guide / Both) — see Section 0
 - [ ] If Both: brief written first; `brief:` and `long_form:` slugs populated in both files
-- [ ] Brief: word count is at or under 500 words
+- [ ] Brief: word count is 300–500 words
+- [ ] Brief: all archetype fields populated — `key_facts`, `faqs`, `app_link`, `topic`
+- [ ] Brief: `long_form:` slug populated if a companion guide exists
+- [ ] Brief: date is in the past at time of writing (not a future timestamp)
 - [ ] Brief: FAQ block present (2–3 questions)
 - [ ] Guide: `brief:` field populated if a companion brief exists
+- [ ] Guide: `faqs:` block present with 3–4 questions (fires FAQPage JSON-LD)
 
 ### Frontmatter
 - [ ] Title under 60 characters
@@ -481,4 +509,4 @@ Always verify:
 
 ---
 
-*Last updated: February 2026*
+*Last updated: March 2026*
