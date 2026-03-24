@@ -2,8 +2,8 @@
 title: "Best Suburbs for Renters in Auckland (2026 Guide)"
 date: 2026-02-06T15:00:00+13:00
 draft: false
-description: "Looking for a place to rent in Auckland? Here's an honest breakdown of suburbs by price, transport, vibe, and what tenants actually experience."
-tags: ["auckland", "suburbs", "rent", "guide", "2026"]
+description: "Looking for a place to rent in Auckland? Honest breakdown of suburbs by price, transport, and vibe — including which suburbs suit students at UoA, AUT, Massey, and MIT."
+tags: ["auckland", "suburbs", "rent", "guide", "2026", "international-students", "student-accommodation", "university-of-auckland", "AUT"]
 author: "RentRant Team"
 topic: "suburb-guide"
 app_link: "https://rentrant.nz/locations/search"
@@ -281,6 +281,59 @@ High rents, high demand. Either inner-city location, character housing, or premi
 
 ---
 
+## International Students: Suburbs by University
+
+Auckland's campuses are spread across the city. Which suburb makes sense depends entirely on where you're studying.
+
+### University of Auckland + AUT City Campus
+
+Both campuses sit in central Auckland, about 10 minutes walk from each other. Eden Terrace, Grafton, and Newton are walkable. For budget options, the Western Line train (Mt Albert → Avondale → Henderson) is the most practical corridor.
+
+| Suburb | 2BR approx. | Commute to UoA/AUT City |
+|--------|-------------|-------------------------|
+| Eden Terrace / Grafton | $620–700/wk | Walking (10–15 min) |
+| Kingsland / Sandringham | $600–680/wk | Bus (20–25 min) |
+| Mt Albert | $580–640/wk | Western Line train (20 min) |
+| Avondale | $520–570/wk | Western Line train (25 min) |
+| Henderson | $490–550/wk | Western Line train (35–40 min) |
+| Glen Innes | $520–570/wk | Eastern Line train (30–35 min) |
+
+Students sharing a flat can divide these costs — a typical shared room runs $220–$340/week depending on suburb and how many flatmates you have.
+
+### AUT South Campus + Manukau Institute of Technology (MIT)
+
+Both campuses are in Manukau, South Auckland. The Southern Line serves this corridor well.
+
+| Suburb | 2BR approx. | Commute to Manukau |
+|--------|-------------|-------------------|
+| Papatoetoe / Ōtāhuhu | $500–540/wk | Southern Line (5–15 min) |
+| Manurewa | $460–510/wk | Southern Line (15–20 min) |
+| Māngere | $480–520/wk | Bus (15–25 min) |
+
+### Massey University (Albany Campus)
+
+North Shore campus, 20km north of the CBD. The Northern Busway makes it more accessible than the map suggests.
+
+| Suburb | 2BR approx. | Commute to Albany campus |
+|--------|-------------|--------------------------|
+| Albany | $600–660/wk | Walking or on-campus bus (5–15 min) |
+| Constellation / Sunnynook | $570–620/wk | Busway (10 min) |
+| Takapuna | $680–750/wk | Busway + bus (25–30 min) |
+
+### Unitec (Mt Albert Campus)
+
+Western Auckland campus, well-served by the Western Line.
+
+| Suburb | 2BR approx. | Commute to Unitec |
+|--------|-------------|-------------------|
+| Mt Albert | $580–640/wk | Walking (10–15 min) |
+| Avondale | $520–570/wk | Western Line train (10 min) |
+| Henderson | $490–550/wk | Western Line train (20 min) |
+
+For the full international student breakdown — including scam warnings, bond rules, and how to apply without NZ references — see [renting in Auckland as an international student](/blog/international-students-renting-auckland).
+
+---
+
 ## The Honest Summary
 
 | If you want... | Look at... |
@@ -293,6 +346,10 @@ High rents, high demand. Either inner-city location, character housing, or premi
 | Best value for quality | Onehunga, Mt Wellington, Sandringham |
 | Top school zones | Epsom, Remuera, Double Grammar zone |
 | Nightlife access | Kingsland, Ponsonby, CBD fringe |
+| Near UoA / AUT City | Eden Terrace, Kingsland, Mt Albert |
+| Near MIT / AUT South | Papatoetoe, Ōtāhuhu, Manurewa |
+| Near Massey Albany | Albany, Constellation |
+| Near Unitec | Mt Albert, Avondale |
 
 ---
 
@@ -306,7 +363,7 @@ Before committing to any suburb, spend time there at different times:
 
 And remember: suburbs are generalisations. Different properties in the same suburb can have wildly different experiences. A suburb being "nice" doesn't mean every landlord in it is.
 
-That's what we're building at [RentRant](https://rentrant.nz) — a way to share what specific properties and landlords are actually like. We're early, still growing one rating at a time. If you've rented in Auckland, your experience could help someone else choose wisely.
+That's what we're building at [RentRant](https://rentrant.nz) — a way to share what specific properties are actually like to live in. No free text, no drama — just structured ratings on heating, moisture, maintenance, noise, and more. We're early, still growing one rating at a time. If you're renting in Auckland (or recently left a tenancy), [your rating](https://rentrant.nz) helps the next person — especially international students choosing a suburb from overseas — make a more informed decision.
 
 ---
 

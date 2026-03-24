@@ -6,6 +6,19 @@ description: "New to New Zealand and no local rental history? Here's what landlo
 tags: ["auckland", "tenant-rights", "guide", "international-students", "renting-tips", "first-time-renter"]
 author: "RentRant Team"
 topic: "renting-tips"
+app_link: "https://rentrant.nz/locations/search"
+
+faqs:
+  - question: "Can a New Zealand landlord refuse me because I have no NZ rental history?"
+    answer: "Landlords can prefer applicants with NZ rental history, and many do. This is legal — it's a preference, not discrimination. But refusing you solely because of your national origin is illegal under the Human Rights Act 1993. In practice, the best protection is building the strongest possible application with overseas references and strong financial evidence."
+  - question: "Can a NZ landlord ask for my photo when I apply for a rental?"
+    answer: "No. Requesting a photo as part of a rental application is not permitted under the Privacy Act 2020 — your appearance is not relevant to whether you can pay rent or be a good tenant. If a rental application form requests a photo, that is a red flag about how the landlord operates."
+  - question: "What documents should I prepare if I'm new to New Zealand?"
+    answer: "Overseas rental references with contact details (translated if necessary), a letter from your employer or university confirming your role and income, bank statements showing ability to cover several months of rent, your passport, and a brief cover letter explaining your situation. A NZ-based guarantor significantly strengthens your application."
+  - question: "Can a landlord ask about my visa or immigration status?"
+    answer: "They can ask to confirm you have the right to reside in New Zealand, which is a lawful check. They should not ask you to specify your visa category or disclose your full immigration history. If the question is specifically about ethnicity or national origin — not residency status — that crosses into discrimination."
+  - question: "What supporting documents help international students renting in Auckland for the first time?"
+    answer: "Your university enrolment confirmation (from University of Auckland, AUT, Massey, MIT, or your institution), a student loan or scholarship letter confirming your funding, bank statements from your home country, and overseas landlord references. An enrolment letter is strong evidence of your intention to stay for the tenancy duration."
 
 key_facts:
   jurisdiction: "New Zealand"
@@ -120,7 +133,7 @@ What to cover:
 >
 > *Hi [Property Manager],*
 >
-> *I'm applying for the [property address] advertised on Trade Me. I'm a [student at UoA / software engineer at X / registered nurse] arriving in Auckland in [month].*
+> *I'm applying for the property at [property address]. I'm a [student at the University of Auckland / AUT / Massey Albany / software engineer at X / registered nurse] arriving in Auckland in [month].*
 >
 > *I don't have a NZ rental reference yet — this will be my first tenancy in New Zealand. I've included references from my previous landlord in [country], who I rented from for [X] years. You're welcome to contact them by email; they're available at [email address].*
 >
@@ -131,6 +144,21 @@ What to cover:
 > *Cheers, [Name]*
 
 The tone is direct and practical. It doesn't over-explain or apologise. It addresses the reference situation honestly and redirects to the evidence that does exist.
+
+---
+
+## For students: what university enrolment adds to your application
+
+If you're coming to study at the University of Auckland, AUT, Massey, MIT, Unitec, or another institution, your enrolment confirmation is a meaningful piece of supporting evidence — and many landlords underestimate its value.
+
+An enrolment letter demonstrates:
+- You have a confirmed reason to be in Auckland for a specific duration
+- Your institution has vetted you to some degree
+- You intend to stay for the length of the tenancy (unlike short-term visitors)
+
+Pair it with proof of your funding source (student loan, scholarship letter, or a parental support letter) and you've addressed the two questions any landlord is really asking: *Can you pay? Will you stay?*
+
+Before you commit to any property, [search the address on RentRant](https://rentrant.nz). The platform is still building its database — not every address will have ratings yet — but where data exists, structured ratings on heating, maintenance responsiveness, moisture, and noise tell you things no listing photo can.
 
 ---
 

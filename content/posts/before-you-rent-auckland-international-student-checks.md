@@ -22,7 +22,7 @@ key_facts:
 
 faqs:
   - question: "What should international students check before renting in Auckland?"
-    answer: "Verify the listing is on a NZ-based platform (Trade Me, realestate.co.nz), confirm no application fees were charged (illegal in NZ), check bond lodgement at tenancy.govt.nz after paying, and verify the property manager is licensed at reaa.govt.nz."
+    answer: "Verify the listing is from a NZ-based agency or platform, confirm no application fees were charged (illegal in NZ), check bond lodgement at tenancy.govt.nz after paying, and verify the property manager is licensed at reaa.govt.nz."
   - question: "How do I verify a property manager is licensed in NZ?"
     answer: "Search the Real Estate Agents Authority register at reaa.govt.nz — all licensed property managers must be listed there. Unlicensed operators have no legal authority to manage rentals and limited accountability."
   - question: "Is it safe to find an Auckland rental on WeChat or RedNote?"
@@ -67,7 +67,7 @@ If your contact is offshore — based overseas, asks you to communicate only via
 
 Before you apply, find out what other tenants experienced at the property or with the landlord.
 
-[RentRant](https://rentrant.nz) lets you search properties by address and see ratings and reviews from previous tenants. Issues around maintenance, bond disputes, landlord responsiveness, and property condition are the kinds of things that don't show up in a listing but absolutely affect whether you'll have a decent year.
+[RentRant](https://rentrant.nz) lets you search a property by address to see whether previous tenants have rated it — heating, moisture, maintenance responsiveness, noise, and more. The platform is early, so not every address will have data yet. But it's worth checking, and if you've already rented somewhere in Auckland, adding your rating is exactly what builds the database for the next person in your position.
 
 Tenancy Tribunal records are also public. If a landlord or property manager has been taken to the Tribunal — and lost — that's on record. Our [guide to checking a landlord in NZ](/blog/how-to-check-a-landlord-nz) explains how to find and read those records.
 
@@ -159,6 +159,8 @@ Tenancy Services has information available in multiple languages. If English isn
 Nine checks. Not every one will apply to every situation, but most of them take ten minutes and could save you months of stress.
 
 For the full picture of how renting works in Auckland as an international student — from finding a flat to your rights once you're in — [the guide is here](/blog/international-students-renting-auckland). And once you've found somewhere and want to know what previous tenants experienced, [check it on RentRant](https://rentrant.nz).
+
+**Already living somewhere in Auckland?** [Rate your property on RentRant](https://rentrant.nz). It takes a few minutes and the data goes directly to helping the next international student who's trying to make this same decision from overseas.
 
 ---
 

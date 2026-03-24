@@ -3,7 +3,7 @@ title: "Auckland Rental Scams: How to Spot Them Before You Lose Money"
 date: 2026-02-14T11:00:00+13:00
 draft: false
 description: "How to spot rental scams in Auckland. Common tricks, red flags to watch for, and what a legitimate rental process actually looks like."
-tags: ["scams", "auckland", "renting-tips", "safety", "tenant-rights"]
+tags: ["scams", "auckland", "renting-tips", "safety", "tenant-rights", "international-students"]
 author: "RentRant Team"
 topic: "renting-tips"
 app_link: "https://rentrant.nz/locations/search"
@@ -28,6 +28,8 @@ faqs:
     answer: "Red flags include: price significantly below market for the area, landlord claims to be overseas and can't do an in-person viewing, request for payment before viewing or signing, and photos appearing in multiple listings or on different platforms."
   - question: "What should I do if I've been targeted by a rental scam?"
     answer: "Report it to NZ Police (police.govt.nz) and your bank immediately. If money has been transferred, act within hours — banks can sometimes reverse recent transfers. Also report the listing to the platform it appeared on."
+  - question: "Are international students targeted by rental scams in Auckland?"
+    answer: "Yes — NZ Police have specifically documented scams targeting Chinese-background students via WeChat and RedNote. The pattern involves fake listings, fabricated landlord IDs, and requests for deposits before any signed agreement. International students are disproportionately targeted because they're researching from overseas, under time pressure, and may be unfamiliar with NZ rental law. The core protection is the same as for any renter: no money before a signed agreement and physical keys."
 
 # Social & Sharing
 # image: "images/rental-scams-auckland.jpg"
@@ -47,7 +49,7 @@ Auckland rental scams aren't sophisticated. They don't need to be. They just nee
 
 ### The "overseas landlord" scam
 
-**How it works:** A listing appears on Trade Me, Facebook, or another platform at a suspiciously good price. The "landlord" says they're overseas — working, travelling, on a mission trip — and can't do an in-person viewing. They offer to send you the keys once you transfer a bond and first week's rent.
+**How it works:** A listing appears on a rental platform, Facebook, or another site at a suspiciously good price. The "landlord" says they're overseas — working, travelling, on a mission trip — and can't do an in-person viewing. They offer to send you the keys once you transfer a bond and first week's rent.
 
 **Why people fall for it:** The listing often uses real photos from a genuine property (stolen from old listings or real estate sites). The communication sounds plausible. The urgency — "I have another applicant interested" — pushes you to act fast.
 
@@ -91,7 +93,7 @@ Knowing the real process makes the fake ones easier to spot.
 
 ### Step by step — what's normal:
 
-1. **You find a listing** on Trade Me, a property management website, or through an agent
+1. **You find a listing** on a NZ-based rental platform, a property management agency's website, or through an agent
 2. **You attend a viewing** — in person, at the actual property
 3. **You submit an application** — usually through the agent's portal or a standard form
 4. **Your references and ID are checked** — no charge to you
