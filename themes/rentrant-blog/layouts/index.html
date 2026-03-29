@@ -6,7 +6,7 @@
         <p class="home-identity-tagline">Renting in New Zealand is harder than it should be. 
             Scarce rentals and time pressure mean decisions get made fast — with little to go on. 
             Every property has a history, but that knowledge rarely reaches the next tenant.</p>
-        <p class="home-identity-tagline">Rating your rental on RentRant changes that.</p>
+        <p class="home-identity-tagline">Rating your rental on RentRant changes that.{{ with .Site.Params.mainAppUrl }} <a href="{{ . }}/users/sign_in?utm_source=blog&utm_medium=hero&utm_campaign=signup" style="color: inherit; text-decoration: underline; text-underline-offset: 3px;">Sign up now.</a>{{ end }}</p>
     </section>
 
     {{/* Zone 1: above-fold — main column + sidebar */}}
@@ -118,6 +118,32 @@
 
         </aside>
     </div>
+    {{ end }}
+
+    {{/* Lists strip — between Zone 1 and Zone 2 */}}
+    {{ $lists := where .Site.RegularPages "Type" "lists" | first 3 }}
+    {{ if $lists }}
+    <section style="margin-top: var(--space-12);">
+        <div class="topic-section-header">
+            <h2>Checklists &amp; Lists</h2>
+            <a href='{{ "lists/" | relURL }}' class="topic-section-link">View all →</a>
+        </div>
+        <div class="post-grid post-grid-4">
+            {{ range $lists }}
+            <article class="post-card">
+                <div class="post-card-gradient"></div>
+                <div class="post-card-body">
+                    <h3 class="post-card-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h3>
+                    <div class="post-card-meta">
+                        <span>{{ .ReadingTime }} min read</span>
+                    </div>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </section>
     {{ end }}
 
     {{/* Zone 2: Topic grid — full width */}}

@@ -125,7 +125,7 @@
     "@id": "{{ .Permalink }}"
   },
   "wordCount": {{ .WordCount }},
-  "articleSection": "{{ if eq .Type "briefs" }}Brief{{ else }}In-Depth Guide{{ end }}"
+  "articleSection": "{{ if eq .Type "briefs" }}Brief{{ else if eq .Type "lists" }}List{{ else }}In-Depth Guide{{ end }}"
   {{ with .Params.tags }},
   "keywords": "{{ delimit . ", " }}"
   {{ end }}
@@ -147,8 +147,8 @@
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Articles",
-      "item": "{{ "posts/" | absURL }}"
+      "name": "{{ if eq .Type "briefs" }}Briefs{{ else if eq .Type "lists" }}Lists{{ else }}Articles{{ end }}",
+      "item": "{{ if eq .Type "briefs" }}{{ "briefs/" | absURL }}{{ else if eq .Type "lists" }}{{ "lists/" | absURL }}{{ else }}{{ "posts/" | absURL }}{{ end }}"
     },
     {
       "@type": "ListItem",
@@ -178,6 +178,20 @@
     }
     {{ end }}
   ]
+}
+</script>
+  {{ end }}
+
+  {{/* ItemList — opt-in via frontmatter `list_count:` */}}
+  {{ with .Params.list_count }}
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ $.Title | jsonify }},
+  "description": {{ if $.Description }}{{ $.Description | jsonify }}{{ else }}""{{ end }},
+  "numberOfItems": {{ . }},
+  "url": "{{ $.Permalink }}"
 }
 </script>
   {{ end }}

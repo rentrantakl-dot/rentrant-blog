@@ -31,16 +31,6 @@ key_facts:
     - "Discrimination based on national origin, ethnicity, or religion is prohibited under the Human Rights Act 1993"
     - "Landlords can lawfully request: ID, income verification, rental references (NZ or overseas), and consent for a credit check"
     - "Overseas rental references are legitimate — a NZ landlord cannot refuse an application solely because references are from another country"
-
-faqs:
-  - question: "Can a New Zealand landlord refuse me because I have no NZ rental history?"
-    answer: "Landlords can prefer applicants with NZ rental history, and many do. This is legal — it's a preference, not discrimination. But refusing you solely because of your national origin is illegal under the Human Rights Act 1993. In practice, the best protection is building the strongest possible application with overseas references and strong financial evidence."
-  - question: "Can a NZ landlord ask for my photo when I apply for a rental?"
-    answer: "No. Requesting a photo as part of a rental application is not permitted under the Privacy Act 2020 — your appearance is not relevant to whether you can pay rent or be a good tenant. If a rental application form requests a photo, that is a red flag about how the landlord operates."
-  - question: "What documents should I prepare if I'm new to New Zealand?"
-    answer: "Overseas rental references with contact details (translated if necessary), a letter from your employer or university confirming your role and income, bank statements showing ability to cover several months of rent, your passport, and a brief cover letter explaining your situation. A NZ-based guarantor significantly strengthens your application."
-  - question: "Can a landlord ask about my visa or immigration status?"
-    answer: "They can ask to confirm you have the right to reside in New Zealand, which is a lawful check. They should not ask you to specify your visa category or disclose your full immigration history. If the question is specifically about ethnicity or national origin — not residency status — that crosses into discrimination."
 ---
 
 There's a particular catch-22 facing everyone who moves to New Zealand to study, work, or settle. To get a rental, you need a rental history. To build a rental history, you need to rent. The first tenancy is always the hardest.

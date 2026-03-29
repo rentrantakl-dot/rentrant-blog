@@ -35,9 +35,14 @@ canonifyURLs = true
   weight = 2
 
 [[menus.main]]
+  name = "Lists"
+  url = "/lists/"
+  weight = 3
+
+[[menus.main]]
   name = "How It Works"
   url = "https://rentrant.nz/how-it-works"
-  weight = 3
+  weight = 4
 
 [[menus.footer]]
   name = "RentRant App"
