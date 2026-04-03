@@ -7,6 +7,8 @@ tags: ["auckland", "first-time-renter", "guide", "tenant-rights", "tips"]
 author: "RentRant Team"
 topic: "renting-tips"
 app_link: "https://rentrant.nz/locations/search"
+image: "images/first-time-renting-auckland.png"
+image_alt: "First-time renter with moving boxes facing a row of Auckland weatherboard villas, checklist in hand"
 
 faqs:
   - question: "What do I need to rent my first flat in Auckland?"
@@ -290,6 +292,8 @@ For the truly impatient, here's the bare minimum:
 
 Renting is stressful, especially the first time. But it gets easier once you know what you're doing. 
 
-Once you've been through your first rental — the good and the bad — consider paying it forward. [Share your experience on RentRant](https://rentrant.nz). We're building a resource by renters, for renters. What you learn could save the next first-timer a lot of grief.
+Before you sign anything, [search the property on RentRant](https://rentrant.nz). The platform is early and not every address has data yet — but if it does, you'll find structured ratings on heating, maintenance responsiveness, and moisture from previous tenants. That's information you can't get from a listing photo, and it matters most when you're making a decision quickly.
+
+Once you've been through your first rental — the good and the bad — [rate it on RentRant](https://rentrant.nz). No free text, no named landlords. Just structured ratings on the things that actually matter. What you know could save the next first-timer from signing into a flat that looked fine in photos.
 
 Good luck out there.

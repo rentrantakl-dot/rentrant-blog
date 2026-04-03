@@ -36,7 +36,8 @@ key_facts:
     - "Auckland median weekly rent was approximately $650–$675 for a whole property (REINZ, mid-2025)"
     - "University of Auckland halls were 99.8% full at the start of 2025, with waiting lists in place"
 
-# image: "images/international-students-renting-auckland.jpg"
+image: "images/international-students-renting.png"
+image_alt: "International student arriving in Auckland with suitcase, rental listing on phone, city skyline ahead"
 ---
 
 You're trying to sort a flat in a city you've never lived in, from a country you're still in. The listings look plausible. Someone in a group chat says they can help. The pressure is real — your course starts in six weeks, and you have nowhere confirmed to stay.

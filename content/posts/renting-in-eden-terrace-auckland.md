@@ -8,6 +8,8 @@ author: "RentRant Team"
 topic: "suburb-guide"
 app_link: "https://rentrant.nz/suburbs/auckland/eden-terrace"
 brief: "renting-in-grafton-auckland"
+image: "images/renting-in-eden-terrace.png"
+image_alt: "Eden Terrace street scene with apartment buildings and weatherboard villas, city fringe, figure at window overlooking rooftops"
 
 faqs:
   - question: "How much does it cost to rent in Eden Terrace, Auckland?"
