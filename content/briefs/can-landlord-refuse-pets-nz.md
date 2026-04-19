@@ -65,7 +65,7 @@ What is unlikely to hold up: a general preference not to have pets, a belief tha
 
 ## If Your Request Is Refused
 
-Ask the landlord to give their reasons in writing. If the reasons don't stack up as "reasonable grounds," apply to the [Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/what-is-the-tenancy-tribunal/). The Tribunal will decide whether the refusal was lawful.
+Ask the landlord to give their reasons in writing. If the reasons don't stack up as "reasonable grounds," apply to the [Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/). The Tribunal will decide whether the refusal was lawful.
 
 This law is new — Tribunal precedent is still developing. The first cases will set the bar for what counts as reasonable. If you're an early test case, [Community Law NZ](https://communitylaw.org.nz/) can help you understand your position before you file.
 

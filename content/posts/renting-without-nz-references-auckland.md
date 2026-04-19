@@ -158,7 +158,7 @@ If you're being consistently declined and you believe it's connected to your nat
 
 Proving it is hard. A landlord who is discriminating won't say so. They'll say the property was taken, or that another applicant was preferred, or give no reason. Without evidence of explicit discrimination — a message, a statement, a pattern — filing a complaint is difficult.
 
-That said, the complaint pathway exists. The [Human Rights Commission](https://www.hrc.co.nz/) handles complaints about discrimination in housing. Complaints are free to file. Resolution through the Commission is typically through mediation, not punishment, but a documented complaint creates a record.
+That said, the complaint pathway exists. [Te Kāhui Tika Tangata](https://tikatangata.org.nz/) (Human Rights Commission) handles complaints about discrimination in housing. Complaints are free to file. Resolution through the Commission is typically through mediation, not punishment, but a documented complaint creates a record.
 
 More practically: some landlords and areas will be less receptive to your application than others. Larger property management companies operating at scale tend to have more standardised selection processes that are less open to individual bias. Private landlords vary enormously. If you're experiencing consistent rejection in one area or with one type of landlord, broadening your search is often more productive than persisting with the same approach.
 
@@ -167,7 +167,7 @@ More practically: some landlords and areas will be less receptive to your applic
 ## Resources
 
 - **Tenancy Services — Starting a tenancy:** [tenancy.govt.nz/starting-a-tenancy/](https://www.tenancy.govt.nz/starting-a-tenancy/)
-- **Human Rights Commission — Housing discrimination:** [hrc.co.nz/your-rights/housing/](https://www.hrc.co.nz/your-rights/housing/)
+- **Te Kāhui Tika Tangata (Human Rights Commission):** [tikatangata.org.nz](https://tikatangata.org.nz/)
 - **Privacy Act 2020 (NZ legislation):** [legislation.govt.nz](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html)
 - **Renews.co.nz — Property manager privacy breaches:** [renews.co.nz](https://www.renews.co.nz/1-in-10-nz-property-managers-ignoring-privacy-guidelines/)
 - **Community Law NZ — Free legal advice:** [communitylaw.org.nz](https://communitylaw.org.nz/)

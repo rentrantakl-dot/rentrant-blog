@@ -115,7 +115,7 @@ You don't have to sign a condition report you think is inaccurate. Discuss any d
 
 ## 7. Confirm your bond goes to Tenancy Services — not into a private account
 
-Once you've paid your bond, your landlord is legally required to lodge it with [Tenancy Services](https://www.tenancy.govt.nz/starting-a-tenancy/bonds/) within 23 working days. Tenancy Services holds the bond on behalf of both parties — not the landlord.
+Once you've paid your bond, your landlord is legally required to lodge it with [Tenancy Services](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/) within 23 working days. Tenancy Services holds the bond on behalf of both parties — not the landlord.
 
 After 23 working days, you can check that your bond has been lodged at tenancy.govt.nz. You'll need your tenancy start date and address. If the bond wasn't lodged, contact Tenancy Services directly — this is a breach of the Act and they can pursue the landlord on your behalf.
 

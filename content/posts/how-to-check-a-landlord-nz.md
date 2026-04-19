@@ -21,7 +21,7 @@ key_facts:
 
 faqs:
   - question: "Can I check a landlord's Tenancy Tribunal history in NZ?"
-    answer: "Yes — Tribunal decisions are public record and searchable at justice.govt.nz/tribunals/tenancy-tribunal/decisions. Search by the landlord's name or the property address to see whether previous tenants have taken them to Tribunal."
+    answer: "Yes — Tribunal decisions are public record and searchable at forms.justice.govt.nz/search/TT. Search by the landlord's name or the property address to see whether previous tenants have taken them to Tribunal."
   - question: "How do I verify a landlord in New Zealand?"
     answer: "Search their Tenancy Tribunal history, verify bond lodgement history at tenancy.govt.nz, check for reviews on RentRant, and confirm the property is legally habitable via council records. The whole process takes about 30 minutes."
   - question: "What is a Healthy Homes compliance statement?"
@@ -52,7 +52,7 @@ Under the Residential Tenancies Act 1986, landlords have significant legal oblig
 
 The Tribunal publishes its decisions publicly. This is your most powerful research tool.
 
-Go to **[justice.govt.nz/tribunals/tenancy-tribunal/decisions](https://www.justice.govt.nz/tribunals/tenancy-tribunal/decisions/)** and search by:
+Go to **[forms.justice.govt.nz/search/TT](https://forms.justice.govt.nz/search/TT/)** and search by:
 - **Landlord name** — use the surname for individual landlords, or the company name for corporate owners
 - **Property address** — if you know the address
 
@@ -162,7 +162,7 @@ Some things should give you genuine pause. A landlord who:
 
 New Zealand's Human Rights Act 1993 prohibits landlords from discriminating in rental applications on the basis of sex, marital status, religious belief, colour, race, ethnic or national origins, disability, age, political opinion, employment status, family status, or sexual orientation.
 
-In practice, discrimination in rental applications does happen — and it's hard to prove. If you suspect you've been declined on a protected ground, the Human Rights Commission provides a free complaints process at **[hrc.co.nz](https://www.hrc.co.nz/)**.
+In practice, discrimination in rental applications does happen — and it's hard to prove. If you suspect you've been declined on a protected ground, Te Kāhui Tika Tangata (Human Rights Commission) provides a free complaints process at **[tikatangata.org.nz](https://tikatangata.org.nz/)**.
 
 ---
 
@@ -184,12 +184,12 @@ Finding a Tribunal case or a bad review doesn't automatically mean you should wa
 
 ## Resources
 
-- **Tenancy Tribunal decisions:** [justice.govt.nz/tribunals/tenancy-tribunal/decisions](https://www.justice.govt.nz/tribunals/tenancy-tribunal/decisions/)
+- **Tenancy Tribunal decisions:** [forms.justice.govt.nz/search/TT](https://forms.justice.govt.nz/search/TT/)
 - **Companies Register:** [app.companiesoffice.govt.nz](https://app.companiesoffice.govt.nz/)
 - **RentRant — property search:** [rentrant.nz/locations/search](https://rentrant.nz/locations/search)
 - **Tenancy Services — Market Rent Tool:** [tenancy.govt.nz/rent-bond-and-bills/market-rent](https://www.tenancy.govt.nz/rent-bond-and-bills/market-rent/)
 - **My Tenancy (bond check):** [mytenancy.tenancy.govt.nz](https://mytenancy.tenancy.govt.nz/)
-- **Human Rights Commission:** [hrc.co.nz](https://www.hrc.co.nz/)
+- **Te Kāhui Tika Tangata (Human Rights Commission):** [tikatangata.org.nz](https://tikatangata.org.nz/)
 - **Community Law NZ:** [communitylaw.org.nz](https://communitylaw.org.nz/)
 
 ---

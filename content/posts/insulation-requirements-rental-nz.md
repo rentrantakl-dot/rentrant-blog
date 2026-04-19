@@ -201,7 +201,7 @@ The EECA's [Warmer Kiwi Homes programme](https://www.eeca.govt.nz/our-work/progr
 ## Resources
 
 - **Tenancy Services — Healthy Homes insulation standard:** [tenancy.govt.nz/healthy-homes/insulation-standard](https://www.tenancy.govt.nz/healthy-homes/insulation-standard/)
-- **MBIE — Healthy Homes compliance:** [mbie.govt.nz/building-and-energy/building/building-code-compliance/healthy-homes-standards](https://www.mbie.govt.nz/building-and-energy/building/building-code-compliance/healthy-homes-standards/)
+- **HUD — Healthy Homes Standards:** [hud.govt.nz/our-work/healthy-homes-standards](https://www.hud.govt.nz/our-work/healthy-homes-standards)
 - **EECA — Warmer Kiwi Homes:** [eeca.govt.nz/our-work/programmes-and-funding/warmer-kiwi-homes](https://www.eeca.govt.nz/our-work/programmes-and-funding/warmer-kiwi-homes/)
 - **Tenancy Tribunal:** [justice.govt.nz/tribunals/tenancy-tribunal](https://www.justice.govt.nz/tribunals/tenancy-tribunal/)
 - **Community Law NZ:** [communitylaw.org.nz](https://communitylaw.org.nz/)

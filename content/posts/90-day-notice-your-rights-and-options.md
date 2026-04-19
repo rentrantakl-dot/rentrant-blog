@@ -158,7 +158,7 @@ If you have evidence that the notice was issued in response to a complaint or ex
 Apply as early as possible — before the termination date. The Tribunal will consider the application and may cancel the notice.
 
 **Application process:**
-- Apply online via [Justice.govt.nz](https://www.justice.govt.nz/tribunals/tenancy-tribunal/apply/)
+- Apply via [Tenancy Services — disputes](https://www.tenancy.govt.nz/disputes/)
 - Filing fee: approximately $20 for most applications
 - You'll need to submit your evidence of the retaliatory connection — documented complaints, dates, correspondence
 - The hearing may be in-person or by phone
@@ -205,7 +205,7 @@ If you've rented here and have a story — good or bad — [leave a review on Re
 ## Resources
 
 - **Tenancy Services — Ending a Tenancy:** [tenancy.govt.nz/ending-a-tenancy/](https://www.tenancy.govt.nz/ending-a-tenancy/)
-- **Tenancy Tribunal — Apply:** [justice.govt.nz/tribunals/tenancy-tribunal/apply/](https://www.justice.govt.nz/tribunals/tenancy-tribunal/apply/)
+- **Tenancy Tribunal — Apply:** [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
 - **Community Law NZ — Free legal advice:** [communitylaw.org.nz](https://communitylaw.org.nz/)
 - **Citizens Advice Bureau:** [cab.org.nz](https://www.cab.org.nz/)
 - **Renters United Aotearoa:** [rentersunited.org.nz](https://www.rentersunited.org.nz/)

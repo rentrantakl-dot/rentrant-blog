@@ -203,7 +203,7 @@ Your April paper trail — the photos, the email, the landlord's response or non
 - **Heating standard:** [tenancy.govt.nz/healthy-homes/heating-standard](https://www.tenancy.govt.nz/healthy-homes/heating-standard/)
 - **Ventilation standard:** [tenancy.govt.nz/healthy-homes/ventilation-standard](https://www.tenancy.govt.nz/healthy-homes/ventilation-standard/)
 - **Insulation standard:** [tenancy.govt.nz/healthy-homes/insulation-standard](https://www.tenancy.govt.nz/healthy-homes/insulation-standard/)
-- **Tenancy Tribunal — apply:** [justice.govt.nz/tribunals/tenancy-tribunal/apply](https://www.justice.govt.nz/tribunals/tenancy-tribunal/apply/)
+- **Tenancy Tribunal — apply:** [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
 - **Community Law NZ:** [communitylaw.org.nz](https://communitylaw.org.nz/)
 
 ---

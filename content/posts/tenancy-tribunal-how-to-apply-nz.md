@@ -76,7 +76,7 @@ Before filing, gather:
 
 **Online (easiest):**
 
-1. Go to [justice.govt.nz/tribunals/tenancy-tribunal/apply](https://www.justice.govt.nz/tribunals/tenancy-tribunal/apply/)
+1. Go to [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
 2. Fill in the online form: your details, the landlord's details, what you're claiming, and a brief factual narrative of what happened
 3. Pay the $28 fee online by credit or debit card
 4. You'll receive a confirmation email and a case reference number
@@ -117,7 +117,7 @@ If mediation doesn't resolve the dispute, the case goes to a Tribunal hearing. T
 
 At the hearing, you present your case directly to an adjudicator. You explain what happened, show your evidence, and respond to whatever the landlord says. The landlord does the same. You don't need a lawyer — most tenants represent themselves, and the adjudicator is accustomed to unrepresented parties.
 
-The adjudicator issues a written decision, usually within a few weeks of the hearing. Decisions are published and publicly searchable at [justice.govt.nz](https://www.justice.govt.nz/tribunals/tenancy-tribunal/orders/).
+The adjudicator issues a written decision, usually within a few weeks of the hearing. Decisions are published and publicly searchable at [forms.justice.govt.nz/search/TT](https://forms.justice.govt.nz/search/TT/).
 
 ---
 
@@ -186,12 +186,12 @@ If your landlord hasn't acted after you've asked in writing, this is the next st
 
 ## Resources
 
-- **Apply to the Tenancy Tribunal:** [justice.govt.nz/tribunals/tenancy-tribunal/apply](https://www.justice.govt.nz/tribunals/tenancy-tribunal/apply/)
+- **Apply to the Tenancy Tribunal:** [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
 - **Tenancy Services — disputes:** [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
 - **Tenancy Services helpline:** 0800 836 262
 - **Community Law NZ:** [communitylaw.org.nz](https://communitylaw.org.nz/)
 - **Citizens Advice Bureau:** [cab.org.nz](https://www.cab.org.nz/)
-- **Published Tribunal decisions:** [justice.govt.nz/tribunals/tenancy-tribunal/orders](https://www.justice.govt.nz/tribunals/tenancy-tribunal/orders/)
+- **Published Tribunal decisions:** [forms.justice.govt.nz/search/TT](https://forms.justice.govt.nz/search/TT/)
 
 ---
 

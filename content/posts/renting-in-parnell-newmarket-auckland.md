@@ -206,7 +206,7 @@ If you've rented in Parnell or Newmarket, [leave a review on RentRant](https://r
 - **Tenancy Tribunal:** [justice.govt.nz/tribunals/tenancy-tribunal/](https://www.justice.govt.nz/tribunals/tenancy-tribunal/)
 - **Community Law NZ — Free legal advice:** [communitylaw.org.nz](https://communitylaw.org.nz/)
 - **Citizens Advice Bureau:** [cab.org.nz](https://www.cab.org.nz/)
-- **Human Rights Commission — Housing discrimination:** [hrc.co.nz](https://www.hrc.co.nz/)
+- **Te Kāhui Tika Tangata (Human Rights Commission):** [tikatangata.org.nz](https://tikatangata.org.nz/)
 
 ---
 

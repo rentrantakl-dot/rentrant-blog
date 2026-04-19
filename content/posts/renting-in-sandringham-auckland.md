@@ -98,7 +98,7 @@ A 2025 Public Health Communication Centre briefing documented how some landlords
 
 Under the Human Rights Act 1993, it's illegal to discriminate in rental accommodation on the basis of family status — which includes the size of a family. But "we have a three-person maximum" is much harder to challenge than "we don't want your family type." And most renters don't know where the line is, or that they can complain.
 
-> **Key point:** If you believe a landlord rejected your application specifically because of your family configuration, ethnicity, or national origin, you can file a complaint with the [Human Rights Commission](https://www.hrc.co.nz/). The complaint process is free. Whether or not you pursue it, document what happened — dates, what was said, and who said it.
+> **Key point:** If you believe a landlord rejected your application specifically because of your family configuration, ethnicity, or national origin, you can file a complaint with [Te Kāhui Tika Tangata](https://tikatangata.org.nz/) (Human Rights Commission). The complaint process is free. Whether or not you pursue it, document what happened — dates, what was said, and who said it.
 
 This doesn't mean every landlord in Sandringham operates this way. But if you're part of a multi-generational household or a larger family group, it's worth knowing the pattern exists and that it's documented.
 
@@ -176,7 +176,7 @@ If you've rented in Sandringham before, [leave a review on RentRant](https://ren
 ## Resources
 
 - **Tenancy Services — Rental Applications:** [tenancy.govt.nz/starting-a-tenancy/finding-a-place-to-rent/](https://www.tenancy.govt.nz/starting-a-tenancy/finding-a-place-to-rent/)
-- **Human Rights Commission — Housing Discrimination:** [hrc.co.nz/your-rights/housing/](https://www.hrc.co.nz/your-rights/housing/)
+- **Te Kāhui Tika Tangata (Human Rights Commission):** [tikatangata.org.nz](https://tikatangata.org.nz/)
 - **Auckland Council GeoMaps (for checking zoning):** [geomaps.aucklandcouncil.govt.nz](https://geomaps.aucklandcouncil.govt.nz/)
 - **Tenancy Services Market Rent Tool:** [tenancy.govt.nz/rent-bond-and-bills/market-rent/](https://www.tenancy.govt.nz/rent-bond-and-bills/market-rent/)
 - **Community Law NZ — Free legal advice:** [communitylaw.org.nz](https://communitylaw.org.nz/)

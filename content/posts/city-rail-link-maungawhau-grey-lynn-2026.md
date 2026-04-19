@@ -127,7 +127,7 @@ RentRant is building a ratings base for Grey Lynn properties. Whether your renti
 
 ## Resources
 
-- **Auckland Transport — CRL project:** [at.govt.nz](https://at.govt.nz/projects-initiatives/city-centre-projects-and-initiatives/city-rail-link-aucklands-new-network-in-2026)
+- **Auckland Transport — CRL project:** [at.govt.nz](https://at.govt.nz/projects-initiatives/city-centre-projects-and-initiatives/city-rail-link-auckland-s-new-network-in-2026)
 - **AT Journey Planner:** [at.govt.nz](https://at.govt.nz/)
 - **Tenancy Services — Market Rent Tool:** [tenancy.govt.nz/rent-bond-and-bills/market-rent](https://www.tenancy.govt.nz/rent-bond-and-bills/market-rent/)
 - **Community Law NZ:** [communitylaw.org.nz](https://communitylaw.org.nz/)

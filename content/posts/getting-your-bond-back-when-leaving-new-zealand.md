@@ -99,7 +99,7 @@ If the landlord or property manager does the inspection without you present, ask
 
 ## Initiating the bond refund yourself
 
-You do not need to wait for your landlord to file the bond refund application. Tenants can initiate the process directly through [Tenancy Services' online bond service](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/bond-refund/).
+You do not need to wait for your landlord to file the bond refund application. Tenants can initiate the process directly through [Tenancy Services' bond refund page](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/refunding-a-bond/).
 
 Doing this before you leave NZ means:
 - You've started the process while you can still respond promptly to any queries
@@ -180,9 +180,9 @@ Paying a refund to an overseas bank account may involve intermediary fees depend
 
 ## Resources
 
-- **Tenancy Services — Bond refund:** [tenancy.govt.nz/rent-bond-and-bills/bond/bond-refund/](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/bond-refund/)
-- **Check your bond is lodged:** [tenancy.govt.nz/starting-a-tenancy/bonds/](https://www.tenancy.govt.nz/starting-a-tenancy/bonds/)
-- **Tenancy Tribunal — Apply:** [justice.govt.nz/tribunals/tenancy-tribunal/apply/](https://www.justice.govt.nz/tribunals/tenancy-tribunal/apply/)
+- **Tenancy Services — Bond refund:** [tenancy.govt.nz/rent-bond-and-bills/bond/refunding-a-bond](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/refunding-a-bond/)
+- **Check your bond:** [tenancy.govt.nz/rent-bond-and-bills/bond](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/)
+- **Tenancy Tribunal — Apply:** [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
 - **Community Law NZ — Free legal advice:** [communitylaw.org.nz](https://communitylaw.org.nz/)
 - **Citizens Advice Bureau:** [cab.org.nz](https://www.cab.org.nz/)
 

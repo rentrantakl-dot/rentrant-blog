@@ -268,7 +268,7 @@ Some landlords try to claim bond for things that aren't your responsibility. Her
 ## Resources
 
 - **Tenancy Services — Bond:** [tenancy.govt.nz/rent-bond-and-bills/bond](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/)
-- **Bond refund online service:** [tenancy.govt.nz/rent-bond-and-bills/bond/bond-refund](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/bond-refund/)
+- **Bond refund:** [tenancy.govt.nz/rent-bond-and-bills/bond/refunding-a-bond](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/refunding-a-bond/)
 - **Tenancy Tribunal:** [justice.govt.nz/tribunals/tenancy-tribunal](https://www.justice.govt.nz/tribunals/tenancy-tribunal/)
 - **Community Law NZ:** [communitylaw.org.nz](https://communitylaw.org.nz/) — Free legal advice on bond disputes
 - **Citizens Advice Bureau:** [cab.org.nz](https://www.cab.org.nz/)
