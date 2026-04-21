@@ -1385,6 +1385,14 @@ main {
   margin-bottom: var(--space-4);
 }
 
+.cta-microcopy {
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-400);
+  text-align: center;
+  margin-top: var(--space-2);
+  margin-bottom: 0;
+}
+
 /* ========================================
    ARTICLE PAGE — MOBILE OPTIMISATION
    ======================================== */
