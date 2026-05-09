@@ -1,17 +1,17 @@
 ---
 title: "What Can Landlords Legally Ask on a NZ Rental Application?"
-date: 2026-03-26T10:30:00+13:00
+date: 2026-05-09T10:30:00+12:00
 draft: false
 description: "NZ landlords can ask about income and rental history. They cannot require photos, discriminate by ethnicity or family status, or charge application fees."
-tags: ["tenant-rights", "guide", "auckland"]
+tags: ["tenant-rights", "brief", "auckland"]
 author: "RentRant Team"
 topic: "tenant-rights"
-app_link: "https://rentrant.nz/cities/auckland"
+app_link: "https://rentrant.nz"
 long_form: "tenant-discrimination-rental-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-03-26"
+  last_verified: "2026-05-09"
   content_type: "brief"
   primary_law: "Human Rights Act 1993"
   facts:
@@ -50,20 +50,18 @@ Landlords can request information reasonably necessary to assess whether you can
 |---|---|
 | Require a photo of you | Privacy Act 2020 — do not provide |
 | Charge an application or admin fee | **Illegal** under the Residential Tenancies Act 1986 |
-| Discriminate based on race or ethnicity | **Unlawful** under the Human Rights Act 1993 |
+| Discriminate based on race or ethnicity | **Unlawful** under the [Human Rights Act 1993](https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304476.html) |
 | Discriminate based on family status (having children) | **Unlawful** under the Human Rights Act 1993 |
 | Discriminate based on employment status | **Unlawful** under the Human Rights Act 1993 |
 | Charge a credit check fee | **Illegal** under the Residential Tenancies Act 1986 |
 
-Thirteen grounds are protected under the Human Rights Act — including age, disability, religious belief, marital status, and sexual orientation. No landlord can lawfully refuse a tenancy on any of these grounds.
+Thirteen grounds are protected under [section 53 of the Human Rights Act 1993](https://www.legislation.govt.nz/act/public/1993/0082/latest/DLM304476.html) — including age, disability, religious belief, marital status, and sexual orientation. No landlord can lawfully refuse a tenancy on any of these grounds.
 
 ---
 
-## The Honest Reality
+## What the Evidence Shows
 
-2025 peer-reviewed research found that **32% of renters** surveyed had experienced discrimination when trying to rent — and a further 16% were unsure. The mechanism is discretionary selection: "gut feel" and subjective criteria that are difficult to challenge and easy to justify.
-
-The law is clear. Proving a specific case is hard.
+A 2025 peer-reviewed study in the *International Journal of Housing Policy* surveyed renters and found **32%** had experienced discrimination when trying to rent; a further 16% were unsure. The authors argue that current law is well-suited to identifying individual acts but less effective at addressing patterns produced by discretionary selection — which is why proving any single case can be hard even where the law is clear.
 
 ---
 

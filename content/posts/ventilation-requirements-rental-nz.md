@@ -1,6 +1,6 @@
 ---
 title: "Ventilation Requirements for NZ Rentals: The Healthy Homes Standard"
-date: 2026-03-26T09:30:00+13:00
+date: 2026-05-09T09:30:00+12:00
 draft: false
 description: "NZ rental ventilation requirements explained: openable windows, extractor fans in kitchens and bathrooms, why recirculating range hoods don't comply, and what to do."
 tags: ["healthy-homes", "tenant-rights", "guide", "auckland"]
@@ -10,7 +10,7 @@ brief: "ventilation-rental-nz-brief"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-03-26"
+  last_verified: "2026-05-09"
   content_type: "guide"
   primary_law: "Residential Tenancies (Healthy Homes Standards) Regulations 2019"
   facts:
@@ -35,7 +35,7 @@ faqs:
 
 It's June. The bathroom mirror fogs up every morning, the kitchen ceiling has a faint stain you noticed too late, and the window above the stove does nothing except let in cold air. That recirculating range hood hasn't been clearing the cooking steam — it's been filtering it and putting it back into your kitchen.
 
-Under New Zealand's Healthy Homes ventilation standard — fully in force since **1 July 2025** — this is not a situation your landlord gets to leave in place. Here's what the law requires, what counts as compliant, and what to do if your flat falls short.
+Under [New Zealand's Healthy Homes ventilation standard](https://www.tenancy.govt.nz/healthy-homes/ventilation-standard/) — fully in force since **1 July 2025** under the [Residential Tenancies (Healthy Homes Standards) Regulations 2019](https://www.legislation.govt.nz/regulation/public/2019/0088/latest/whole.html) — this is not a situation your landlord gets to leave in place. Here's what the law requires, what counts as compliant, and what to do if your flat falls short.
 
 ---
 
@@ -66,7 +66,7 @@ This is where a lot of rentals fail — and where a lot of landlords are confide
 | Extractor fan ducted to roof cavity | **No** |
 | Nothing | No |
 
-Tenancy Services states this explicitly: recirculating systems — including HRV and DVS systems and hoods that filter and return air — do not meet the standard. A range hood that sounds like it's working but blows air back into the kitchen through a carbon filter is not compliant, regardless of how expensive it looks.
+[Tenancy Services states this explicitly](https://www.tenancy.govt.nz/healthy-homes/ventilation-standard/): recirculating systems — including HRV and DVS systems and hoods that filter and return air — do not meet the standard. A range hood that sounds like it's working but blows air back into the kitchen through a carbon filter is not compliant, regardless of how expensive it looks.
 
 For fans installed after **1 July 2019**, the standard also specifies minimum capacity: at least 150mm duct diameter, or at least 50 litres per second exhaust capacity.
 
@@ -145,8 +145,8 @@ Contact your landlord or property manager by email.
 
 ### If they don't act
 
-1. **Tenancy Services mediation** — free, call 0800 836 262
-2. **Tenancy Tribunal** — apply at justice.govt.nz ($28 to file)
+1. **Tenancy Services mediation** — free, call 0800 836 262 or apply online at [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
+2. **Tenancy Tribunal** — escalate via the same Tenancy Services portal ($28 to file). Read more in our guide: [How to apply to the Tenancy Tribunal in NZ](/posts/tenancy-tribunal-how-to-apply-nz/)
 
 ### What the Tribunal can award
 
@@ -160,7 +160,7 @@ Contact your landlord or property manager by email.
 
 **"The HRV/DVS system handles the ventilation."**
 
-Whole-house ventilation systems like HRV and DVS are explicitly named by Tenancy Services as non-compliant with the ventilation standard. They do not substitute for extractor fans in kitchens or bathrooms.
+Whole-house ventilation systems like HRV and DVS are [explicitly named by Tenancy Services](https://www.tenancy.govt.nz/healthy-homes/ventilation-standard/) as non-compliant with the ventilation standard. They do not substitute for extractor fans in kitchens or bathrooms.
 
 **"The range hood works fine."**
 
@@ -202,4 +202,4 @@ The fact that non-compliance is still common isn't because these fixes are hard.
 
 ---
 
-*Renting somewhere with ventilation issues? [Rate the property on RentRant](https://rentrant.nz) — your experience with moisture, mould, and maintenance helps the next tenant make a more informed call before they sign.*
+*Renting somewhere with ventilation issues? [Sign up to RentRant](https://rentrant.nz) and rate the property — your experience with moisture, mould, and maintenance helps the next tenant make a more informed call before they sign.*

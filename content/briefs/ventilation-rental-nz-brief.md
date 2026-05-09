@@ -1,17 +1,17 @@
 ---
 title: "Does Your NZ Rental Need an Extractor Fan? Yes."
-date: 2026-03-26T09:00:00+13:00
+date: 2026-05-09T09:00:00+12:00
 draft: false
 description: "NZ rental ventilation rules: kitchens and bathrooms need extractor fans vented outside. Recirculating range hoods and HRV systems don't count."
-tags: ["healthy-homes", "tenant-rights", "guide"]
+tags: ["healthy-homes", "tenant-rights", "brief"]
 author: "RentRant Team"
 topic: "healthy-homes"
-app_link: "https://rentrant.nz/cities/auckland"
+app_link: "https://rentrant.nz"
 long_form: "ventilation-requirements-rental-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-03-26"
+  last_verified: "2026-05-09"
   content_type: "brief"
   primary_law: "Residential Tenancies (Healthy Homes Standards) Regulations 2019"
   facts:
@@ -29,7 +29,7 @@ faqs:
     answer: "Write to your landlord citing the Healthy Homes ventilation standard. If they don't act, apply to the Tenancy Tribunal — you can seek a compliance order, a rent reduction, and exemplary damages of up to $7,200 (smaller landlords) or $50,000 (larger landlords with 6+ properties)."
 ---
 
-Your bathroom has a window. Your landlord says that's enough. Under New Zealand's Healthy Homes ventilation standard — in force since **1 July 2025** — it isn't.
+Your bathroom has a window. Your landlord says that's enough. Under [New Zealand's Healthy Homes ventilation standard](https://www.tenancy.govt.nz/healthy-homes/ventilation-standard/) — in force since **1 July 2025** — it isn't.
 
 ---
 
@@ -48,7 +48,7 @@ Every bedroom and living area must have openable windows, doors, or skylights to
 | HRV or DVS whole-house ventilation system | **No** |
 | No fan at all | No |
 
-Tenancy Services names recirculating systems, HRV, and DVS explicitly as non-compliant. If the fan doesn't push air out through a duct to outside, it doesn't meet the standard — regardless of how powerful it sounds when you turn it on.
+[Tenancy Services](https://www.tenancy.govt.nz/healthy-homes/ventilation-standard/) names recirculating systems, HRV, and DVS explicitly as non-compliant. If the fan doesn't push air out through a duct to outside, it doesn't meet the standard — regardless of how powerful it sounds when you turn it on.
 
 ---
 
@@ -62,9 +62,9 @@ Fans installed before 1 July 2019 are grandfathered — but only if they still v
 
 ## What to Do If Yours Doesn't Comply
 
-1. Put it in writing — email your landlord citing the Healthy Homes ventilation standard (fully in effect since 1 July 2025)
-2. If they don't act, apply to the Tenancy Tribunal ($28 to file)
-3. The Tribunal can order installation, reduce your rent for the non-compliant period, and award exemplary damages
+1. Put it in writing — email your landlord citing the [Healthy Homes ventilation standard](https://www.tenancy.govt.nz/healthy-homes/ventilation-standard/) (fully in effect since 1 July 2025)
+2. If they don't act, [apply to the Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/) ($28 to file)
+3. The Tribunal can order installation, reduce your rent for the non-compliant period, and award [exemplary damages](https://www.tenancy.govt.nz/about-tenancy-services/tenancy-tribunal/) of up to $7,200 (smaller landlords) or $50,000 (six or more properties)
 
 ---
 
@@ -80,4 +80,4 @@ Fans installed before 1 July 2019 are grandfathered — but only if they still v
 
 ---
 
-Had ventilation problems? [Rate the property on RentRant](https://rentrant.nz) — your experience helps the next renter avoid the same winter.
+Had ventilation problems at a flat? [Sign up to RentRant](https://rentrant.nz) and rate the property — your experience helps the next renter avoid the same damp winter.

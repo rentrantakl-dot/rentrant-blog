@@ -1,15 +1,16 @@
 ---
 title: "How to Apply to the Tenancy Tribunal in NZ"
-date: 2026-03-26T10:00:00+13:00
+date: 2026-05-09T10:00:00+12:00
 draft: false
 description: "How to apply to NZ's Tenancy Tribunal: what it costs ($28), what evidence to bring, what happens at mediation, and what you can realistically win."
 tags: ["tenant-rights", "tenancy-tribunal", "guide", "auckland"]
 author: "RentRant Team"
 topic: "tenant-rights"
+brief: "tenancy-tribunal-application-nz-brief"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-03-26"
+  last_verified: "2026-05-09"
   content_type: "guide"
   primary_law: "Residential Tenancies Act 1986"
   facts:
@@ -33,13 +34,13 @@ faqs:
 
 You've written the emails. You've given them weeks. The mould is still there, the heating is still undersized, or the bond still hasn't come back. At some point "we'll look into it" stops being a response and starts being a stall.
 
-The Tenancy Tribunal exists for exactly this situation. It's not complicated, it doesn't require a lawyer, and it costs $28. Here's how it works and how to use it.
+The [Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/tenancy-tribunal/) exists for exactly this situation. It's not complicated, it doesn't require a lawyer, and it costs $28. Here's how it works and how to use it.
 
 ---
 
 ## What the Tenancy Tribunal is
 
-The Tenancy Tribunal is a statutory tribunal established under the Residential Tenancies Act 1986 to resolve disputes between tenants and landlords. Either party can apply. An adjudicator — not a judge — hears the case and issues a binding decision enforceable like a court order.
+The Tenancy Tribunal is a statutory tribunal established under the [Residential Tenancies Act 1986](https://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html) to resolve disputes between tenants and landlords. Either party can apply. An adjudicator — not a judge — hears the case and issues a binding decision enforceable like a court order.
 
 It handles a wide range of disputes:
 
@@ -139,11 +140,11 @@ A first-time maintenance failure that the landlord eventually fixes is unlikely 
 
 ## The retaliation protection — what you need to know
 
-Since **30 January 2025**, landlords can end a periodic tenancy with 90 days' notice and no stated reason. Tenant advocates have documented that this creates a chilling effect: renters reluctant to complain about problems for fear of being evicted in response.
+Since **30 January 2025**, [landlords can end a periodic tenancy](https://www.tenancy.govt.nz/ending-a-tenancy/giving-notice-to-end-a-tenancy/) with 90 days' notice and no stated reason. Tenant advocates have documented that this creates a chilling effect — renters reluctant to complain about problems for fear of being evicted in response.
 
 That fear is understandable. But the retaliation protection is real.
 
-Under the Residential Tenancies Act, if a landlord issues a termination notice within 90 days of a tenant:
+Under [section 54 of the Residential Tenancies Act 1986](https://www.legislation.govt.nz/act/public/1986/0120/latest/DLM95442.html), if a landlord issues a termination notice within 90 days of a tenant:
 - Making a complaint about the property's condition
 - Contacting Tenancy Services or the Tribunal
 - Exercising any other right under the Act
@@ -195,4 +196,4 @@ If your landlord hasn't acted after you've asked in writing, this is the next st
 
 ---
 
-*Dealt with a landlord who wouldn't fix things? [Rate the property on RentRant](https://rentrant.nz) — future tenants deserve to know how maintenance complaints were handled before they sign.*
+*Dealt with a landlord who wouldn't fix things? [Sign up to RentRant](https://rentrant.nz) and rate the property — future tenants deserve to know how maintenance complaints were handled before they sign.*
