@@ -202,4 +202,4 @@ The fact that non-compliance is still common isn't because these fixes are hard.
 
 ---
 
-*Renting somewhere with ventilation issues? [Sign up to RentRant](https://rentrant.nz) and rate the property — your experience with moisture, mould, and maintenance helps the next tenant make a more informed call before they sign.*
+*Renting somewhere with ventilation issues? [Sign up to RentRant](https://rentrant.nz) and rate the property — your experience with moisture, mould, and maintenance helps the next tenant make a more informed call before they sign — free, sign in with Google, about a minute.*

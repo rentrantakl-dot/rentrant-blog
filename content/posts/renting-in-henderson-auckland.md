@@ -195,4 +195,4 @@ It's less suitable if your lifestyle is built around inner-city walking or cycli
 
 ---
 
-*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Henderson, [rate the property on RentRant](https://rentrant.nz) — every honest rating helps the next tenant make a better call.*
+*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Henderson, [rate the property on RentRant](https://rentrant.nz) — every honest rating helps the next tenant make a better call — free, sign in with Google, about a minute.*

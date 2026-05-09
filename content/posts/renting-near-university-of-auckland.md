@@ -170,7 +170,7 @@ Listings tell you what the place looks like. They don't tell you whether the hea
 
 Before you commit, [search the address on RentRant](https://rentrant.nz/locations/search). Previous tenants leave structured ratings on heating, dampness, maintenance responsiveness, and how reasonable the landlord was. Not every property will have data yet — but if it does, that's the kind of information you can't get any other way.
 
-If you're already flatting near UoA, [rate your place on RentRant](https://rentrant.nz). Each rating from someone who's actually lived there makes the next year's intake of students that much less likely to sign for a cold, mouldy flat with a landlord who never picks up the phone.
+If you're already flatting near UoA, [rate your place on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Each rating from someone who's actually lived there makes the next year's intake of students that much less likely to sign for a cold, mouldy flat with a landlord who never picks up the phone.
 
 ---
 

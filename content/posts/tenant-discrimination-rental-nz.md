@@ -194,4 +194,4 @@ If you think you've been discriminated against, three things to take from this g
 
 ---
 
-*Your experience as a renter — how you were treated before and during a tenancy — is information future renters need. [Sign up to RentRant](https://rentrant.nz) and rate your current landlord — the more renters share what they've seen, the harder discrimination is to hide.*
+*Your experience as a renter — how you were treated before and during a tenancy — is information future renters need. [Sign up to RentRant](https://rentrant.nz) and rate your current landlord — the more renters share what they've seen, the harder discrimination is to hide — free, sign in with Google, about a minute.*

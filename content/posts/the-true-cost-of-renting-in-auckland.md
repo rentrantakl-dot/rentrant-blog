@@ -177,4 +177,4 @@ Rent is the biggest number, but it's not the only number. A "cheap" rental in th
 
 Before you commit to any Auckland rental, run your own numbers. Factor in the power, the transport, the commute time. Look at the whole picture.
 
-If you've rented in Auckland, your experience matters. [Share what you know on RentRant](https://rentrant.nz) — the running costs, the warmth (or lack of it), whether it was worth the money. We're building a resource by renters, for renters. Every rating helps the next person make a smarter choice.
+If you've rented in Auckland, your experience matters. [Share what you know on RentRant](https://rentrant.nz) — the running costs, the warmth (or lack of it), whether it was worth the money — free, sign in with Google, about a minute. We're building a resource by renters, for renters. Every rating helps the next person make a smarter choice.

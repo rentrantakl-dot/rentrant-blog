@@ -80,4 +80,4 @@ Fans installed before 1 July 2019 are grandfathered — but only if they still v
 
 ---
 
-Had ventilation problems at a flat? [Sign up to RentRant](https://rentrant.nz) and rate the property — your experience helps the next renter avoid the same damp winter.
+Had ventilation problems at a flat? [Sign up to RentRant](https://rentrant.nz) and rate the property — your experience helps the next renter avoid the same damp winter — free, sign in with Google, about a minute.

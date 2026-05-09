@@ -79,4 +79,4 @@ The [Tenancy Services website](https://www.tenancy.govt.nz/) has free informatio
 
 ---
 
-Had a landlord walk in unannounced? [Add your experience to RentRant](https://rentrant.nz/locations/search) — it helps other renters know what to expect before they sign.
+Had a landlord walk in unannounced? [Add your experience to RentRant](https://rentrant.nz/locations/search) — it helps other renters know what to expect before they sign — free, sign in with Google, about a minute.

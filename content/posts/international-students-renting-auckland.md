@@ -212,7 +212,7 @@ Auckland's rental system has its frustrations. But it also has real protections 
 
 If you've found a property you're considering, [search it on RentRant](https://rentrant.nz). The platform is early and not every address has data yet — but if it does, structured ratings on heating, maintenance responsiveness, and moisture are exactly the kind of information you can't get from a listing photo, and they matter more when you're deciding from overseas.
 
-If you're already renting in Auckland, [rate your property on RentRant](https://rentrant.nz). No free text, no named landlords — just structured ratings on the things that actually matter. Each rating makes the platform more useful for the next international student trying to make this exact decision from thousands of kilometres away. The platform only works if people who know contribute what they know.
+If you're already renting in Auckland, [rate your property on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. No open comments, no named landlords — just structured ratings on what actually matters. Each rating makes the platform more useful for the next international student trying to make this exact decision from thousands of kilometres away. The platform only works if people who know contribute what they know.
 
 For a step-by-step list to run through before you commit, [the international student pre-rental checklist](/blog/before-you-rent-auckland-international-student-checks) is a good companion to this guide.
 

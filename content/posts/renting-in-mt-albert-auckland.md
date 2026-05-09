@@ -173,4 +173,4 @@ It's not the flashiest suburb in Auckland. But it's the kind of place where you 
 
 ---
 
-*This is the first in a series of suburb-specific renting guides. If you've rented in Mt Albert, [rate the property on RentRant](https://rentrant.nz). Your experience helps the next person — whether that's the insulation, the landlord's responsiveness, or how cold the place really gets in winter. One honest rating at a time.*
+*This is the first in a series of suburb-specific renting guides. If you've rented in Mt Albert, [rate the property on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Your experience helps the next person — whether that's the insulation, the landlord's responsiveness, or how cold the place really gets in winter. One honest rating at a time.*

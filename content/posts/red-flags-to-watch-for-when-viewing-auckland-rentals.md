@@ -304,4 +304,4 @@ And if something feels off — if the place smells damp, if the landlord is evas
 
 ---
 
-*Moved out of a place in Auckland? [Rate it on RentRant](https://rentrant.nz/locations/search) — heating, insulation, dampness, landlord responsiveness. The more tenants add their experience, the more useful it gets for the next person doing exactly what you just did.*
+*Moved out of a place in Auckland? [Rate it on RentRant](https://rentrant.nz/locations/search) — heating, insulation, dampness, landlord responsiveness — free, sign in with Google, about a minute. The more tenants add their experience, the more useful it gets for the next person doing exactly what you just did.*

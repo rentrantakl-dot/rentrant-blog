@@ -184,7 +184,7 @@ The listing photos and the agent's pitch tell you what the landlord wants you to
 
 Before you commit, [search the address on RentRant](https://rentrant.nz/locations/search). Previous tenants rate properties on heating, dampness, maintenance responsiveness, and how the landlord behaves. Not every property has ratings yet — but if it does, that's data you can't get from any other source.
 
-If you're already flatting near AUT, [rate your place on RentRant](https://rentrant.nz). Every rating from someone who's actually lived there helps the next intake of AUT students avoid signing for a cold flat with an unresponsive landlord.
+If you're already flatting near AUT, [rate your place on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Every rating from someone who's actually lived there helps the next intake of AUT students avoid signing for a cold flat with an unresponsive landlord.
 
 ---
 

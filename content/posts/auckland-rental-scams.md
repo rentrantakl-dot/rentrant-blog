@@ -228,4 +228,4 @@ Take your time. Verify independently. And if a deal looks too good to be true in
 
 ---
 
-*Rented a place in Auckland? [Rate it on RentRant](https://rentrant.nz). The more real tenant experiences we collect, the harder it gets for scammers to hide behind fake listings.*
+*Rented a place in Auckland? [Rate it on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. The more real tenant experiences we collect, the harder it gets for scammers to hide behind fake listings.*

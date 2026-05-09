@@ -294,6 +294,6 @@ Renting is stressful, especially the first time. But it gets easier once you kno
 
 Before you sign anything, [search the property on RentRant](https://rentrant.nz). The platform is early and not every address has data yet — but if it does, you'll find structured ratings on heating, maintenance responsiveness, and moisture from previous tenants. That's information you can't get from a listing photo, and it matters most when you're making a decision quickly.
 
-Once you've been through your first rental — the good and the bad — [rate it on RentRant](https://rentrant.nz). No free text, no named landlords. Just structured ratings on the things that actually matter. What you know could save the next first-timer from signing into a flat that looked fine in photos.
+Once you've been through your first rental — the good and the bad — [rate it on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. No open comments, no named landlords — just structured ratings on what actually matters. What you know could save the next first-timer from signing into a flat that looked fine in photos.
 
 Good luck out there.

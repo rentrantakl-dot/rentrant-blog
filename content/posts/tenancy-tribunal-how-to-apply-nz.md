@@ -196,4 +196,4 @@ If your landlord hasn't acted after you've asked in writing, this is the next st
 
 ---
 
-*Dealt with a landlord who wouldn't fix things? [Sign up to RentRant](https://rentrant.nz) and rate the property — future tenants deserve to know how maintenance complaints were handled before they sign.*
+*Dealt with a landlord who wouldn't fix things? [Sign up to RentRant](https://rentrant.nz) and rate the property — future tenants deserve to know how maintenance complaints were handled before they sign — free, sign in with Google, about a minute.*

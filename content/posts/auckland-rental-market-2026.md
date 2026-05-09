@@ -127,7 +127,7 @@ That's it. You're not demanding anything. You're opening a conversation. The wor
 
 ### 4. Share What You Know
 
-If you've rented before, your experience is valuable to others making decisions right now. [Rate your rental on RentRant](https://rentrant.nz) — we're building a resource by renters, for renters. Every honest review helps someone else avoid a bad situation or find a good one.
+If you've rented before, your experience is valuable to others making decisions right now. [Rate your rental on RentRant](https://rentrant.nz) — we're building a resource by renters, for renters — free, sign in with Google, about a minute. Every honest review helps someone else avoid a bad situation or find a good one.
 
 ### 5. Consider Longer Commitments
 
@@ -157,7 +157,7 @@ Nobody has a crystal ball. But the combination of increased supply, subdued dema
 
 Use it. Negotiate where you can. Take your time. Ask more questions. Be a bit picky.
 
-And if you want to help other renters navigate this market, [share your experience on RentRant](https://rentrant.nz). We're early — still building a picture of Auckland's rentals, property by property. What you know about your landlord, your flat, your neighbourhood could be exactly what someone else needs to hear.
+And if you want to help other renters navigate this market, [share your experience on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. We're early — still building a picture of Auckland's rentals, property by property. What you know about your landlord, your flat, your neighbourhood could be exactly what someone else needs to hear.
 
 ---
 

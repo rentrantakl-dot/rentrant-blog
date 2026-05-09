@@ -77,4 +77,4 @@ A 2025 peer-reviewed study in the *International Journal of Housing Policy* surv
 
 ---
 
-Used RentRant to check a landlord before applying? [Rate your current landlord](https://rentrant.nz) so others can make a more informed call.
+Used RentRant to check a landlord before applying? [Rate your current landlord](https://rentrant.nz) so others can make a more informed call — free, sign in with Google, about a minute.

@@ -208,4 +208,4 @@ The EECA's [Warmer Kiwi Homes programme](https://www.eeca.govt.nz/our-work/progr
 
 ---
 
-*Renting somewhere with poor insulation? [Rate it on RentRant](https://rentrant.nz/locations/search) — insulation, heating, and dampness ratings help the next person check what they're walking into before they sign.*
+*Renting somewhere with poor insulation? [Rate it on RentRant](https://rentrant.nz/locations/search) — insulation, heating, and dampness ratings help the next person check what they're walking into before they sign — free, sign in with Google, about a minute.*

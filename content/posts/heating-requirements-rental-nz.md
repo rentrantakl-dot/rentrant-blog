@@ -217,4 +217,4 @@ Related guides: [Insulation requirements for NZ rentals](/posts/insulation-requi
 
 ---
 
-*Renting somewhere with inadequate heating? [Rate the property on RentRant](https://rentrant.nz/locations/search) — your experience with the heating helps the next tenant make an informed call before they sign.*
+*Renting somewhere with inadequate heating? [Rate the property on RentRant](https://rentrant.nz/locations/search) — your experience with the heating helps the next tenant make an informed call before they sign — free, sign in with Google, about a minute.*

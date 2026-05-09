@@ -134,4 +134,4 @@ Great landlords exist in Grey Lynn. There are property owners who maintain their
 
 ---
 
-*Part of the RentRant [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Grey Lynn, [add your experience on RentRant](https://rentrant.nz) — both positive and negative ratings help build a clearer picture of what the suburb is really like to rent in.*
+*Part of the RentRant [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Grey Lynn, [add your experience on RentRant](https://rentrant.nz) — both positive and negative ratings help build a clearer picture of what the suburb is really like to rent in — free, sign in with Google, about a minute.*

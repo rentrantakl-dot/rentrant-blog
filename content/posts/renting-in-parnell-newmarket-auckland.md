@@ -194,7 +194,7 @@ Parnell is expensive, character-rich, and convenient. Newmarket is slightly more
 
 The risks in this corridor are less about the suburbs themselves and more about who rents here: newcomers with time pressure who accept terms they don't fully understand, in a market that moves fast enough to punish the cautious. Information is the main protection. Know what landlords can't ask for, know what your bond rights are, and know that retaliatory termination protection exists even if no one's volunteered that fact to you.
 
-If you've rented in Parnell or Newmarket, [leave a review on RentRant](https://rentrant.nz). Your experience matters for the next person who moves here knowing no one.
+If you've rented in Parnell or Newmarket, [leave a review on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Your experience matters for the next person who moves here knowing no one.
 
 ---
 

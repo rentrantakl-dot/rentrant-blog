@@ -309,4 +309,4 @@ Living in a healthy home isn't a luxury. It's the legal minimum.
 
 ---
 
-*Had a mouldy flat? [Rate the insulation, ventilation, and dampness on RentRant](https://rentrant.nz/locations/search). The platform is early-stage, but every rating makes conditions more visible for the next person — and less deniable for the landlord.*
+*Had a mouldy flat? [Rate the insulation, ventilation, and dampness on RentRant](https://rentrant.nz/locations/search) — free, sign in with Google, about a minute. The platform is early-stage, but every rating makes conditions more visible for the next person — and less deniable for the landlord.*

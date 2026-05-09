@@ -189,4 +189,4 @@ It's a harder sell if your daily commute depends on fast, frequent rail access t
 
 ---
 
-*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Onehunga, [rate the property on RentRant](https://rentrant.nz) — your experience helps the next tenant choose wisely.*
+*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Onehunga, [rate the property on RentRant](https://rentrant.nz) — your experience helps the next tenant choose wisely — free, sign in with Google, about a minute.*

@@ -200,7 +200,7 @@ Most students rotate through 2–4 Auckland flats over their degree. The single 
 
 [Search the address on RentRant](https://rentrant.nz/locations/search) before you sign. Previous tenants leave structured ratings on heating, dampness, maintenance responsiveness, and how reasonable the landlord was. The platform is early — not every property has data yet — but if it does, that's information you can't get from a listing photo.
 
-If you're flatting in Auckland already, [rate your place on RentRant](https://rentrant.nz). Ratings from people who've actually lived there are how the next year's intake of students avoids signing for the cold flats and the no-show landlords.
+If you're flatting in Auckland already, [rate your place on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Ratings from people who've actually lived there are how the next year's intake of students avoids signing for the cold flats and the no-show landlords.
 
 ---
 

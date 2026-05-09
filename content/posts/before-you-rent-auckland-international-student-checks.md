@@ -160,7 +160,7 @@ Nine checks. Not every one will apply to every situation, but most of them take 
 
 For the full picture of how renting works in Auckland as an international student — from finding a flat to your rights once you're in — [the guide is here](/blog/international-students-renting-auckland). And once you've found somewhere and want to know what previous tenants experienced, [check it on RentRant](https://rentrant.nz).
 
-**Already living somewhere in Auckland?** [Rate your property on RentRant](https://rentrant.nz). It takes a few minutes and the data goes directly to helping the next international student who's trying to make this same decision from overseas.
+**Already living somewhere in Auckland?** [Rate your property on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. It takes a few minutes and the data goes directly to helping the next international student who's trying to make this same decision from overseas.
 
 ---
 

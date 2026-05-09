@@ -143,4 +143,4 @@ The ratings base for Ponsonby is still growing. If you've rented here — a good
 
 ---
 
-*Part of the RentRant [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Ponsonby or the surrounding area, [add your experience on RentRant](https://rentrant.nz) — it helps future tenants understand the suburb beyond what shows up in listings.*
+*Part of the RentRant [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Ponsonby or the surrounding area, [add your experience on RentRant](https://rentrant.nz) — it helps future tenants understand the suburb beyond what shows up in listings — free, sign in with Google, about a minute.*

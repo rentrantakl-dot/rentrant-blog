@@ -189,4 +189,4 @@ What matters is being informed. Knowing what your landlord can and can't do. Kee
 
 ---
 
-*If you've rented in NZ, your experience helps others. [Rate your rental on RentRant](https://rentrant.nz) — we're building a resource by renters, for renters. One honest review at a time.*
+*If you've rented in NZ, your experience helps others. [Rate your rental on RentRant](https://rentrant.nz) — we're building a resource by renters, for renters — free, sign in with Google, about a minute. One honest review at a time.*

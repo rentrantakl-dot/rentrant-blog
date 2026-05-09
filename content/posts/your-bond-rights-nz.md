@@ -275,4 +275,4 @@ Some landlords try to claim bond for things that aren't your responsibility. Her
 
 ---
 
-*Moving out? Once the bond's sorted, [rate the property on RentRant](https://rentrant.nz/locations/search). How responsive was the landlord? Did the insulation hold up? Your experience — even a quick rating — makes the picture clearer for whoever moves in next.*
+*Moving out? Once the bond's sorted, [rate the property on RentRant](https://rentrant.nz/locations/search) — free, sign in with Google, about a minute. How responsive was the landlord? Did the insulation hold up? Your experience — even a quick rating — makes the picture clearer for whoever moves in next.*

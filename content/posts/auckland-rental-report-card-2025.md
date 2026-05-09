@@ -236,4 +236,4 @@ That's the data we're building. One rating at a time.
 
 ---
 
-*If you've rented in Auckland, [rate your property on RentRant](https://rentrant.nz). Every rating adds to the picture — and the more data we have, the more useful these reports become. Not just for you, but for the next person trying to figure out whether that listing is worth signing for.*
+*If you've rented in Auckland, [rate your property on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Every rating adds to the picture — and the more data we have, the more useful these reports become. Not just for you, but for the next person trying to figure out whether that listing is worth signing for.*

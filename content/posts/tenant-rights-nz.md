@@ -236,4 +236,4 @@ A tenant who meets these obligations is in the strongest possible position if a 
 
 ---
 
-*Rented somewhere in NZ? [Rate the property on RentRant](https://rentrant.nz/locations/search) — heating, insulation, maintenance responsiveness. Every rating makes the platform more useful for the next tenant searching the same address.*
+*Rented somewhere in NZ? [Rate the property on RentRant](https://rentrant.nz/locations/search) — heating, insulation, maintenance responsiveness — free, sign in with Google, about a minute. Every rating makes the platform more useful for the next tenant searching the same address.*

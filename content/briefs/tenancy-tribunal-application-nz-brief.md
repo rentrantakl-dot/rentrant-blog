@@ -85,4 +85,4 @@ If you haven't put your complaint in writing yet, do that first — even a text 
 
 ---
 
-Had a landlord ignore a maintenance request, or a property manager who treated the bond as theirs? [Sign up to RentRant](https://rentrant.nz) and rate the property — future tenants deserve to know how disputes were handled before they sign.
+Had a landlord ignore a maintenance request, or a property manager who treated the bond as theirs? [Sign up to RentRant](https://rentrant.nz) and rate the property — future tenants deserve to know how disputes were handled before they sign — free, sign in with Google, about a minute.

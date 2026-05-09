@@ -192,4 +192,4 @@ Before you sign a tenancy agreement, make sure you've covered these:
 
 ---
 
-*Price is only part of the picture. If you've rented a property and can say whether the quality matched the rent, [add your experience on RentRant](https://rentrant.nz/locations/search) — it helps the next person make a more informed call.*
+*Price is only part of the picture. If you've rented a property and can say whether the quality matched the rent, [add your experience on RentRant](https://rentrant.nz/locations/search) — it helps the next person make a more informed call — free, sign in with Google, about a minute.*

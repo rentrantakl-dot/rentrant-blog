@@ -169,7 +169,7 @@ Sandringham is good value and genuinely liveable. The food, the community, and t
 
 The risks are specific: application discrimination that operates through seemingly neutral criteria, and displacement pressure from upzoning that may accelerate over the next few years. Neither of these is a reason not to rent in Sandringham — but both are reasons to go in with your eyes open, ask the right questions, and not sign a long fixed-term lease on a Sandringham Road property without knowing whether it sits in a development corridor.
 
-If you've rented in Sandringham before, [leave a review on RentRant](https://rentrant.nz). Your experience — good or bad — is genuinely useful to the next person trying to find a flat here.
+If you've rented in Sandringham before, [leave a review on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Your experience — good or bad — is genuinely useful to the next person trying to find a flat here.
 
 ---
 

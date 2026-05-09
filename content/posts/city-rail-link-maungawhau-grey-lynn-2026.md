@@ -134,4 +134,4 @@ RentRant is building a ratings base for Grey Lynn properties. Whether your renti
 
 ---
 
-*Part of the RentRant [Grey Lynn renting guide](/posts/renting-in-grey-lynn-auckland/) and [Auckland suburb series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Grey Lynn, [rate your property on RentRant](https://rentrant.nz) — one rating from someone who's actually been there is worth more than a dozen marketing descriptions.*
+*Part of the RentRant [Grey Lynn renting guide](/posts/renting-in-grey-lynn-auckland/) and [Auckland suburb series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Grey Lynn, [rate your property on RentRant](https://rentrant.nz) — one rating from someone who's actually been there is worth more than a dozen marketing descriptions — free, sign in with Google, about a minute.*

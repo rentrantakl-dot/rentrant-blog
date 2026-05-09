@@ -198,7 +198,7 @@ The 90-day no-cause notice was controversial when it came back in. Tenant advoca
 
 If you've been sitting on a legitimate complaint about your property because you were worried about a notice, this is worth knowing: the law has a retaliatory termination protection precisely because Parliament recognised that landlords might misuse the power. It's imperfect, and proving retaliation is hard. But it's there.
 
-If you've rented here and have a story — good or bad — [leave a review on RentRant](https://rentrant.nz). Future tenants need to know what landlords actually do when tenants raise issues.
+If you've rented here and have a story — good or bad — [leave a review on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Future tenants need to know what landlords actually do when tenants raise issues.
 
 ---
 

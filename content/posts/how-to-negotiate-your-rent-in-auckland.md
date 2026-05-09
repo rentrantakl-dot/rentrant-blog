@@ -208,4 +208,4 @@ Not every negotiation ends in a win. But you miss every one you don't take.
 
 ---
 
-*Had a good (or bad) negotiation experience? [Rate your rental on RentRant](https://rentrant.nz). We're building a picture of what Auckland renters actually pay — and your experience helps the next person negotiate with better information.*
+*Had a good (or bad) negotiation experience? [Rate your rental on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. We're building a picture of what Auckland renters actually pay — and your experience helps the next person negotiate with better information.*

@@ -201,4 +201,4 @@ It's a harder sell if you're on a tighter budget. At these rents, you're paying 
 
 ---
 
-*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Grey Lynn, [rate the property on RentRant](https://rentrant.nz) — your experience helps the next tenant know what to expect.*
+*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Grey Lynn, [rate the property on RentRant](https://rentrant.nz) — your experience helps the next tenant know what to expect — free, sign in with Google, about a minute.*

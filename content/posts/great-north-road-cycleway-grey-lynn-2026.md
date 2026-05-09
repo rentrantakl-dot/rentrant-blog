@@ -126,4 +126,4 @@ RentRant is building ratings for Grey Lynn properties. Whether your experience h
 
 ---
 
-*Part of the RentRant [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Grey Lynn — whether your flat backs onto Great North Road or sits up on a quieter side street — [rate it on RentRant](https://rentrant.nz). It takes a few minutes and helps renters who come after you.*
+*Part of the RentRant [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Grey Lynn — whether your flat backs onto Great North Road or sits up on a quieter side street — [rate it on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. It takes a few minutes and helps renters who come after you.*

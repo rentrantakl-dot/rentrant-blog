@@ -311,4 +311,4 @@ Use this for a quick self-assessment:
 
 ---
 
-*If your rental doesn't meet the standards — you have rights. And if you've moved on, [rate the property on RentRant](https://rentrant.nz/locations/search) — heating, insulation, ventilation, landlord responsiveness. The more tenants add theirs, the more useful the platform gets for everyone navigating Auckland's rental market.*
+*If your rental doesn't meet the standards — you have rights. And if you've moved on, [rate the property on RentRant](https://rentrant.nz/locations/search) — heating, insulation, ventilation, landlord responsiveness — free, sign in with Google, about a minute. The more tenants add theirs, the more useful the platform gets for everyone navigating Auckland's rental market.*

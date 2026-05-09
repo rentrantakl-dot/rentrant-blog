@@ -217,4 +217,4 @@ It's less suited to families, people who prioritise outdoor space, or anyone who
 
 ---
 
-*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Eden Terrace or Grafton, [rate the property on RentRant](https://rentrant.nz) — especially if it's an apartment building. Your experience could save someone from signing a 12-month lease into a building that's been a problem for years.*
+*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Eden Terrace or Grafton, [rate the property on RentRant](https://rentrant.nz) — especially if it's an apartment building — free, sign in with Google, about a minute. Your experience could save someone from signing a 12-month lease into a building that's been a problem for years.*

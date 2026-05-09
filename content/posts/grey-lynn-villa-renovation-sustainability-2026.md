@@ -155,4 +155,4 @@ RentRant is building a ratings base for Grey Lynn. If you've rented in a well-ma
 
 ---
 
-*Part of the RentRant [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented a Grey Lynn villa — warm or cold, upgraded or not — [add your rating on RentRant](https://rentrant.nz). Other renters will thank you for it.*
+*Part of the RentRant [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented a Grey Lynn villa — warm or cold, upgraded or not — [add your rating on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Other renters will thank you for it.*

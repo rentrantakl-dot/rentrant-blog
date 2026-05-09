@@ -208,4 +208,4 @@ It's a harder sell for anyone budget-constrained, anyone who needs more space, o
 
 ---
 
-*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Ponsonby or Herne Bay, [rate the property on RentRant](https://rentrant.nz). That's the only way to make the quality visible — one honest rating at a time.*
+*This guide is part of our [Auckland suburb renting series](/posts/best-suburbs-for-renters-in-auckland-2026/). If you've rented in Ponsonby or Herne Bay, [rate the property on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. That's the only way to make the quality visible — one honest rating at a time.*

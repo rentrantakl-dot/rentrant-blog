@@ -471,7 +471,7 @@ Landlords know most renters won't push back. They rely on that. Don't give them 
 
 The person showing you around might seem friendly and reasonable. Great. But when you move out and want your bond back, you'll be dealing with whoever is managing the property at that point. Protect yourself now with documentation, because verbal promises won't help you later.
 
-If you've rented before, [rate the property on RentRant](https://rentrant.nz). Future tenants deserve to know what you experienced. If you're about to rent, check if we have information on the address. It might save you from making a bad decision.
+If you've rented before, [rate the property on RentRant](https://rentrant.nz) — free, sign in with Google, about a minute. Future tenants deserve to know what you experienced. If you're about to rent, check if we have information on the address. It might save you from making a bad decision.
 
 ---
 
