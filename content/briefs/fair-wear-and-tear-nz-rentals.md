@@ -7,7 +7,7 @@ tags: ["bond", "tenant-rights", "guide"]
 author: "RentRant Team"
 topic: "tenant-rights"
 app_link: "https://rentrant.nz/locations/search"
-long_form: "your-bond-rights-nz"
+long_form: "fair-wear-and-tear-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
