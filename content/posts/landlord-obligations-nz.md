@@ -196,7 +196,7 @@ If your landlord is not meeting their legal obligations, the process is:
 
 **Step 2:** Give reasonable time. "Reasonable" depends on the urgency — a broken heater in July is more urgent than a loose door handle. The law doesn't specify fixed timeframes for repairs, but 14 days is a common benchmark for non-emergency issues.
 
-**Step 3:** If it's not addressed, apply to the Tenancy Tribunal. The $28 application triggers a free mediation process. If unresolved at mediation, the case goes to a hearing. The Tribunal can issue compliance orders, award rent reductions, and impose exemplary damages.
+**Step 3:** If it's not addressed, apply to the Tenancy Tribunal. The $29 application triggers a free mediation process. If unresolved at mediation, the case goes to a hearing. The Tribunal can issue compliance orders, award rent reductions, and impose exemplary damages.
 
 You don't need a lawyer. Community Law NZ and the Citizens Advice Bureau can help you prepare.
 

@@ -17,7 +17,7 @@ key_facts:
     - "Landlord notice periods: 90 days (no cause), 42 days (owner-use, sale with vacant possession, employment housing)"
     - "Tenant notice period to end periodic tenancy: 21 days"
     - "Retaliatory termination protection exists — a notice may be challenged at the Tenancy Tribunal if issued in response to a legitimate complaint"
-    - "Tenancy Tribunal exemplary damages: up to $7,200 (landlords with fewer than 6 properties), up to $50,000 (larger landlords)"
+    - "Exemplary damages for a retaliatory or unlawful termination notice: up to $6,500 under Schedule 1A of the Residential Tenancies Act 1986"
 
 faqs:
   - question: "Can my landlord give me a 90-day notice for no reason in NZ?"
@@ -124,7 +124,7 @@ The challenge is that proving a landlord's motivation is difficult. A landlord w
 If the Tribunal finds the notice was retaliatory, it can:
 - Cancel the termination notice
 - Award compensation to the tenant
-- Issue exemplary damages: up to $7,200 for landlords with fewer than 6 rental properties, and up to $50,000 for larger landlords
+- Issue exemplary damages: up to $6,500 for a retaliatory notice under [Schedule 1A](https://www.legislation.govt.nz/act/public/1986/0120/latest/DLM3285790.html) of the Residential Tenancies Act
 
 ---
 

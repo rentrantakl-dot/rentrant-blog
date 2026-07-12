@@ -26,7 +26,7 @@ faqs:
   - question: "What if my landlord won't sign the bond refund form in NZ?"
     answer: "Apply for the refund yourself through Tenancy Services at tenancy.govt.nz. They'll notify your landlord, who has 10 working days to object. If they don't respond, Tenancy Services can release the bond to you without their signature."
   - question: "What happens if my landlord disputes the bond refund in NZ?"
-    answer: "The dispute goes to mediation through Tenancy Services first, which is free. If that doesn't resolve it, either party can take it to the Tenancy Tribunal. The application fee is $28 and the Tribunal can order the bond split however the evidence supports."
+    answer: "The dispute goes to mediation through Tenancy Services first, which is free. If that doesn't resolve it, either party can take it to the Tenancy Tribunal. The application fee is $29 and the Tribunal can order the bond split however the evidence supports."
 ---
 
 Once both you and your landlord agree on how the bond should be split, [Tenancy Services](https://www.tenancy.govt.nz/rent-bond-and-bills/bond/refunding-a-bond/) aims to process the refund within **5–10 working days**. The money lands in your nominated bank account — your landlord never touches it.
@@ -67,7 +67,7 @@ This is the part most tenants don't realise. A silent landlord is not a stuck bo
 
 ## If There's a Genuine Dispute
 
-If your landlord objects and you can't agree, the process moves to mediation through Tenancy Services. Mediation is free and often resolves things in a phone call. If mediation fails, either party can apply to the [Tenancy Tribunal](https://www.justice.govt.nz/tribunals/tenancy-tribunal/) — the application fee is **$28** and you don't need a lawyer.
+If your landlord objects and you can't agree, the process moves to mediation through Tenancy Services. Mediation is free and often resolves things in a phone call. If mediation fails, either party can apply to the [Tenancy Tribunal](https://www.justice.govt.nz/tribunals/tenancy-tribunal/) — the application fee is **$29** and you don't need a lawyer.
 
 Tribunal cases take longer (typically two to four months for a hearing), but the Tribunal can order the bond paid out however the evidence supports. If your landlord can't prove damage beyond fair wear and tear, the bond comes back to you.
 

@@ -11,7 +11,7 @@ app_link: "https://rentrant.nz/locations/search"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-06-28"
+  last_verified: "2026-07-11"
   content_type: "guide"
   primary_law: "Residential Tenancies Act 1986"
   facts:
@@ -27,7 +27,7 @@ faqs:
   - question: "Can my NZ landlord charge me for repainting at the end of my tenancy?"
     answer: "Only if you've caused damage beyond normal wear — such as holes in walls, heavy staining, or excessive markings that require repainting well before the paint's expected lifespan is up. Light scuffs and minor fading from furniture or living are not chargeable. Paint in a rental has an expected lifespan — if it's been a long tenancy on already-aged paint, the landlord's ability to claim is significantly reduced."
   - question: "What happens if my landlord and I disagree about bond deductions?"
-    answer: "Either party can apply to the Tenancy Tribunal to determine how the bond is split. The Tribunal will look at the ingoing condition report, photos, inspection records, and evidence of the actual cost of any repair. Applying costs $20.44. The landlord has to prove damage occurred and that the cost is reasonable — the burden of proof sits with them."
+    answer: "Either party can apply to the Tenancy Tribunal to determine how the bond is split. The Tribunal will look at the ingoing condition report, photos, inspection records, and evidence of the actual cost of any repair. Applying costs $29. The landlord has to prove damage occurred and that the cost is reasonable — the burden of proof sits with them."
   - question: "What if the landlord didn't do an ingoing condition report?"
     answer: "A missing or inadequate ingoing condition report significantly weakens the landlord's claim for bond deductions. If they can't show the condition of the property at the start of the tenancy, they can't prove any deterioration occurred during it. Landlords are expected to provide an ingoing inspection report under the Residential Tenancies Act."
 ---
@@ -127,7 +127,7 @@ A landlord claiming $800 for carpet replacement needs to provide a quote or invo
 
 **3. Apply to the Tenancy Tribunal if you can't agree.**
 
-It costs $20.44 and you don't need a lawyer. The Tribunal hears bond disputes regularly — this is exactly what it's for. Bring your photos, the ingoing condition report, and any written communications with the landlord. The burden of proof is on the landlord to show the damage occurred and the cost is reasonable.
+It costs $29 and you don't need a lawyer. The Tribunal hears bond disputes regularly — this is exactly what it's for. Bring your photos, the ingoing condition report, and any written communications with the landlord. The burden of proof is on the landlord to show the damage occurred and the cost is reasonable.
 
 More on [how to apply to the Tribunal here](/posts/tenancy-tribunal-how-to-apply-nz/), and your [full bond rights here](/posts/your-bond-rights-nz/).
 

@@ -192,7 +192,7 @@ Run through this before you put your name on anything:
 
 If a landlord tries to enforce an unlawful clause — keeps your bond for carpet cleaning, charges a fee that's illegal, provides inadequate notice for entry — you have options.
 
-Start with a written complaint to the landlord, citing the specific provision of the Act that the clause violates. If that doesn't resolve it, [apply to the Tenancy Tribunal](/posts/tenancy-tribunal-how-to-apply-nz/) — the $28 filing fee covers claims on bond, unlawful fees, and breach of statutory obligations. The Tribunal can order repayment and, for deliberate breaches, exemplary damages.
+Start with a written complaint to the landlord, citing the specific provision of the Act that the clause violates. If that doesn't resolve it, [apply to the Tenancy Tribunal](/posts/tenancy-tribunal-how-to-apply-nz/) — the $29 filing fee covers claims on bond, unlawful fees, and breach of statutory obligations. The Tribunal can order repayment and, for deliberate breaches, exemplary damages.
 
 [Community Law NZ](https://communitylaw.org.nz/) will review your situation for free before you file if you want advice on the strength of your case.
 

@@ -7,16 +7,17 @@ tags: ["tenant-rights", "guide"]
 author: "RentRant Team"
 topic: "tenant-rights"
 app_link: "https://rentrant.nz/locations/search"
+long_form: "renting-with-pets-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-04-11"
+  last_verified: "2026-07-11"
   content_type: "brief"
   primary_law: "Residential Tenancies Amendment Act 2024"
   facts:
     - "Since 1 December 2025, NZ landlords can no longer include a blanket no-pets clause in tenancy agreements"
     - "Tenants must make a written pet request before bringing a pet into the property"
-    - "Landlords have 21 days to respond — if they don't, the request is automatically approved"
+    - "Landlords must respond in writing within 21 days — failing to respond is an unlawful act (exemplary damages up to $1,500), but the request is not automatically approved"
     - "Landlords can require a pet bond of up to 2 weeks' additional rent if a pet is approved"
 
 faqs:
@@ -43,7 +44,7 @@ Any tenancy agreement signed after 1 December 2025 that contains a blanket no-pe
 ## How the Process Works
 
 1. **You make a written pet request** before bringing the pet into the property. Include what kind of pet it is. Email is fine.
-2. **Your landlord has 21 days to respond.** If they don't respond within 21 days, the request is automatically approved.
+2. **Your landlord must respond in writing within 21 days.** If they don't, that silence is an unlawful act with exemplary damages of up to $1,500 — but the request is **not** automatically approved. Chase the response in writing, and apply to the Tenancy Tribunal if the silence continues. Don't move the pet in on the strength of no reply.
 3. **If they approve**, they can require a pet bond of up to **2 weeks' additional rent**. This is held by Tenancy Services and is refundable at the end of the tenancy if there is no pet-related damage.
 4. **If they refuse**, the refusal must be on reasonable grounds. If you disagree, you can apply to the Tenancy Tribunal.
 
@@ -59,7 +60,7 @@ The law does not give a closed list, but examples that are likely to be accepted
 - **Property genuinely unsuitable** for the animal — for example, no outdoor access for a dog, or a studio apartment for a large breed
 - **Documented evidence** the specific animal poses a risk to the property or other residents
 
-What is unlikely to hold up: a general preference not to have pets, a belief that pets cause damage, or a standard clause in the tenancy agreement from before December 2025.
+What is unlikely to hold up: a general preference not to have pets, or a belief that pets cause damage in general. A no-pets clause in an agreement from before December 2025 isn't automatically void — but it doesn't stop you making a written request, which the landlord must still consider on reasonable grounds.
 
 ---
 
@@ -68,6 +69,8 @@ What is unlikely to hold up: a general preference not to have pets, a belief tha
 Ask the landlord to give their reasons in writing. If the reasons don't stack up as "reasonable grounds," apply to the [Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/). The Tribunal will decide whether the refusal was lawful.
 
 This law is new — Tribunal precedent is still developing. The first cases will set the bar for what counts as reasonable. If you're an early test case, [Community Law NZ](https://communitylaw.org.nz/) can help you understand your position before you file.
+
+For the full rules — grandfathered pets, pet bond mechanics, damage liability, and the request template — see our guide to [renting with pets in NZ](/posts/renting-with-pets-nz/).
 
 ---
 

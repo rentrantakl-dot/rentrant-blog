@@ -64,7 +64,7 @@ If your flat doesn't have its own meter — shared meter across a block of units
 
 Ask for a copy of the original Watercare bill in writing. You're entitled to see what you're being charged against. Add up the variable usage line — that's the maximum you can be asked to pay.
 
-If the landlord is on-charging fixed or wastewater portions, send a written request for a refund of the overcharged amount. If that goes nowhere, you can [apply to the Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/) — the application fee is $28, and overcharged utilities is one of the more straightforward cases the Tribunal hears.
+If the landlord is on-charging fixed or wastewater portions, send a written request for a refund of the overcharged amount. If that goes nowhere, you can [apply to the Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/) — the application fee is $29, and overcharged utilities is one of the more straightforward cases the Tribunal hears.
 
 > **Key point:** "The whole bill comes to me and I pass it on" is not a legal basis for charging fixed and wastewater portions. The Act puts those costs on the landlord regardless of who receives the bill.
 

@@ -16,7 +16,7 @@ faqs:
   - question: "What's the typical bond and rent in advance for an Auckland student flat?"
     answer: "Bond is capped at 4 weeks' rent under the Residential Tenancies Act 1986, and rent in advance at 2 weeks. For a $310/week room that's $1,240 bond + $620 rent in advance = $1,860 upfront. Application fees and admin fees are illegal — you should not pay anything else."
   - question: "How do I get my bond back at the end of an Auckland student flat?"
-    answer: "Leave the property reasonably clean and tidy, document its condition with photos before handing back keys, and lodge a bond refund form with Tenancy Services signed by all tenants and the landlord. Disputes over bond go to the Tenancy Tribunal — it costs $28 and you can do it without a lawyer."
+    answer: "Leave the property reasonably clean and tidy, document its condition with photos before handing back keys, and lodge a bond refund form with Tenancy Services signed by all tenants and the landlord. Disputes over bond go to the Tenancy Tribunal — it costs $29 and you can do it without a lawyer."
 
 key_facts:
   jurisdiction: "New Zealand"
@@ -29,7 +29,7 @@ key_facts:
     - "Application fees, credit-check fees, and admin fees charged to tenants are illegal"
     - "Healthy Homes Standards have been fully in force since 1 July 2025 — every NZ rental must meet minimum heating, insulation, ventilation, moisture, and draught requirements"
     - "Periodic tenancy notice from tenant: 21 days; from landlord: 90 days no-cause (since 30 January 2025)"
-    - "Tenancy Tribunal application fee: $28 (since 1 July 2025) — refundable if you win"
+    - "Tenancy Tribunal application fee: $29 (since 1 July 2026) — refundable if you win"
 
 image: "images/student-flat-guide-auckland.png"
 image_alt: "Three flatmates in an Auckland villa kitchen, one cooking dinner, the others at the table with laptops"
@@ -173,7 +173,7 @@ A few things to know that the agreement won't tell you in plain English:
 
 **Ending the tenancy.** On periodic, you give 21 days' written notice. The landlord can give 90 days' no-cause notice (since 30 January 2025). On fixed-term, neither party can end early without specific grounds — but if both parties agree in writing, you can break a fixed-term lease.
 
-**The Tenancy Tribunal.** $28 to apply, no lawyer needed, most cases resolve at free mediation. If the landlord won't fix something, won't return your bond, or breaches the lease, this is the mechanism. See [how to apply to the Tenancy Tribunal](/posts/tenancy-tribunal-how-to-apply-nz/) for the step-by-step.
+**The Tenancy Tribunal.** $29 to apply, no lawyer needed, most cases resolve at free mediation. If the landlord won't fix something, won't return your bond, or breaches the lease, this is the mechanism. See [how to apply to the Tenancy Tribunal](/posts/tenancy-tribunal-how-to-apply-nz/) for the step-by-step.
 
 For the full picture of your rights, [our tenant rights guide](/posts/tenant-rights-nz/) covers it.
 

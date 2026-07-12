@@ -63,7 +63,7 @@ Fans installed before 1 July 2019 are grandfathered — but only if they still v
 ## What to Do If Yours Doesn't Comply
 
 1. Put it in writing — email your landlord citing the [Healthy Homes ventilation standard](https://www.tenancy.govt.nz/healthy-homes/ventilation-standard/) (fully in effect since 1 July 2025)
-2. If they don't act, [apply to the Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/) ($28 to file)
+2. If they don't act, [apply to the Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/) ($29 to file)
 3. The Tribunal can order installation, reduce your rent for the non-compliant period, and award [exemplary damages](https://www.tenancy.govt.nz/about-tenancy-services/tenancy-tribunal/) of up to $7,200 (smaller landlords) or $50,000 (six or more properties)
 
 ---

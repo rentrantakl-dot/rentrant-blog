@@ -2,7 +2,7 @@
 title: "How Much Does It Cost to Apply to the Tenancy Tribunal in NZ?"
 date: 2026-05-09T10:15:00+12:00
 draft: false
-description: "$28 to apply. Mediation first (2–6 weeks), hearing if needed (2–4 months). You can claim a rent reduction, a compliance order, and exemplary damages."
+description: "$29 to apply. Mediation first (2–6 weeks), hearing if needed (2–4 months). You can claim a rent reduction, a compliance order, and exemplary damages."
 tags: ["tenant-rights", "tenancy-tribunal", "brief"]
 author: "RentRant Team"
 topic: "tenant-rights"
@@ -11,25 +11,25 @@ long_form: "tenancy-tribunal-how-to-apply-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-05-09"
+  last_verified: "2026-07-11"
   content_type: "brief"
   primary_law: "Residential Tenancies Act 1986"
   facts:
-    - "Tenancy Tribunal application fee is $28 (effective 1 July 2025) — claim it back if you win"
+    - "Tenancy Tribunal application fee is $29 (effective 1 July 2026) — claim it back if you win"
     - "Most cases go to free mediation first, usually within 2–6 weeks of applying"
-    - "Exemplary damages: up to $7,200 (landlords with fewer than 6 properties), up to $50,000 (6+ properties)"
+    - "Exemplary damages are capped per breach by Schedule 1A of the Act — e.g. $1,500 for unlawful entry, $3,000 for harassment, up to $7,200 for the most serious breaches"
     - "No lawyer required — most tenants represent themselves; Community Law NZ can help for free"
 
 faqs:
   - question: "How much does it cost to apply to the Tenancy Tribunal in NZ?"
-    answer: "The application fee is $28 (since 1 July 2025). If you win your case, you can ask the Tribunal to order the other party to reimburse the fee."
+    answer: "The application fee is $29 (since 1 July 2026). If you win your case, you can ask the Tribunal to order the other party to reimburse the fee."
   - question: "How long does the Tenancy Tribunal process take in NZ?"
     answer: "Mediation usually happens within 2–6 weeks of filing — many cases resolve at this stage. If a hearing is needed, it typically takes 2–4 months from application, depending on the Tribunal's workload."
   - question: "What can I claim at the Tenancy Tribunal in NZ?"
-    answer: "A compliance order requiring the landlord to fix the issue, a rent reduction for the period of non-compliance (commonly 10–30%), exemplary damages of up to $7,200 (smaller landlords) or $50,000 (six or more properties), and compensation for quantifiable losses. If successful, you can also claim back the $28 application fee."
+    answer: "A compliance order requiring the landlord to fix the issue, a rent reduction for the period of non-compliance (commonly 10–30%), exemplary damages capped per breach by Schedule 1A of the Residential Tenancies Act — for example $1,500 for unlawful entry, up to $7,200 for the most serious breaches such as healthy homes failures — and compensation for quantifiable losses. If successful, you can also claim back the $29 application fee."
 ---
 
-In New Zealand, applying to the [Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/tenancy-tribunal/) costs **$28**. You don't need a lawyer. Most cases go to free mediation first — and many resolve there. This is the route the [Residential Tenancies Act 1986](https://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html) sets out for exactly the situation you're in: the emails have stopped working and the problem hasn't.
+In New Zealand, applying to the [Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/tenancy-tribunal/) costs **$29**. You don't need a lawyer. Most cases go to free mediation first — and many resolve there. This is the route the [Residential Tenancies Act 1986](https://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html) sets out for exactly the situation you're in: the emails have stopped working and the problem hasn't.
 
 ---
 
@@ -48,7 +48,7 @@ If you haven't put your complaint in writing yet, do that first — even a text 
 
 ## How It Works
 
-1. **Apply online** at [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/) — fill in the form, pay $28
+1. **Apply online** at [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/) — fill in the form, pay $29
 2. **Mediation** — a free Tenancy Services mediator contacts both parties; usually within 2–6 weeks
 3. **Hearing** — if mediation doesn't resolve it, an adjudicator decides; typically 2–4 months from filing
 4. **Decision** — issued in writing, enforceable like a court order
@@ -61,9 +61,9 @@ If you haven't put your complaint in writing yet, do that first — even a text 
 |---|---|
 | Compliance order | Landlord must fix the problem by a set date |
 | Rent reduction | For the period the property was non-compliant — commonly 10–30% |
-| Exemplary damages | Up to **$7,200** (landlords with <6 properties); up to **$50,000** (6+ properties) |
+| Exemplary damages | Capped per breach by [Schedule 1A](https://www.legislation.govt.nz/act/public/1986/0120/latest/DLM3285790.html) — e.g. $1,500 unlawful entry, $3,000 harassment, up to **$7,200** for the most serious breaches |
 | Compensation | For quantifiable losses (e.g. damaged belongings) |
-| Application fee | $28 reimbursed if you win |
+| Application fee | $29 reimbursed if you win |
 
 ---
 

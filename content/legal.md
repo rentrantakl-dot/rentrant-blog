@@ -2,7 +2,7 @@
 title: "Blog Disclaimer & Legal"
 effective: "8 March 2026"
 type: page
-_build:
+build:
   list: never
   render: always
 sitemap:

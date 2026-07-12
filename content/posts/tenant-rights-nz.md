@@ -171,7 +171,7 @@ Related guide: [Your bond rights in NZ](/posts/your-bond-rights-nz/)
 
 ## What the Tenancy Tribunal can do for you
 
-The Tenancy Tribunal is a specialist tribunal that handles residential tenancy disputes in New Zealand. It's relatively accessible — the fee to apply is currently $20.44, and the process is designed to be used without a lawyer.
+The Tenancy Tribunal is a specialist tribunal that handles residential tenancy disputes in New Zealand. It's relatively accessible — the fee to apply is currently $29, and the process is designed to be used without a lawyer.
 
 The Tribunal can:
 - Order landlords to fix compliance issues (including Healthy Homes)

@@ -71,7 +71,7 @@ If the new rent is substantially above market rent for comparable properties nea
 
 Use the [Tenancy Services market rent tool](https://www.tenancy.govt.nz/rent-bond-and-bills/market-rent/) to check the going rate for similar properties in your suburb. The tool draws on actual bond lodgement data — it's the same source the Tribunal looks at.
 
-The application fee is $28. If your landlord has breached the notice rules (wrong format, less than 60 days, or within 12 months of the last increase), the increase can be set aside without needing the market-rent argument at all.
+The application fee is $29. If your landlord has breached the notice rules (wrong format, less than 60 days, or within 12 months of the last increase), the increase can be set aside without needing the market-rent argument at all.
 
 ---
 

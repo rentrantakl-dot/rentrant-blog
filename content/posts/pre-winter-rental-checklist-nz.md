@@ -170,7 +170,7 @@ Keep the tone matter-of-fact. This isn't a complaint, it's a record.
 
 ## If your landlord doesn't act
 
-A documented written request that goes unaddressed is the basis for a Tenancy Tribunal application. You don't need a lawyer. The application fee is $28. Most cases go to free mediation first, usually within 2–6 weeks.
+A documented written request that goes unaddressed is the basis for a Tenancy Tribunal application. You don't need a lawyer. The application fee is $29. Most cases go to free mediation first, usually within 2–6 weeks.
 
 The Tribunal has awarded tenants compliance orders, rent reductions for the period of non-compliance, and exemplary damages for Healthy Homes breaches.
 

@@ -55,7 +55,7 @@ Tenancy Services has a [heating assessment tool](https://www.tenancy.govt.nz/hea
 1. **Put it in writing.** Email or text your landlord or property manager. State the issue, reference the Healthy Homes heating standard if it's a compliance problem, and ask for a date by which it'll be fixed. Keep the message — screenshots if it's a text.
 2. **Wait a reasonable time.** For something heating-related in autumn or winter, "reasonable" is days, not weeks. If you've heard nothing after a week or two, follow up in writing.
 3. **Issue a 14-day notice to remedy.** This is a formal written notice (you can use the [Tenancy Services template](https://www.tenancy.govt.nz/disputes/14-day-notice/)) telling the landlord they're in breach and have 14 days to fix it.
-4. **Apply to the Tenancy Tribunal.** $28 application fee. You can claim a compliance order, a rent reduction for the period of non-compliance, and exemplary damages — up to **$7,200** for landlords with fewer than six properties, or **$50,000** for larger landlords.
+4. **Apply to the Tenancy Tribunal.** $29 application fee. You can claim a compliance order, a rent reduction for the period of non-compliance, and exemplary damages — up to **$7,200** for landlords with fewer than six properties, or **$50,000** for larger landlords.
 
 ---
 

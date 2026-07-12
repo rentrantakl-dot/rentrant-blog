@@ -146,7 +146,7 @@ Contact your landlord or property manager by email.
 ### If they don't act
 
 1. **Tenancy Services mediation** — free, call 0800 836 262 or apply online at [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
-2. **Tenancy Tribunal** — escalate via the same Tenancy Services portal ($28 to file). Read more in our guide: [How to apply to the Tenancy Tribunal in NZ](/posts/tenancy-tribunal-how-to-apply-nz/)
+2. **Tenancy Tribunal** — escalate via the same Tenancy Services portal ($29 to file). Read more in our guide: [How to apply to the Tenancy Tribunal in NZ](/posts/tenancy-tribunal-how-to-apply-nz/)
 
 ### What the Tribunal can award
 

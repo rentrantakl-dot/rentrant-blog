@@ -104,7 +104,7 @@ Contact Tenancy Services at [tenancy.govt.nz/contact](https://www.tenancy.govt.n
 
 **2. Apply to the Tenancy Tribunal**
 
-If mediation isn't suitable or the property manager is simply not engaging, the Tenancy Tribunal is the formal route. It costs $20.44 to apply and you don't need a lawyer. [The full application process is here.](/posts/tenancy-tribunal-how-to-apply-nz/)
+If mediation isn't suitable or the property manager is simply not engaging, the Tenancy Tribunal is the formal route. It costs $29 to apply and you don't need a lawyer. [The full application process is here.](/posts/tenancy-tribunal-how-to-apply-nz/)
 
 When applying about a maintenance failure, bring:
 - A written timeline of when the issue started, when you reported it, and what happened after

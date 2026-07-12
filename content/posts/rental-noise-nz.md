@@ -129,7 +129,7 @@ What the Tribunal can order:
 - A rent reduction for the period affected
 - Exemplary damages if the landlord's failure to act was particularly serious — up to $7,200 for landlords with fewer than 6 rental properties, up to $50,000 for larger landlords
 
-Applying to the Tribunal costs $20.44 (as of 2026). [The full application process is explained here](/posts/tenancy-tribunal-how-to-apply-nz/).
+Applying to the Tribunal costs $29 (as of 2026). [The full application process is explained here](/posts/tenancy-tribunal-how-to-apply-nz/).
 
 Before applying, [Tenancy Services](https://www.tenancy.govt.nz/) offers free mediation — a faster and less formal process that resolves many disputes without going to a full hearing. It's worth trying if the landlord has shown some willingness to engage.
 

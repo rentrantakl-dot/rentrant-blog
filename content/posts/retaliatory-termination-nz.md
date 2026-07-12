@@ -90,7 +90,7 @@ This is not a soft deadline. After 28 working days, you can still raise retaliat
 
 **Step 3:** Include your evidence: screenshots of the complaint, the notice itself, photos of the issue you complained about.
 
-The application fee is [$28](https://www.justice.govt.nz/tribunals/tenancy-tribunal/apply/). If your application succeeds, you can ask the Tribunal to order the landlord to reimburse it.
+The application fee is [$29](https://www.justice.govt.nz/tribunals/tenancy-tribunal/apply/). If your application succeeds, you can ask the Tribunal to order the landlord to reimburse it.
 
 ---
 
@@ -102,9 +102,9 @@ If the Tribunal finds the notice was retaliatory:
 |---|---|
 | Notice declared of no effect | Your tenancy continues — the notice is cancelled as if it was never given |
 | Exemplary damages | Issuing a retaliatory notice is an unlawful act; the Tribunal can award damages against the landlord |
-| Application fee reimbursement | If your application succeeds, ask the Tribunal to order the $28 fee paid back |
+| Application fee reimbursement | If your application succeeds, ask the Tribunal to order the $29 fee paid back |
 
-**Exemplary damages** for an unlawful act are capped under [Schedule 1 of the RTA 1986](https://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html) at **$7,200** for landlords with fewer than six properties and **$50,000** for larger landlords. Exemplary damages for a retaliatory notice are not automatic — the Tribunal looks at how flagrant the conduct was. A notice issued the day after a legitimate complaint with no other explanation is more likely to attract them than a marginal case where timing is ambiguous.
+**Exemplary damages** for a retaliatory notice are capped under [Schedule 1A of the RTA 1986](https://www.legislation.govt.nz/act/public/1986/0120/latest/DLM3285790.html) at **$6,500**. (For landlords with 6 or more tenancies, MBIE — not the tenant — can additionally seek a pecuniary penalty of up to $50,000 for an intentional retaliatory notice.) Exemplary damages are not automatic — the Tribunal looks at how flagrant the conduct was. A notice issued the day after a legitimate complaint with no other explanation is more likely to attract them than a marginal case where timing is ambiguous.
 
 The notice being declared of no effect is the most significant outcome. Your tenancy does not end, and your landlord cannot simply reissue the same notice — they'd need a fresh reason. They can issue another 90-day notice in the future, but the documented pattern of retaliation will be on record if they do.
 

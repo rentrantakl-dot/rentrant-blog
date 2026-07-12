@@ -7,17 +7,18 @@ tags: ["tenant-rights", "guide"]
 author: "RentRant Team"
 topic: "tenant-rights"
 app_link: "https://rentrant.nz/locations/search"
+long_form: "rental-inspections-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-05-17"
+  last_verified: "2026-07-11"
   content_type: "brief"
   primary_law: "Residential Tenancies Act 1986"
   facts:
     - "Routine inspections require at least 48 hours and no more than 14 days written notice — section 48 of the Residential Tenancies Act 1986"
     - "Inspections cannot happen more often than once every 4 weeks"
     - "Entry must be between 8am and 7pm, and the notice must state the date, time, and reason"
-    - "Different notice periods apply for repairs (24 hours) and for showing the property to prospective tenants or buyers (48 hours, with limits on frequency)"
+    - "Different rules apply for repairs (24 hours written notice) and for showing the property to prospective tenants or buyers — viewings need the tenant's prior consent, not a notice period"
 
 faqs:
   - question: "How much notice does a landlord have to give for a routine inspection in NZ?"
@@ -25,7 +26,7 @@ faqs:
   - question: "How often can a landlord inspect a rental in NZ?"
     answer: "No more than once every 4 weeks. There's no minimum frequency — many tenancies have inspections every 3 to 6 months — but the legal cap is one routine inspection per 4-week period."
   - question: "What if a landlord turns up for an inspection without proper notice in NZ?"
-    answer: "You're not legally required to let them in. Entry without proper notice is an unlawful act under the Residential Tenancies Act 1986. Repeated unauthorised entry can lead to a Tenancy Tribunal application — the Tribunal can order exemplary damages of up to $7,200 (smaller landlords) or $50,000 (larger landlords)."
+    answer: "You're not legally required to let them in. Entry without proper notice is an unlawful act under the Residential Tenancies Act 1986. Repeated unauthorised entry can lead to a Tenancy Tribunal application — the Tribunal can order exemplary damages of up to $1,500 under Schedule 1A of the Act."
 ---
 
 For a routine inspection in New Zealand, your landlord must give **at least 48 hours and no more than 14 days written notice** — and they can't inspect more than once every four weeks. This is set by section 48 of the [Residential Tenancies Act 1986](https://www.legislation.govt.nz/act/public/1986/0120/latest/whole.html).
@@ -49,7 +50,7 @@ A vague "we'll be by sometime next week" is not proper notice. Neither is a verb
 | What | Frequency limit |
 |---|---|
 | Routine inspections | No more than once every 4 weeks |
-| Showing the property (sale or re-letting) | No more than twice a week, up to 1 hour each |
+| Showing the property (sale or re-letting) | By agreement — needs your prior consent; you can set reasonable conditions on times and frequency |
 | Repairs and maintenance | As needed — 24 hours notice |
 | Emergency entry (fire, flood, burst pipe) | Immediate, no notice required |
 
@@ -63,10 +64,10 @@ The notice rules vary depending on why the landlord wants in:
 
 - **Routine inspection:** 48 hours to 14 days written notice
 - **Repairs and maintenance:** at least **24 hours** written notice (this is the entry rule, not the inspection rule)
-- **Showing the property** to prospective tenants or buyers: 48 hours written notice, no more than twice a week, up to one hour per visit
+- **Showing the property** to prospective tenants or buyers: no notice period — this one runs on your **prior consent** (section 48(3)). You can't unreasonably refuse, but you can set reasonable conditions like viewing times and frequency
 - **Emergency:** immediate entry, no notice required — and the emergency has to be genuine (fire, flood, burst pipe, not "I wanted to check the smoke alarm")
 
-For more on landlord entry rights generally, see [Can a Landlord Enter Without Notice in NZ?](/briefs/can-landlord-enter-without-notice-nz/).
+For more on landlord entry rights generally, see [Can a Landlord Enter Without Notice in NZ?](/briefs/can-landlord-enter-without-notice-nz/) — or the full picture, including viewings, photos, and remedies, in our guide to [rental inspections and entry rights](/posts/rental-inspections-nz/).
 
 ---
 
@@ -81,7 +82,7 @@ You're not legally required to let your landlord in for an inspection that doesn
 > Cheers,
 > [Your name]
 
-If unauthorised entry keeps happening, [Tenancy Services](https://www.tenancy.govt.nz/) has a free advice line on 0800 836 262, and you can apply to the [Tenancy Tribunal](https://www.justice.govt.nz/tribunals/tenancy-tribunal/) for $28. Repeated unlawful entry can attract exemplary damages of up to $7,200 (landlords with fewer than 6 properties) or $50,000 (6 or more properties).
+If unauthorised entry keeps happening, [Tenancy Services](https://www.tenancy.govt.nz/) has a free advice line on 0800 836 262, and you can apply to the [Tenancy Tribunal](https://www.justice.govt.nz/tribunals/tenancy-tribunal/) for $29. Unlawful entry is an unlawful act with exemplary damages of up to $1,500 under [Schedule 1A](https://www.legislation.govt.nz/act/public/1986/0120/latest/DLM3285790.html) of the Act.
 
 > **Key point:** An inspection notice is not a request for permission — it's notification. But the notice has to be valid first. An invalid notice doesn't bind you to be home, tidy, or accommodating.
 

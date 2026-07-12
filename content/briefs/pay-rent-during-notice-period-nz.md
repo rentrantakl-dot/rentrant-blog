@@ -7,7 +7,7 @@ tags: ["tenant-rights", "rent", "guide"]
 author: "RentRant Team"
 topic: "tenant-rights"
 app_link: "https://rentrant.nz/locations/search"
-long_form: ""
+long_form: "giving-notice-moving-out-nz"
 
 key_facts:
   jurisdiction: "New Zealand"

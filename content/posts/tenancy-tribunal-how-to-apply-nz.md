@@ -2,7 +2,7 @@
 title: "How to Apply to the Tenancy Tribunal in NZ"
 date: 2026-05-09T10:00:00+12:00
 draft: false
-description: "How to apply to NZ's Tenancy Tribunal: what it costs ($28), what evidence to bring, what happens at mediation, and what you can realistically win."
+description: "How to apply to NZ's Tenancy Tribunal: what it costs ($29), what evidence to bring, what happens at mediation, and what you can realistically win."
 tags: ["tenant-rights", "tenancy-tribunal", "guide", "auckland"]
 author: "RentRant Team"
 topic: "tenant-rights"
@@ -10,31 +10,31 @@ brief: "tenancy-tribunal-application-nz-brief"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-05-09"
+  last_verified: "2026-07-11"
   content_type: "guide"
   primary_law: "Residential Tenancies Act 1986"
   facts:
-    - "Tenancy Tribunal application fee: $28 (effective 1 July 2025) — can be claimed back if successful"
+    - "Tenancy Tribunal application fee: $29 (effective 1 July 2026) — can be claimed back if successful"
     - "Most cases go to free mediation first, usually within 2–6 weeks of applying"
     - "Tenants and landlords can both apply — no lawyer required, most tenants represent themselves"
-    - "Exemplary damages: up to $7,200 for landlords with fewer than 6 properties; up to $50,000 for larger landlords (6+ properties)"
+    - "Exemplary damages are capped per breach by Schedule 1A of the Act — e.g. $1,500 for unlawful entry, $3,000 for harassment, $6,500 for unlawful termination, up to $7,200 for the most serious breaches such as healthy homes failures"
     - "Retaliatory termination protection: a landlord who issues a termination notice within 90 days of a tenant's complaint can be challenged at the Tribunal"
     - "Community Law NZ and Citizens Advice Bureau can help you prepare your application for free"
 
 faqs:
   - question: "How much does it cost to apply to the Tenancy Tribunal in NZ?"
-    answer: "The application fee is $28 (increased from $27 on 1 July 2025). If your claim is successful, you can ask the Tribunal to order the other party to reimburse this fee."
+    answer: "The application fee is $29 (increased from $28 on 1 July 2026). If your claim is successful, you can ask the Tribunal to order the other party to reimburse this fee."
   - question: "Do I need a lawyer for the Tenancy Tribunal in NZ?"
     answer: "No. Most tenants represent themselves. The process is designed to be accessible without legal representation. Community Law NZ and Citizens Advice Bureau can help you prepare for free if you want support."
   - question: "What can the Tenancy Tribunal award a tenant in NZ?"
-    answer: "The Tribunal can order: a compliance order requiring the landlord to fix a problem; a rent reduction for the period of non-compliance; exemplary damages of up to $7,200 (landlords with fewer than 6 properties) or $50,000 (landlords with 6+ properties); and compensation for quantifiable losses."
+    answer: "The Tribunal can order: a compliance order requiring the landlord to fix a problem; a rent reduction for the period of non-compliance; exemplary damages capped per breach by Schedule 1A of the Residential Tenancies Act — for example $1,500 for unlawful entry, $3,000 for harassment, up to $7,200 for the most serious breaches such as healthy homes failures; and compensation for quantifiable losses. Separately, MBIE (not the tenant) can seek a pecuniary penalty of up to $50,000 against landlords with 6 or more tenancies for intentional serious breaches."
   - question: "Can my landlord evict me for applying to the Tenancy Tribunal?"
     answer: "A landlord cannot lawfully issue a termination notice in retaliation for a Tribunal complaint. If a landlord issues notice within 90 days of a tenant raising a complaint or applying to the Tribunal, the tenant can challenge the termination at the Tribunal as retaliatory. Document the timeline carefully."
 ---
 
 You've written the emails. You've given them weeks. The mould is still there, the heating is still undersized, or the bond still hasn't come back. At some point "we'll look into it" stops being a response and starts being a stall.
 
-The [Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/tenancy-tribunal/) exists for exactly this situation. It's not complicated, it doesn't require a lawyer, and it costs $28. Here's how it works and how to use it.
+The [Tenancy Tribunal](https://www.tenancy.govt.nz/disputes/tenancy-tribunal/) exists for exactly this situation. It's not complicated, it doesn't require a lawyer, and it costs $29. Here's how it works and how to use it.
 
 ---
 
@@ -79,7 +79,7 @@ Before filing, gather:
 
 1. Go to [tenancy.govt.nz/disputes](https://www.tenancy.govt.nz/disputes/)
 2. Fill in the online form: your details, the landlord's details, what you're claiming, and a brief factual narrative of what happened
-3. Pay the $28 fee online by credit or debit card
+3. Pay the $29 fee online by credit or debit card
 4. You'll receive a confirmation email and a case reference number
 
 **In person:**
@@ -128,9 +128,9 @@ The adjudicator issues a written decision, usually within a few weeks of the hea
 |---|---|
 | Compliance order | Landlord must fix the problem by a specified date |
 | Rent reduction | For the period the property was non-compliant — commonly 10–30% of weekly rent |
-| Exemplary damages | Up to $7,200 (landlords with <6 properties); up to $50,000 (6+ properties) |
+| Exemplary damages | Capped per breach by [Schedule 1A](https://www.legislation.govt.nz/act/public/1986/0120/latest/DLM3285790.html) — e.g. $1,500 unlawful entry, $3,000 harassment, $6,500 unlawful termination, $7,200 healthy homes/maintenance failures |
 | Compensation | For quantifiable losses — e.g. damaged belongings from a leak |
-| Application fee | If successful, you can ask the Tribunal to order reimbursement of the $28 |
+| Application fee | If successful, you can ask the Tribunal to order reimbursement of the $29 |
 
 **Realistic expectations:** Straightforward cases — a clear Healthy Homes breach, documented — often settle at mediation with a compliance order plus some rent reduction. Exemplary damages at the higher end are reserved for the worst situations: systematic non-compliance, deliberate evasion, repeat breaches across multiple tenants.
 
@@ -175,7 +175,7 @@ If your dispute is about whether a fixed-term tenancy was ended lawfully, get ad
 
 ---
 
-The Tribunal isn't a last resort. It's the mechanism. It's what exists precisely for the situations renters find themselves in: a landlord who knows the rules and chooses not to follow them, or one who's been ignoring written requests since autumn. A $28 application and a folder of screenshots have changed thousands of tenancies.
+The Tribunal isn't a last resort. It's the mechanism. It's what exists precisely for the situations renters find themselves in: a landlord who knows the rules and chooses not to follow them, or one who's been ignoring written requests since autumn. A $29 application and a folder of screenshots have changed thousands of tenancies.
 
 If your landlord hasn't acted after you've asked in writing, this is the next step.
 
