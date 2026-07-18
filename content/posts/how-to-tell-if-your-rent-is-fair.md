@@ -6,6 +6,7 @@ description: "Is your Auckland rent actually fair? Use Tenancy Services market d
 tags: ["auckland", "rent", "fair-rent", "tenant-rights", "healthy-homes", "renting-tips", "nz"]
 author: "RentRant Team"
 topic: "renting-tips"
+brief: "asking-for-rent-reduction-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
