@@ -1,8 +1,8 @@
 ---
-title: "Does Your NZ Rental Need an Extractor Fan? Yes."
+title: "No Extractor Fan in Your Rental? What NZ Law Requires"
 date: 2026-05-09T09:00:00+12:00
 draft: false
-description: "NZ rental ventilation rules: kitchens and bathrooms need extractor fans vented outside. Recirculating range hoods and HRV systems don't count."
+description: "NZ kitchens and bathrooms need extractor fans vented outside under the healthy homes standards. Recirculating range hoods and HRV systems don't count."
 tags: ["healthy-homes", "tenant-rights", "brief"]
 author: "RentRant Team"
 topic: "healthy-homes"

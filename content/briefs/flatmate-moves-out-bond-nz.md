@@ -1,5 +1,5 @@
 ---
-title: "What Happens to My Bond If My Flatmate Moves Out NZ?"
+title: "Flatmate Moved Out? What Happens to Your Bond (NZ)"
 date: 2026-05-24T09:05:00+12:00
 draft: false
 description: "When a flatmate leaves, Tenancy Services doesn't split the bond — it stays lodged until the tenancy ends. Here's how the change of tenant process works."

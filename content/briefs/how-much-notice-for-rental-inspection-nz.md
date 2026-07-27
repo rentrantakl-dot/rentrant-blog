@@ -1,8 +1,8 @@
 ---
-title: "How Much Notice for a Rental Inspection in NZ?"
+title: "Rental Inspection NZ: How Much Notice Do They Have to Give?"
 date: 2026-05-17T10:00:00+13:00
 draft: false
-description: "NZ landlords must give at least 48 hours and no more than 14 days written notice for a rental inspection — and inspections can't happen more than once every 4 weeks."
+description: "Your NZ landlord must give between 48 hours and 14 days' written notice before a rental inspection — and can't inspect more than once every four weeks."
 tags: ["tenant-rights", "guide"]
 author: "RentRant Team"
 topic: "tenant-rights"

@@ -1,8 +1,8 @@
 ---
-title: "Can a Landlord Enter Without Notice in NZ?"
+title: "Landlord Entered Without Notice? What You Can Do (NZ)"
 date: 2026-04-11T09:00:00+13:00
 draft: false
-description: "No — NZ landlords must give written notice before entering: at least 48 hours for an inspection, 24 hours for repairs. Only a genuine emergency skips notice."
+description: "NZ landlords must give written notice before entering — 48 hours for inspections, 24 for repairs. If yours didn't, here's exactly what you can do about it."
 tags: ["tenant-rights", "guide"]
 author: "RentRant Team"
 topic: "tenant-rights"

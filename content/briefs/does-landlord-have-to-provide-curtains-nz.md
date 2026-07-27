@@ -1,8 +1,8 @@
 ---
-title: "Does My Landlord Have to Provide Curtains in NZ?"
+title: "No Curtains in Your NZ Rental? Here's Where You Stand"
 date: 2026-04-25T11:00:00+13:00
 draft: false
-description: "NZ landlords don't have to install curtains — but if curtains are listed in your tenancy agreement, they must be maintained. Here's where the line sits."
+description: "NZ landlords don't have to install curtains — but if they're listed in your tenancy agreement, they must be maintained. Here's exactly where the line sits."
 tags: ["healthy-homes", "tenant-rights", "brief"]
 author: "RentRant Team"
 topic: "healthy-homes"

@@ -1,5 +1,5 @@
 ---
-title: "Fair Wear and Tear in NZ Rentals — What Your Landlord Can Charge For"
+title: "What NZ Landlords Can't Deduct as Fair Wear and Tear"
 date: 2026-06-28T13:00:00+12:00
 draft: false
 description: "Arguing over the bond in NZ? Know the fair wear and tear standard, what landlords can actually deduct, and how the Tenancy Tribunal decides disputed cases."

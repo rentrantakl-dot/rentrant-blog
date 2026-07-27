@@ -1,8 +1,8 @@
 ---
-title: "Can My Landlord Increase the Rent Mid-Tenancy in NZ?"
+title: "Can My Landlord Raise the Rent Mid-Tenancy? NZ Rules 2026"
 date: 2026-04-25T12:00:00+13:00
 draft: false
-description: "NZ landlords can only raise rent once every 12 months with 60 days' written notice. Fixed-term increases need a contract clause. Here's how it works."
+description: "Once every 12 months, with 60 days' written notice — that's the NZ limit on rent increases. A rise outside those rules doesn't stand. Here's how to check yours."
 tags: ["rent", "tenant-rights", "brief"]
 author: "RentRant Team"
 topic: "tenant-rights"

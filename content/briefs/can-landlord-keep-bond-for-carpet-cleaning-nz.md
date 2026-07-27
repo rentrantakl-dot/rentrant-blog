@@ -1,8 +1,8 @@
 ---
-title: "Can My Landlord Keep My Bond for Carpet Cleaning in NZ?"
+title: "Bond Deducted for Carpet Cleaning? Usually Not Allowed (NZ)"
 date: 2026-04-04T09:00:00+13:00
 draft: false
-description: "In most cases, no. NZ landlords can only deduct for damage beyond fair wear and tear — not routine cleaning from normal use."
+description: "In most cases your NZ landlord can't. Bond deductions only cover damage beyond fair wear and tear — not the routine cleaning that comes with living there."
 tags: ["bond", "tenant-rights", "guide"]
 author: "RentRant Team"
 topic: "tenant-rights"

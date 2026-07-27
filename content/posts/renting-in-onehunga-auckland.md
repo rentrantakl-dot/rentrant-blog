@@ -1,8 +1,8 @@
 ---
-title: "Renting in Onehunga — What Tenants Should Know"
+title: "Renting in Onehunga: Rents, Transport and the Catch"
 date: 2026-02-28T09:30:00+13:00
 draft: false
-description: "An honest tenant's guide to renting in Onehunga, Auckland — median rents, transport options, housing stock, and why this mid-range suburb is worth considering."
+description: "An honest tenant's guide to Onehunga, Auckland — median rents, transport links, housing stock, and the trade-offs nobody mentions before you sign a thing."
 tags: ["auckland", "suburbs", "onehunga", "rent", "guide"]
 author: "RentRant Team"
 topic: "suburb-guide"

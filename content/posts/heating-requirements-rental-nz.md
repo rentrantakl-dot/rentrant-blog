@@ -1,8 +1,8 @@
 ---
-title: "Heating Requirements for NZ Rentals: The Healthy Homes Standard"
+title: "No Proper Heating in Your Rental? The NZ 18°C Rule"
 date: 2026-03-07T10:30:00+13:00
 draft: false
-description: "NZ rental heating requirements explained: the 18°C rule, what heaters count, sizing requirements, and what to do if your Auckland rental doesn't comply."
+description: "NZ rental heating rules explained: the 18°C standard, which heaters count, sizing requirements, and what to do if your landlord's heating doesn't measure up."
 tags: ["healthy-homes", "heating", "tenant-rights", "guide", "auckland"]
 author: "RentRant Team"
 topic: "healthy-homes"
