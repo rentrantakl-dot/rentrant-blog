@@ -159,7 +159,7 @@ In either case: document the departing flatmate's room condition with photos on 
 
 The Tenancy Tribunal handles disputes between tenants and landlords. It does not handle disputes between flatmates.
 
-If a flatmate takes your bond contribution and refuses to return it, won't pay their share of a bill, or causes damage and won't contribute to repairs — the venue is the [Disputes Tribunal](https://www.disputestribunal.govt.nz/). Filing costs $45 for claims up to $2,000, $90 for claims up to $30,000. The hearings are typically faster than Tenancy Tribunal proceedings.
+If a flatmate takes your bond contribution and refuses to return it, won't pay their share of a bill, or causes damage and won't contribute to repairs — the venue is the [Disputes Tribunal](https://www.disputestribunal.govt.nz/), which since 24 January 2026 hears claims up to $60,000. [Filing fees](https://www.disputestribunal.govt.nz/forms-and-fees/) are $62 for claims under $2,000, $124 from $2,000 to under $5,000, and $248 from $5,000 to $30,000. The hearings are typically faster than Tenancy Tribunal proceedings.
 
 > **Key point:** The flatmate agreement doesn't need to be formally witnessed to be enforceable as a contract. A signed written document outlining what each party agreed to is enough for the Disputes Tribunal to work with. "We agreed verbally" is much harder to act on.
 

@@ -7,10 +7,11 @@ tags: ["tenant-rights", "guide", "repairs", "auckland", "emergency"]
 author: "RentRant Team"
 topic: "tenant-rights"
 app_link: "https://rentrant.nz/locations/search"
+brief: "stop-paying-rent-flat-flooded-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-07-27"
+  last_verified: "2026-08-02"
   content_type: "guide"
   primary_law: "Residential Tenancies Act 1986, section 59"
   facts:

@@ -7,10 +7,11 @@ tags: ["flatting", "guide", "tenant-rights", "rent", "auckland"]
 author: "RentRant Team"
 topic: "tenant-rights"
 app_link: "https://rentrant.nz/locations/search"
+brief: "flatmate-wont-pay-rent-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-07-27"
+  last_verified: "2026-08-02"
   content_type: "guide"
   primary_law: "Residential Tenancies Act 1986 (and its limits); Disputes Tribunal Act 1988"
   facts:

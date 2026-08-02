@@ -7,10 +7,11 @@ tags: ["tenant-rights", "guide", "rent", "tenancy-tribunal"]
 author: "RentRant Team"
 topic: "tenant-rights"
 app_link: "https://rentrant.nz/locations/search"
+brief: "how-far-behind-on-rent-before-eviction-nz"
 
 key_facts:
   jurisdiction: "New Zealand"
-  last_verified: "2026-07-27"
+  last_verified: "2026-08-02"
   content_type: "guide"
   primary_law: "Residential Tenancies Act 1986, section 55"
   facts:

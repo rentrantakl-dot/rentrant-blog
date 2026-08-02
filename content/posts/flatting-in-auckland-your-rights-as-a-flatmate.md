@@ -84,7 +84,7 @@ This has several consequences:
 
 **It's not verified or protected.** You can't check your "bond" status on the Tenancy Services website because it's not registered there. You're relying on the head tenant's good faith to keep it separate and return it when you leave.
 
-**Disputes go to the Disputes Tribunal.** If the head tenant refuses to return your bond at the end of your stay, the Tenancy Tribunal has no jurisdiction over this. Your dispute is between you and the head tenant — a private civil matter — and it goes to the [Disputes Tribunal](https://www.disputestribunal.govt.nz/), which handles civil claims between private parties up to $30,000 (or $50,000 with mutual agreement).
+**Disputes go to the Disputes Tribunal.** If the head tenant refuses to return your bond at the end of your stay, the Tenancy Tribunal has no jurisdiction over this. Your dispute is between you and the head tenant — a private civil matter — and it goes to the [Disputes Tribunal](https://www.disputestribunal.govt.nz/), which handles civil claims between private parties up to $60,000 — a limit that [rose from $30,000 on 24 January 2026](https://www.justice.govt.nz/about/news-and-media/news/disputes-tribunal-financial-jurisdiction-set-to-increase/).
 
 **Claims require evidence.** To recover your bond at the Disputes Tribunal, you need to show you paid it, the amount, and that the head tenant has no legitimate basis to withhold it. A written record of payment — a bank transfer with a description, a receipt, or an agreed flatmate document — is essential.
 

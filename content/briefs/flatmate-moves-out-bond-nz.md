@@ -68,7 +68,7 @@ For the full picture on flatmate vs tenant rights, see [Flatting in Auckland: Yo
 
 ## If the Replacement Won't Pay Up
 
-If the incoming flatmate refuses to pay the outgoing one for the bond share, it's a civil debt — not a Tenancy Tribunal matter (the Tribunal only handles disputes between landlords and tenants, not flatmate-to-flatmate). Your option is the [Disputes Tribunal](https://www.disputestribunal.govt.nz/), which handles claims under $30,000 without a lawyer.
+If the incoming flatmate refuses to pay the outgoing one for the bond share, it's a civil debt — not a Tenancy Tribunal matter (the Tribunal only handles disputes between landlords and tenants, not flatmate-to-flatmate). Your option is the [Disputes Tribunal](https://www.disputestribunal.govt.nz/), which handles claims up to $60,000 without a lawyer.
 
 > **Key point:** Don't move out until the Change of Tenant form is signed and the bond share is in your account. Once you're off the tenancy without paperwork, getting your share back is much harder.
 
